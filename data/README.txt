@@ -9,7 +9,7 @@ Use:
 
 We will be using the job categories , and possibly job description to join in market data. This data set is a central piece to our project. 
 
-2.
+2. We 2014
 
 Desciption:
 
@@ -17,7 +17,9 @@ The Modeled Wage Estimates (MWE) provide annual estimates of average hourly wage
 
 From: https://www.bls.gov/mwe/
  
-We may use average hourly wages for occupations by selected job characteristics. Time range from 2014-2019.
+
 
 
 Use:
+
+We may use average hourly wages for occupations by selected job characteristics. Time range from 2014-2019.
