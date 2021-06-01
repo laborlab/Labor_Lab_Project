@@ -31,4 +31,33 @@ Use:
 
 Most likely won't use because it doesn't include labor costs. 
 
-4. 
+4. Contract Details (2).csv
+
+Description:
+
+Covers contract total pricing information. Contains location and description of the contract. 
+
+Use: 
+
+Most likely won't use because it doesn't include labor costs. 
+
+5. 
+
+Description:
+
+
+Use: 
+
+6. 
+
+Description:
+
+
+Use: 
+
+7. 
+
+Description:
+
+
+Use: 
