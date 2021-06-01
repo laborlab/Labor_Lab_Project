@@ -17,9 +17,18 @@ The Modeled Wage Estimates (MWE) provide annual estimates of average hourly wage
 
 From: https://www.bls.gov/mwe/
  
-
-
-
 Use:
 
 We may use average hourly wages for occupations by selected job characteristics. Time range from 2014-2019.
+
+3. Competition.csv
+
+Description:
+
+Covers contract total pricing information. 
+
+Use: 
+
+Most likely won't use because it doesn't include labor costs. 
+
+4. 
