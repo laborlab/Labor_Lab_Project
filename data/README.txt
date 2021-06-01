@@ -41,12 +41,15 @@ Use:
 
 Most likely won't use because it doesn't include labor costs. 
 
-5. 
+5. Contractor Search.csv
 
 Description:
 
+A list of vendors and the price of contracts won. Total actions? included.
 
 Use: 
+
+Most likely won't use. 
 
 6. 
 
