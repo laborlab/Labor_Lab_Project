@@ -51,12 +51,15 @@ Use:
 
 Most likely won't use. 
 
-6. 
+6. Initial_Input_Set FILLED WITH REQUIREMENTS.xlsx
 
 Description:
 
+Filled in table from the Allwyn doc/GSA labor category information.
 
 Use: 
+
+Will use to find and analyze other datasets.
 
 7. 
 
@@ -64,3 +67,27 @@ Description:
 
 
 Use: 
+
+8. 
+
+Description:
+
+
+Use: 
+
+
+9. 
+
+Description:
+
+
+Use: 
+
+
+10. 
+
+Description:
+
+
+Use: 
+
