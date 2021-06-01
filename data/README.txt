@@ -61,28 +61,35 @@ Use:
 
 Will use to find and analyze other datasets.
 
-7. 
+7. Salaries2011_web.csv
 
 Description:
 
+Position, salary, date hired, and names for DC public employees.
 
 Use: 
 
-8. 
+Use for building our predictive model (historical data).
+
+8. bls website occupation and wages.xlsx
 
 Description:
 
+Position and salary in math and IT areas. 
 
 Use: 
 
+May be able to use for modeling (historical data).
 
-9. 
+9. pricing_results.txt
 
 Description:
 
+GSA data including Minimum Education Level, Minimum Years Experience, Worksite.
 
 Use: 
 
+May be able to use for modeling. 
 
 10. 
 
@@ -91,3 +98,24 @@ Description:
 
 Use: 
 
+
+11. 
+
+Description:
+
+
+Use: 
+
+12. 
+
+Description:
+
+
+Use: 
+
+13. 
+
+Description:
+
+
+Use: 
