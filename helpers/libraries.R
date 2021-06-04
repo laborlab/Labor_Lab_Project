@@ -7,3 +7,9 @@ library(stringdist)
 library(stringr)
 library(RWeka)
 library(tm)
+
+
+df_loader<- function(df,x){
+  df <-list_data$x
+  return(df)
+  }
