@@ -1,0 +1,138 @@
+---
+title: "Natural Language Processing Research"
+author: "Team Labor Lab"
+date: "5/30/2021"
+output:
+  html_document:
+    code_folding: hide
+    theme: cerulean
+    toc: yes
+  html_notebook:
+    code_folding: hide
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  word_document:
+    toc: yes
+    toc_depth: '4'
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(stringdist)
+```
+
+```{r, include=FALSE}
+source("C:/Users/willi/OneDrive/Desktop/Labor_Lab_Project/source/Loading_data.R")
+```
+
+
+## Analytical Methods And Logic
+
+### Problem Conext 
+
+Allywn has provided initial input set for this project. This is a table that contains labor category, description, number of years, and location. These inputs will be a central piece to our project. The first input, “labor category” is just the job tittle for which we are trying to predict market rates(wage) in the next couple of years. This will be our primary variable of interest in research. Second, we have “description”. This is an extensive description of each of the job categories. For some job description Allwyn has also provided detailed overviews of the skillset required for some of the labor categories. This is a listing of, description and responsibilities, soft and technical skillsets, degree requirements, and experience requirements. Description and responsibilities, soft and technical skillsets will probably be a secondary variable of interest, while all the other data points above will be the primary focus of our research.
+
+### Reseach Focus
+
+Job category will be a primary subject of our research. For all the job category levels, we will need to look through external data sources for all available matches. For the datasets that are viable we will be confronted with a three-scenario problem for each job title: 1) The strings comparison between Allwyn job categories and the corresponding external job titles are exact matches.  2) The string comparison may not yield identical results; however, the subject pairs are the same jobs. 3) The string comparison yield different enough results that the subject pairs are different jobs.
+Our research will be exploring analytical method and logical to handle and categorize the scenarios in the previous paragraph.  First, we will explore fuzzy matching techniques. These are methods that are used to find observations in datasets that relate to the same object in other databases, websites, and data sources. These techniques are helpful because the matches can be less then an 100% match, thus the word “fuzzy”. These methods can compare similarity at the character, word, and string level.
+
+#### Edit Distance 
+
+This is the simplest approach to compare similarity between two strings. This approach is comprised of libraries and functions that return the minimum operations required one string to the other one. Operations can be defined as deletion, addition, transposition, substation of characters. 
+
+##### **Insertion of a single symbol**
+
+Given that we have a=vu , inserting the symbol x produces a=xvu. This can be denoted ϵ→x, with ϵ corresponding to an empty string.
+
+##### **Deletion of a single symbol**
+
+Given we have a  above, deleting a character v to produces xu  can be noted as v→ϵ with ϵ corresponding to an empty string. This operation yields  a=xu .
+
+##### **Substitution of a single symbol**
+
+Given that we have a=xu above, substitution of a character x for different character v produces vu This can be denoted as  v≠x,  v→x .
+
+##### **Transposition of two symbols** 
+
+Some algorithms also incorporate the transportation of two characters has edit distances. Given that we have a=xu .
+
+
+#### Algorithms And Metrics
+
+The list below contains commonly used edit distance algorithm/metrics:
+
+**Levenstein distance**  
+
+The Levenstein distance between Information Technology Manager I and Information Technology Manager II is:
+```{r cars, results= TRUE, echo=TRUE}
+job_category_1 <- "Information Technology Manager I"
+job_category_2 <- "Information Technology Manager II"
+
+stringdist::stringdist(job_category_1,job_category_2, method = "lv")
+```
+
+**Damerau-Levenshtein distance**
+
+Takes into account transposition.
+
+The Damerau-Levenstein distance between Information Technology Manager I and Information Technology aMnager II is:
+```{r, results= TRUE, echo=TRUE}
+job_category_1 <- "Information Technology Manager I"
+job_category_2 <- "Information Technology aMnager II"
+
+stringdist::stringdist(job_category_1,job_category_2, method = "dl")
+```
+
+Compared with The Levenstein distance:
+```{r, results= TRUE, echo=TRUE}
+job_category_1 <- "Information Technology Manager I"
+job_category_2 <- "Information Technology aMnager II"
+
+stringdist::stringdist(job_category_1,job_category_2, method = "lv")
+```
+
+
+### Data
+
+#### Overview Of First Dataset 
+
+#### 2010 Data
+```{r}
+quick_table(df_MSA_2010,"Year 2010")
+quick_table_salary(df_MSA_2015,"Salaries Year 2010")
+```
+
+#### 2011 Data
+```{r}
+quick_table(df_MSA_2011,"Year 2011")
+quick_table_salary(df_MSA_2011,"Salaries Year 2011")
+```
+
+#### 2012 Data
+```{r}
+quick_table(df_MSA_2012,"Year 2012")
+quick_table_salary(df_MSA_2015,"Salaries Year 2012")
+```
+
+
+#### 2013 Data
+```{r}
+quick_table(df_MSA_2013,"Year 2013")
+quick_table_salary(df_MSA_2015,"Salaries Year 2013")
+```
+
+
+#### 2015 Data
+```{r}
+quick_table(df_MSA_2015,"Year 2015")
+quick_table_salary(df_MSA_2015,"Salaries Year 2015")
+```
+

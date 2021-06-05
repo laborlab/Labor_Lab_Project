@@ -47,6 +47,21 @@ quick_table <- function(data, year){
 }
 
 
+quick_table_salary <- function(data, year){
+  
+  d <-data %>%
+    clean_names(case="all_caps") %>%
+    filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
+    filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
+    filter(str_detect(AREA_NAME,'Washington-Arlington')) %>%
+    select(OCC_TITLE,H_MEAN,A_MEAN) %>%
+    datatable(colnames = c('Title', 'Hourly Wage', 'Annual Wage'),caption = year)
+  
+  return(d)   
+}
+
+
+
 
 
  
