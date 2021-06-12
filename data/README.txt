@@ -91,12 +91,12 @@ Use:
 
 May be able to use for modeling. 
 
-10. 
+10. Occupation data 
 
-Description:
+Description: include job title and job description, it has 1016 records.
 
 
-Use: 
+Use: match the job title by the similarity between job description.
 
 
 11. 
