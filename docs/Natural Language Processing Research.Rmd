@@ -107,32 +107,43 @@ stringdist::stringdist(job_category_1,job_category_2, method = "lv")
 #### 2010 Data
 ```{r}
 quick_table(df_MSA_2010,"Year 2010")
-quick_table_salary(df_MSA_2015,"Salaries Year 2010")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2010")
 ```
 
 #### 2011 Data
 ```{r}
 quick_table(df_MSA_2011,"Year 2011")
-quick_table_salary(df_MSA_2011,"Salaries Year 2011")
+#quick_table_salary(df_MSA_2011,"Salaries Year 2011")
 ```
 
 #### 2012 Data
 ```{r}
 quick_table(df_MSA_2012,"Year 2012")
-quick_table_salary(df_MSA_2015,"Salaries Year 2012")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2012")
 ```
 
 
 #### 2013 Data
 ```{r}
 quick_table(df_MSA_2013,"Year 2013")
-quick_table_salary(df_MSA_2015,"Salaries Year 2013")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2013")
 ```
 
+#### 2014 Data
+```{r}
+quick_table(df_MSA_2014,"Year 2014")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2013")
+```
 
 #### 2015 Data
 ```{r}
 quick_table(df_MSA_2015,"Year 2015")
-quick_table_salary(df_MSA_2015,"Salaries Year 2015")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2015")
+```
+
+#### 2016 Data
+```{r}
+quick_table(df_MSA_2016,"Year 2016")
+#quick_table_salary(df_MSA_2015,"Salaries Year 2013")
 ```
 

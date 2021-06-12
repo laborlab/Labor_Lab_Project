@@ -40,8 +40,8 @@ quick_table <- function(data, year){
     filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
     filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
     filter(str_detect(AREA_NAME,'Washington-Arlington')) %>%
-    select(OCC_TITLE,AREA_NAME,TOT_EMP) %>%
-    datatable(colnames = c('Title', 'Area', 'Jobs'),caption = year)
+    select(OCC_TITLE,H_MEAN,A_MEAN, TOT_EMP) %>%
+    datatable(colnames = c('Title','Hourly Wage' ,'Annual Wage', 'Jobs'),caption = year)
     
  return(d)   
 }

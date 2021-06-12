@@ -28,7 +28,11 @@ df_MSA_2012 <-list_data$MSA_M2012_dl_1_AK_IN.csv
 
 df_MSA_2013 <-list_data$MSA_M2013_dl_1_AK_IN.csv
 
+df_MSA_2014 <-list_data$MSA_M2014_dl.csv
+
 df_MSA_2015 <-list_data$aMSA_M2015_dl.csv
+
+df_MSA_2016 <-list_data$MSA_M2016_dl.csv
 
 df_MSA_2019 <-list_data$MSA_M2019_dl.csv
 
@@ -37,3 +41,5 @@ rm(list_data)
 #df_MSA_2015_clean <-clean_data(df_MSA_2015)
 
 #quick_table(df_MSA_2015)
+
+quick_table_salary(df_MSA_2015,"2015")
