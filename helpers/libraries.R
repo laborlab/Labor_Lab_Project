@@ -11,6 +11,7 @@ library(tm)
 library(DT)
 library(janitor)
 library(purrr)
+library(data.table)
 
 
 # df_loader<- function(df,x){
@@ -36,13 +37,7 @@ clean_data <- function(data){
 clean_up <- function(data){
   
   e <-data %>%
-    clean_names(case="all_caps") %>%
-    filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
-    filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
-    filter(str_detect(AREA_NAME,'Washington-Arlington')) %>%
-    select(OCC_TITLE,H_MEAN,A_MEAN, TOT_EMP) %>%
-    filter(str_detect(AREA_NAME,'Washington-Arlington'))
- 
+    clean_names(case="all_caps")
  return(e)   
 }
 
