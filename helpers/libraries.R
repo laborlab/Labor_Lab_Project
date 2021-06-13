@@ -10,7 +10,7 @@ library(stringr)
 library(tm)
 library(DT)
 library(janitor)
-
+library(purrr)
 
 
 # df_loader<- function(df,x){
@@ -33,17 +33,17 @@ clean_data <- function(data){
   
 }
 
-quick_table <- function(data, year){
+clean_up <- function(data){
   
-  d <-data %>%
+  e <-data %>%
     clean_names(case="all_caps") %>%
     filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
     filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
     filter(str_detect(AREA_NAME,'Washington-Arlington')) %>%
     select(OCC_TITLE,H_MEAN,A_MEAN, TOT_EMP) %>%
-    datatable(colnames = c('Title','Hourly Wage' ,'Annual Wage', 'Jobs'),caption = year)
-    
- return(d)   
+    filter(str_detect(AREA_NAME,'Washington-Arlington'))
+ 
+ return(e)   
 }
 
 

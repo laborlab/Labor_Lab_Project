@@ -38,8 +38,21 @@ df_MSA_2019 <-list_data$MSA_M2019_dl.csv
 
 rm(list_data)
 
+
+Jobs<- c("Information","Computer")
+
+
 #df_MSA_2015_clean <-clean_data(df_MSA_2015)
 
-#quick_table(df_MSA_2015)
+e<-quick_table(df_MSA_2015)
 
 quick_table_salary(df_MSA_2015,"2015")
+
+t<-map(df_MSA_2010,.f = clean_up)
+
+t <-clean_up(df_MSA_2010)
+
+Jobs<- c("Information","Computer")
+ 
+df=df_MSA_2015%>%
+  filter(str_detect(OCC_TITLE, paste(Jobs, collapse = "|")))
