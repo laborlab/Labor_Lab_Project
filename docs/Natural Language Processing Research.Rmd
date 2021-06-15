@@ -168,7 +168,7 @@ quick_table_salary_all(df_final,"ALL")
 
 ##### Washington D.C Area
 
-Once we filter the data for just the D.C area the data becomes scares. This might hinder our ability to build a predictive model.
+Once we filter the data for just the D.C area the data becomes scarce. This might hinder our ability to build a predictive model.
 
 ```{r}
 df_final_dc %>%
