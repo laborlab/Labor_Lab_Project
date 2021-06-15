@@ -166,6 +166,6 @@ quick_table_salary_all(df_final,"ALL")
 #### Washington D.C Area
 ```{r}
 df_final_dc %>%
-  datatable(colnames = c('Title', 'Hourly Wage', 'Annual Wage'),caption = "All DC Area")
+  datatable(colnames = c("Location",'Title', 'Hourly Wage', 'Annual Wage'),caption = "All DC Area")
 ```
 

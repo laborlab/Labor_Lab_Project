@@ -138,6 +138,6 @@ df_final <- df_MSA_2010 %>%
    mutate(H_MEAN = replace(H_MEAN , H_MEAN=='*',"NA")) %>%
    mutate(A_MEAN = replace(A_MEAN , A_MEAN=='*',"NA")) %>%
    filter(H_MEAN!='NA' ) %>%
-   select(OCC_TITLE,H_MEAN,A_MEAN)
+   select(PRIM_STATE,OCC_TITLE,H_MEAN,A_MEAN)
  
  
