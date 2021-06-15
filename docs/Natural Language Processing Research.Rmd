@@ -152,7 +152,10 @@ quick_table_salary(df_MSA_2016,"Year 2016")
 #### All The U.S States
 
 
-#### All The U.S Missing Data
+##### All The U.S Missing Data
+
+There is a low percentage of missing values for hourly and annual wages.
+
 ```{r}
 missing_values_table %>%
   datatable(colnames = c("Missing Values Count","Total Counts" ,"% Missing Values"),caption ="Missing Salary",rownames = c("Hourly Mean", "Annual Mean")) %>%formatPercentage( "Percent_Missing_Values",digits = 2)
@@ -163,9 +166,12 @@ missing_values_table %>%
 quick_table_salary_all(df_final,"ALL")
 ```
 
-#### Washington D.C Area
+##### Washington D.C Area
+
+Once we filter the data for just the D.C area the data becomes scares. This might hinder our ability to build a predictive model.
+
 ```{r}
 df_final_dc %>%
-  datatable(colnames = c("Location",'Title', 'Hourly Wage', 'Annual Wage'),caption = "All DC Area")
+  datatable(colnames = c("Location",'Title', 'Hourly Wage', 'Annual Wage'),caption = "DC Area")
 ```
 
