@@ -77,19 +77,67 @@ df_final <- df_MSA_2010 %>%
   filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
   filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
   filter(str_detect(OCC_TITLE, paste(Jobs, collapse = "|"))) %>%
-  filter(H_MEAN!='*' ) #%>%
+   mutate(H_MEAN = replace(H_MEAN , H_MEAN=='*',"NA")) %>%
+  mutate(A_MEAN = replace(A_MEAN , A_MEAN=='*',"NA")) %>%
+  filter(H_MEAN!='NA' ) 
+  
+  #%>%
   #mutate(across(c(11,12)), is.numeric)
 
-df_final$H_MEAN<- as.numeric(df_final$H_MEAN)
-df_final$A_MEAN<- as.numeric(df_final$A_MEAN)
+# df_final$H_MEAN<- as.numeric(df_final$H_MEAN)
+# df_final$A_MEAN<- as.numeric(df_final$A_MEAN)
+# 
+# 
+#  ggplot(df_final,aes(x=H_MEAN) )+ geom_histogram() +
+#    facet_grid(rows="Year",cols=NULL)
+#  
+#  ggplot(df_final,aes(x=Year, y=H_MEAN))+ geom_line()
+#  
+#  ggplot(df_final,aes(x=Year, y=H_MEAN) )+ geom_line()
+# 
+#  
+#  #ggplot(df_final,aes(x=A_MEAN),stat_bin(30))+ geom_histogram()
 
-
- ggplot(df_final,aes(x=H_MEAN) )+ geom_histogram() +
-   facet_grid(rows="Year",cols=NULL)
  
- ggplot(df_final,aes(x=Year, y=H_MEAN))+ geom_line()
  
- ggplot(df_final,aes(x=Year, y=H_MEAN) )+ geom_line()
+ #############
 
  
- #ggplot(df_final,aes(x=A_MEAN),stat_bin(30))+ geom_histogram()
+ 
+ 
+ df_missing <- df_MSA_2010 %>%
+   bind_rows(df_MSA_2011,df_MSA_2012,df_MSA_2013,
+             df_MSA_2014,df_MSA_2015, df_MSA_2016) %>%
+   filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
+   filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
+   filter(str_detect(OCC_TITLE, paste(Jobs, collapse = "|"))) %>%
+   mutate(H_MEAN = replace(H_MEAN , H_MEAN=='*',"NA")) %>%
+   mutate(A_MEAN = replace(A_MEAN , A_MEAN=='*',"NA")) %>%
+   select(H_MEAN,A_MEAN)
+ 
+ 
+ # df_missing$H_MEAN=="NA"
+ 
+ n=nrow(df_missing)
+ 
+ missing_values_table=sapply(df_missing, function(x) sum(x=="NA"))
+ 
+ missing_values_table=sort(missing_values_table, decreasing= TRUE) 
+ 
+ missing_values_table=as.data.frame(missing_values_table) %>%
+   mutate(Total_Count=n,Percent_Missing_Values=missing_values_table/n)
+ 
+ 
+ df_final_dc <- df_MSA_2010 %>%
+   bind_rows(df_MSA_2011,df_MSA_2012,df_MSA_2013,
+             df_MSA_2014,df_MSA_2015, df_MSA_2016) %>%
+   filter(!str_detect(OCC_TITLE,'All Occupations'))%>%
+   filter(!str_detect(OCC_TITLE,'Management Occupations')) %>%
+   filter(str_detect(AREA_NAME,'Washington-Arlington')) %>%
+   filter(str_detect(OCC_TITLE, paste(Jobs, collapse = "|"))) %>%
+   mutate(H_MEAN = replace(H_MEAN , H_MEAN=='*',"NA")) %>%
+   mutate(A_MEAN = replace(A_MEAN , A_MEAN=='*',"NA")) %>%
+   filter(H_MEAN!='NA' ) %>%
+   select(OCC_TITLE,H_MEAN,A_MEAN)
+ 
+ 

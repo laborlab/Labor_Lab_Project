@@ -56,6 +56,17 @@ quick_table_salary <- function(data, year){
 }
 
 
+quick_table_salary_all <- function(data, year){
+  
+  f <- data %>%
+    select(OCC_TITLE,H_MEAN,A_MEAN) %>%
+    datatable(colnames = c('Title', 'Hourly Wage', 'Annual Wage'),caption = year)
+  
+  return(f)   
+}
+
+
+
 
 
 
