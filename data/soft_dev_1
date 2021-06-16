@@ -1,0 +1,659 @@
+,job_title,company,location,salary,description,counts,city
+0,Web Developer,University of Maryland,"College Park, MD 20742",None,"Vaccine Protocol
+The University of Maryland has made the safety of our students, faculty and staff, and our surrounding communities a top priority. As part of that commitment, the University System of Maryland (USM) recently announced that students, faculty, and staff on USM campuses this fall, including UMD, are required to be vaccinated against COVID. As a prospective and/or a new employee at UMD, you will be required to comply with the University’s vaccination protocol. Proof of full vaccination will be required before the start of employment in order to work at any University of Maryland location. Prospective or new employees may seek a medical or religious exemption to the vaccination requirement at return.umd.edu and must have an approved exemption prior to the start of their employment.",12928,Washington
+1,Database Developer (PL/SQL) (W2 Only),BTree Solutions Inc,"Washington, DC",None,"Database Developer (PL/SQL)Location: Washington DC (Initial Remote)CPT, OPT, H4EAD, GC, USC (W2 Only)Skills:  They need someone strong in PL/SQL, Queries, SQL and Grid ControlJob Types: Full-time, ContractSchedule:8 hour shiftMonday to Friday",12928,Washington
+2,Software Developer (Junior),"Edgewater Federal Solutions, Inc.","Germantown, MD",None,"Overview:
+
+Edgewater Federal Solutions is a privately held government contracting firm located in Frederick, MD. The company was founded in 2002 with the vision of being highly recognized and admired for supporting customer missions through employee empowerment, exceptional services and timely delivery. Edgewater Federal Solutions is ISO 9001, 20000-1, 270001 certified, appraised at CMMI Level 3 Maturity for Development and Services, and has been named in the Top Workplaces in the Greater Washington Area Small Companies for 2018, 2019, and 2020.
+Edgewater Federal Solutions is currently seeking a Software Engineer to provide support to the EHSS AU IT Support contract located in Germantown, MD.
+This position is seeking a talented, professional Software Engineer to join a proficient development team supporting The Department of Energy, in Germantown, MD. Candidate will be developing and enhancing web applications.
+
+Responsibilities:
+
+Responsibilities include:
+Key Tasks and Responsibilities
+Build and maintain efficient, reusable, secure, and reliable code
+Develop effective solutions for data mapping and data translation
+Develop unit tests
+Participate in peer code review and code refactoring as part of development process
+Demonstrated ability to work independently and as part of a team
+
+Qualifications:
+
+What You Need for this Position
+2-3 years of progressive development experience, focused on data-oriented business applications
+Good understanding with the ASP.NET framework, SQL Server, and design/architectural patterns
+BS degree in software/technical based field
+Experience in Frontend frameworks like Angular, Aurelia or React
+Experience with HTML5/JavaScript/CSS/jQuery
+Good experience with C#, Visual Studio, and MS toolsets
+Experience with Visual Studios 2017 or higher
+Excellent English-language oral and written communication skills and interpersonal skills
+Nice to have:
+Experience with Agile methodology, and use of development tools such as GitHub
+Experience with DevOps disciplines and toolsets
+Experience with Internet Information Services (IIS) 7.0 or higher
+It has been and continues to be the policy of Edgewater Federal Solutions to provide equal
+employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, marital status, veteran status, and/or other status protected by applicable law.",12928,Washington
+3,Software Developer - Computer Vision,Kitware,"Arlington, VA 22203 (Ballston-Virginia Square area)",None,"Team Description:
+Our computer vision team is a leader in the creation of cutting-edge algorithms and software for automated image and video analysis. Our solutions embrace deep learning and add measurable value to government agencies, commercial organizations, and academic institutions worldwide. We understand the difficulties in extracting, interpreting, and utilizing information across images, video, metadata, and text, and we recognize the need for robust, affordable solutions. We seek to advance the fields of computer vision and deep learning through research and development and through collaborative projects that build on our open source software platform, such as Kitware Image and Video Exploitation and Retrieval (KWIVER) toolkit.
+About the projects:
+Kitware’s employees have unique opportunities to interact and collaborate directly with customers, visit interesting customer sites, and participate in live field tests and demonstrations. You will have the opportunity to contribute your skills to projects of national and societal importance. Research and Developer Engineers at Kitware also enjoy benefits commonly associated with a position in academia, such as support and encouragement for the publication of novel work.
+
+
+In This Position You Will:
+Contribute your strong programming ability and experience to develop robust solutions for real world problems
+Collaborate with researchers on projects related to machine learning, artificial intelligence and computer vision.
+Required Qualifications:
+Bachelor's degree in Computer Science with relevant project experience outside of an academic setting and/or a Masters degree in Computer Science or relevant subject matter
+Highly proficient programming skills with experience using both C++ and Python specifically
+Knowledge of software development processes/environments including but not limited to Visual Studio, gcc, clang, make, or CMake/CDash
+Ability to develop software for Unix, Linux, MacOS and/or Windows operating systems to large open-source projects and communities
+Due to contractual restrictions, only candidates that are US Persons (citizens, permanent residents, asylees or refugees) will be considered for this position.
+A government security clearance of TS or higher
+Preferred Qualifications:
+Experience using Github or Gitlab for code reviews, documentation, and release management.
+Ability to learn core Amazon Web Services (AWS) such as EC2, EBS volumes, S3, and CloudWatch.
+Ability to learn DevOps tools such as Ansible, Terraform, Chef, Puppet, Vagrant, and Packer.
+Interest and experience in open source software development.
+Company Description
+Kitware collaborates with customers to solve the world’s most complex scientific challenges through customized software solutions. Kitware delivers innovation by focusing on advanced technical computing, state-of-the-art artificial intelligence, and full-spectrum software solutions. Since its founding in 1998, Kitware has developed a reputation for deep customer understanding and technical expertise, honest interactions, and open innovation. We are proud to be a 100% employee-owned company. For additional information, please visit kitware.com. You can also follow us on Twitter, LinkedIn, and Facebook.
+Additional information
+Kitware is proud to be a 100% employee-owned company. Our team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a generous compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks and snacks.
+Kitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law.",12928,Washington
+4,Software Developer,Q9Software,"Germantown, MD 20876",None,"Responsibilities:
+Design, develop, create, test and modify computer applications software and specialized utility programs using MS SCCM, GPO, .Net, WSUS, PXE and Scripting. Analyze user needs, align with data gathered and develop solutions. Travel and/or relocation for short periods to various unanticipated client locations within USA may be required.
+Required Qualifications:
+Bachelor’s degree in Computer Science, Engineering or Information Systems with 1 year of experience in Software Engineer or any IT related occupation is needed.
+Tools/Skills: MS SCCM, GPO, .Net, WSUS, PXE and Scripting.",12928,Washington
+5,Software Engineer,"Dovel Technologies, LLC","Rockville, MD",None,"Overview:
+
+We are currently searching for a Software Engineer to provide support to the National Institutes of Health (NIH). This opportunity is a full-time position with MSC and it is on-site in Rockville, MD.
+
+Duties & Responsibilities:
+Software development, design and architecture
+Write clean, maintainable code, with consideration of appropriate style and industry standards, along with documentation
+Deliver assigned tasks in a timely and efficient manner, and take ownership of the product delivery
+Oversee system administration, including deployments and configuration management
+Work closely with scientific subject matter experts, front-end developers, and stakeholders to ensure a visually appealing, functional, and intuitive software
+Other duties as required
+Requirements:
+Bachelor's or Master's degree in Computer Science or related discipline, or equivalent work experience
+Demonstrate ability to write software, e.g. via a GitHub/GitLab account
+2+ years writing JavaScript in a professional setting
+TypeScript and/or Angular as an advantage
+Ability to use *nix command line
+Experience with version control using Git
+Experience working with APIs, integrating with external web services (REST, XML, JSON) or third-party tools
+Ability to communicate and work with a multi-disciplinary team of developers, analysts, and scientific subject matter experts
+Familiarity with relational and non-relational database concepts
+Experience with CI/CD processes
+Understanding of the Software Development Lifecycle and exposure to Agile or iterative software design practices
+#LI-AA1
+Company Description:
+
+We are a trusted government partner that blends deep domain expertise with advanced technologies to help our customers solve complex problems that improve, protect, and save lives. As a rapidly growing company, we combine entrepreneurial spirit, customer focus, and an outcomes-based approach to support agency missions in health IT, life sciences, public safety, and grants management.
+The Dovel Family of Companies offers employees an opportunity to advance beyond a specific role or contract, we offer a path to develop an enriching career. We believe in empowering a culture of innovation, customer success, and employee growth.
+What you’ll get…
+Time Off! Flexible schedules and company paid holidays allow you to take the time you need.
+Investment in YOU! 401(K) company contributions are yours to keep with no waiting period.
+Choices! Unique healthcare plans to choose from with options like fertility and orthodontia benefits.
+Discovery! With our tuition assistance and training programs, we support your career advancement.
+Tax Savings! Enroll in pre-tax Health or Dependent Care Flexible Spending, HSA with company contributions, parking, and/or transit commuter benefits.
+Support! Working parents and busy professionals – we’ve got you covered with a supportive culture, confidential Employee Assistance Program, and membership to Care.com.
+Perks! Employee discounts, peer recognition programs, company-wide wellness challenges, and fun community events.
+A Voice! A unique culture where you can influence decisions and have your voice heard.
+We are an Equal Opportunity Employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, disability, or veteran status.",12928,Washington
+6,Associate Software Engineer,Mitre Corporation,"McLean, VA",None,"Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
+As part of the Software Engineering & Computing department, you will play a trusted role in helping government sponsors apply life-cycle software engineering methodologies and software development technologies to mission critical systems. Help sponsors to integrate, scale, consolidate and modernize software systems to solve national security problems.
+Minimum Qualifications:
+BS or MS degree in Computer Science, Software Engineering or equivalent.
+Required Qualifications:
+BS or MS degree in Computer Science, Software Engineering or equivalent
+Preferred Qualifications:
+Experience in software design and implementation
+Experience in agile software delivery (e.g., Scrum, XP)
+Fluent in one or more languages (e.g., Python, Ruby, Java, C++ or C#)
+Excellent written and verbal communications skills.
+This requisition requires the following clearance(s):
+Secret
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
+Copyright © 1997-2021, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",12928,Washington
+7,Software Developer/Engineer,ISE Data Systems,"Reston, VA",None,"Software developers/engineers are responsible for the complete life cycle of a new or modified software product, from research and design to implementation, training and support. The skills of software engineers are called upon when operational problems are encountered with computer programs and applications.",12928,Washington
+8,Information Technology Specialist (InfoSec/Customer Support),US Federal Labor Relations Authority,"Washington, DC","$72,750 - $134,798 a year","Duties
+Summary
+The Federal Labor Relations Authority (FLRA) is seeking a highly motivated IT Infosec/customersupport Specialist to join the staff of the Information Resources Management Division (IRMD) in the Office of the Executive Director. This position offers challenging, unique, and exciting opportunities for an eager individual.
+Responsibilities
+The incumbent works under the direct supervision of the Chief Information Officer and will:
+
+Serves as a technical expert and focal point for the installation and configuration of hardware and software on personal computers and mobile devices. Develops, modifies, and tests security and upkeep strategies for assigned systems.
+Serves as a systems and security administrator responsible for planning, coordinating, modifying, implementing, and troubleshooting in order to meet customer needs. Work pertains to the administration and security of all systems, including a myriad of associated hardware platforms, software applications and numerous interfaces included in the Local Area Network (LAN).
+Serves as a technical and security expert on multiple operating systems and computer platforms. Determines equipment and communications requirements and interfaces with other systems.
+Analyzes, evaluates, and recommends hardware/software changes to various computer systems. Considers factors such as compatibility with standard systems, conversion or implementation costs, security concerns, and impact on existing equipment. Installs, configures and tests products and equipment being reviewed.
+MAJOR DUTIES:
+Serves as a technical expert and focal point for the installation and configuration of hardware and software on personal computers and mobile devices. Develops, modifies, and tests security and upkeep strategies for assigned systems.
+Serves as a systems and security administrator responsible for planning, coordinating, modifying, implementing, and troubleshooting in order to meet customer needs. Work pertains to the administration and security of all systems, including a myriad of associated hardware platforms, software applications and numerous interfaces included in the Local Area Network (LAN).
+Serves as a technical and security expert on multiple operating systems and computer platforms. Determines equipment and communications requirements and interfaces with other systems.
+Analyzes, evaluates, and recommends hardware/software changes to various computer systems. Considers factors such as compatibility with standard systems, conversion or implementation costs, security concerns, and impact on existing equipment. Installs, configures and tests products and equipment being reviewed.
+Develops guidelines, standard operating procedures (SOPs), bulletins and flyers regarding the operation/use and security of assigned systems, services, and activities. Analyzes policies, regulations, and system provisions governing standard operating systems and provides assistance and advisory services to users.
+Implements systems software changes, operating system releases and maintains the operational status of systems. Coordinates with system developers resolving hardware and/or software malfunctions.
+Reviews and implements local policies regarding system access, network rights, and physical access to systems and equipment.
+Installs and configures workstation or network operating systems, and applications software on a wide range of configurable information systems devices. Configures a wide variety of devices requiring diverse interfaces and device drivers in multiple operating system environments using a wide variety of hardware platforms. Enforces security standards for hardware and software configurations. Configures workstation security parameters. Troubleshoots and corrects software problems to include resolving conflicts between applications, hardware and/or device conflicts, and operating system faults. Detects and removes computer viruses. Restores critical data files. Updates hardware and software architecture databases to reflect installations, turn-ins, and changes in reportable software.
+Performs other duties as assigned.
+
+Travel Required
+Not required
+Supervisory status
+No
+Promotion Potential
+13
+Job family (Series)
+2210 Information Technology Management
+Similar jobs
+Administrators, Computer Systems
+Administrators, Network
+Administrators, Network Security
+Administrators, Wide Area Network
+Computer Systems Administrators
+Network Administrators
+Requirements
+
+Requirements
+Conditions of Employment
+Your resume serves as the basis for qualification determination and must highlight your most relevant and significant work experience and education (if applicable) as it relates to this job opportunity.
+
+Time-In-Grade Requirements - If you are a current or former Federal employee you must have completed one year of time-in-grade at the next lower grade level by the closing date of this announcement, or previously served at the same or higher grade as the position being filled.
+
+Probationary Period - If this is your first year of service in a career-conditional appointment, then you must serve a probationary period.
+Qualifications
+Specialized Experience:
+
+
+GS-11: To be eligible at the GS-11 level in federal service, you must have ONE year of specialized experience equivalent to the GS-09 in federal service.
+GS-12: To be eligible at the GS-12 level in federal service, you must have ONE year of specialized experience equivalent to the GS-011 in federal service.
+GS-13: To be eligible at the GS-13 level in federal service, you must have ONE year of specialized experience equivalent to the GS-12 in federal service.
+
+Individuals must be IT related for each grade level; the experience may be demonstrated by paid or unpaid experience and/or completion of specific, intensive training (for example, IT certification), as appropriate. Individuals must have IT-related experience demonstrating each of the four competencies listed below:
+Technical Problem Solving: The ability to assess and analyze IT issues and problems in order to properly manage a robust IT program.
+Communication: Experience in providing advice and consultation efficiently and effectively
+Customer Service: Works and communicates with clients and customers (e.g., any individuals who use or receive the services or products that your work unit provides, including individuals who work in your agency or in other agencies or organizations outside the Government) to satisfy their expectations. Committed to quality services.
+Attention to Detail: Is thorough when performing work and conscientious about attending to detail.
+or
+
+For the GS-11, you must have a Ph.D. or equivalent doctoral degree; or 3 full years of progressively higher level graduate education leading to a Ph.D. or equivalent doctoral degree.
+
+There is no educational substitution for the GS-12 level.
+
+Note: Undergraduate and graduate degrees must be in computer science, engineering, information science, information systems management, mathematics, operations research, statistics, or technology management or degree that provided a minimum of 24 semester hours in one or more of the fields identified above and required the development or adaptation of applications, systems or networks. (Transcripts Required) Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religions; spiritual; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Career Transition Assistance Plan (CTAP)-The CTAP provides eligible surplus and displaced competitive service employees in the Department of Justice with selection priority over other candidates for competitive service vacancies. If your Department of Justice component has notified you in writing that you are a surplus or displaced employee eligible for CTAP consideration, you may receive selection priority if: 1) this vacancy is within your CTAP eligibility, 2) you apply under the instructions in this announcement, and 3) you are found eligible and qualified for this vacancy. To be eligible and qualified, you must satisfy all eligibility and qualification requirements for the vacant position as outlined in this announcement. You must provide a copy of your written notification of CTAP eligibility with your application. Additional information about CTAP eligibility is at: http://www.opm.gov/policy-data-oversight/workforce-restructuring/employee-guide-to-career-transition/.
+Education
+A transcript must be submitted with your application if you are basing all or part of your qualifications on education.
+
+Note: Only education or degrees recognized by the U.S. Department of Education from accredited colleges, universities, schools, or institutions may be used to qualify for Federal employment. You can verify your education here: http://ope.ed.gov/accreditation/. If you are using foreign education to meet qualification requirements, you must send a Certificate of Foreign Equivalency with your transcript in order to receive credit for that education. For further information, visit: http://www.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html.
+Additional information
+Telework - FLRA supports the use of telework as a way to help attract and retain talented individuals in public service, increase worker productivity, and better prepare the agency to operate during emergencies. This position may be authorized for telework. Telework eligibility will be discussed during the interview process.
+Veterans' Preference - Since Direct Hire Recruitment Authority is being used, traditional Veterans' Preference rules do not apply. Qualified preference eligible will be given full consideration for this position. While veterans' preference does not apply in Direct Hire Authority, preference eligible can submit their supporting documentation listed as Optional in the Required Documentation section of this vacancy announcement.
+Selective Service - If you are a male applicant born after December 31, 1959, you must certify that you have registered with the Selective Service system, or are exempt from having to do so under the Selective Service Law. See http://www.sss.gov/.
+Equal Opportunity Employer - FLRA is an Equal Opportunity Employer. All applicants will receive consideration regardless of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age, physical disability, genetic information (including family medical history), political affiliation, union affiliation or non-affiliation, marital status, or any other non-merit reason.
+Hatch Act - The Hatch Reform Amendments of 1993 (Public Law 103-94) prohibit individuals from requesting, making, transmitting, accepting, or considering political recommendations (as defined in 5 U.S.C. 2202) in effecting personnel actions.
+Reasonable Accommodation - FLRA provides reasonable accommodation to applicants with disabilities where appropriate. If you need a reasonable accommodation for any part of the application or hiring process, please notify the FLRA's Human Resources Division. Decisions on reasonable accommodation requests will be made on a case-by-case basis.
+Transportation and Relocation Expenses Are Not Authorized - FLRA will not pay any travel, transportation, or relocation expenses. Any travel, transportation, and relocation expenses associated with reporting for duty are the responsibility of the selected candidate.
+Promotion Potential - FLRA is not making a commitment and is not obligated to provide future promotions to you if you are selected for a vacancy with promotion potential. Future promotions will be dependent on performance, workforce analysis, and budget approval.
+All Federal employees are required to have Federal salary payments made by direct deposit to a financial institution of their choice.
+Receiving Service Credit for Earning Annual (Vacation) Leave: Federal Employees earn annual leave at a rate (4, 6 or 8 hours per pay period) which is based on the number of years they have served as a Federal employee. FLRA may offer newly-appointed Federal employee's credit for their job-related non-federal experience or active duty uniformed military service. This credited service can be used in determining the rate at which they earn annual leave. Such credit must be requested and approved prior to the appointment date and is not guaranteed.
+
+
+How You Will Be Evaluated
+You will be evaluated for this job based on how well you meet the qualifications above.
+You will be evaluated for this job based on how well you meet the qualifications above.
+Your resume and all supporting documentation you submit, to include your responses to the Occupational Questionnaire, will be used to determine whether you meet the minimum job qualifications listed in this announcement. If you rate yourself higher than what is supported by the documentation you submit, you may be excluded from consideration for this job. If it is determined you meet minimum qualification requirements, you will be referred to the selecting official.
+
+Under the provisions of the Direct Hire Authority, category rating and veterans' preference do not apply; therefore, your responses to the assessment questionnaire will not be used to determine a scored rating. Instead, all applicants that are determined to meet minimum qualifications, as defined by this vacancy announcement, will be referred to the selecting official for consideration.
+
+Background checks and security clearance
+Security clearance
+Other
+Drug test required
+No
+Position sensitivity and risk
+Special-Sensitive (SS)/High Risk
+Trust determination process
+Suitability/Fitness
+Required Documents
+
+Required Documents
+Your application package must include: (1) Resume showing relevant experience as written in your own words; and (2) Completed Online Assessment Questionnaire.
+If you have special priority selection rights under the Agency Career Transition Assistance Plan (CTAP) or Interagency Career Transition Assistance Plan (ICTAP) you may apply for special selection over other candidates for this position. To be well-qualified for the position and exercise selection priority for this vacancy, displaced Federal employees must be rated at 90 or above on the rating criteria for this position. Federal employees seeking CTAP/ICTAP eligibility must submit proof that they meet the requirements of 5 CFR 330.605(a) for CTAP and 5 CFR 330.704 for ICTAP. This includes a copy of the agency notice, a copy of their most recent Performance Rating and a copy of their most recent SF-50 noting current position, grade level, and duty location. Please annotate your application to reflect that you are applying as a CTAP or ICTAP eligible. For more information on CTAP/ICTAP see https://www.opm.gov/policy-data-oversight/workforce-restructuring/employee-guide-to-career-transition/.
+Males born after 12-31-59 must be registered or exempt from Selective Service. See: https://www.sss.gov/.
+All application materials and supporting documentation must be received by the closing date of this announcement.
+
+If you are relying on your education to meet qualification requirements:
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+Benefits
+
+Benefits
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+Review our benefits
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+Help
+This job is open to
+The public
+U.S. citizens, nationals or those who owe allegiance to the U.S.
+Clarification from the agency
+Direct Hire Authority",12928,Washington
+9,Object-Oriented Developer,"AMCHES, INC","Annapolis Junction, MD","$160,000 - $185,000 a year","Amches, Inc has a growing need for an Object-Oriented Developer that is cleared to become an integral part of our team!Amches Benefits Snapshot: 401K contribution: 10% (not a match, a contribution!! )PTO: 248 hoursHealthcare: Free (BlueCross Blue Shield for Health, Vision, and Dental) for individualsSoftware Developer Responsibilities:Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces.Directing system testing and validation procedures.Directing software programming and documentation development.Consulting with departments or customers on project status and proposals.Working with customers or departments on technical issues including software system design and maintenance.Analyzing information to recommend and plan the installation of new systems or modifications of an existing system.Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.Designing and developing software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.Preparing reports on programming project specifications, activities, or status.Conferring with project managers to obtain information on limitations or capabilities.Software Developer Requirements:Bachelor's degree in computer science or related degree.Knowledge of the software development life-cycle.The desire to work in a fast-paced environment.Ability to develop unit testing of code components or complete applications.Creativity is always a plus.Must be a full-stack developer and understand concepts of software engineering.Experience working on a variety of software development projects.Deep programming language knowledge (Java or C++ or C#)Job Type: Full-timePay: $160,000.00 - $185,000.00 per year",12928,Washington
+10,Jr. Developer/Programmer,Vidoori,"Suitland, MD",None,"Job Tracking ID: 512902-775221
+Job Location: Suitland
+Level of Education: Any
+Job Type: Full-Time/Regular
+Date Updated: 06/03/2021
+Vidoori, Inc., a rapidly growing small business that specializes in building strong Engineering teams that provide high quality, modern technical solutions to our clients, is seeking a
+
+Junior Developer/Programmer who:
+Applies knowledge in software development
+Solves problems that require the regular use of ingenuity and creativity
+Performs work with minimum supervision
+Makes sound recommendations to help achieve critical organizational objectives
+Has responsibility for analyzing, collecting and restoring test data and making sure that it is maintained in proper formats.
+Assists with test data acquisition, access test data quality and test data accuracy and reasonableness
+Identifies relationships in disparate data and resolve test data discrepancies
+Analyzes large volumes of test data and prepares correlating models and calculations
+Extracts, imports and exports test data in various database applications and provides support in testing and validating data in different software systems
+Performs data auditing activities and assists with ongoing data architecture processes and associated governance
+Identifies test data anomalies and performs data reconciliations on a daily basis
+Formulates test data backup plans and ensures that they are timely implemented and properly secured
+Analyzes and resolves routine data problems and executes processes to resolve complex data and system problem
+Effectively interacts with interfacing organizations and works together as a team to deliver projects on time and on budget
+Supports the data security management initiative to ensure sensitive data across the enterprise is secured and protected in the software test environments.
+
+The individual must be able to work independently and communicate with all levels of management and key stakeholders in a timely and accurate manner
+Experience and Skills
+Must have:
+
+Must have excellent knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Must be proficient in the following:
+Analyzing information
+General programming skills
+Software design
+Software debugging
+Software documentation
+Software testing
+Problem solving
+Teamwork
+Software development fundamentals
+Software development process
+Software requirements
+
+Preferred Qualification
+
+Bachelor’s Degree in Computer Science or related field.
+Technologies and Tools
+
+Java or C++, Spring, Angular, Vue.JS, OpenShift, OpenJDK
+
+Experience
+1-3 years of experience performing software development and programming activities
+
+Location
+
+Suitland, MD
+
+Residency
+
+Authorized to work in the US (US citizenship)",12928,Washington
+11,Software Developer,"Triblio, Inc.","Reston, VA",None,"Overview:
+
+Triblio, part of IDG's family of companies, is a fun, fast-growing, and innovative company seeking a technically oriented team player to help our software development initiatives. Triblio's flagship product is a Codie award-winning marketing technology platform. Our leadership team is comprised of highly successful and experienced technology executives with a proven track record of success. We believe in a positive team culture, innovation, and a commitment to serving our customers.
+Responsibilities:
+
+This position, reporting to the Chief Technology Officer (CTO), will work with our CTO and development team to contribute to all aspects of software development, including architecture, design, implementation, and testing.
+Key Responsibilities:
+Design, write and test code for the Triblio’s software platform
+Interact with team members to learn, refine and implement new capabilities
+Assess, utilize, maintain and update development operational tools and frameworks
+Maintain and enhance ongoing software product codebase
+Collaborate with Product Management and Customer Success teams on technical issues
+Qualifications:
+Bachelor’s degree or higher in Computer Science or related field
+Minimally 2 years experience in the design and implementation of browser-based applications and APIs
+Familiarity with MVC
+Hands-on experience with Javascript frameworks - React, Angular, NodeJ
+Ability to learn and apply new technologies quickly
+Ability to communicate and collaborate on technical projects with fellow developers
+Strict attention to detail, highly organized and efficient
+Strong written and verbal communication skills
+Please upload a formatted version of your resume and cover letter during the application process.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.",12928,Washington
+12,Software Engineer I,Concept IQ Consulting,"Annapolis Junction, MD",None,"ConceptIQConsulting (CIQC) is a HR/Recruiting Consultancy company. The biggest key to utilizing our services is that we recruit for a number of small to mid-size companies throughout the Washington Metropolitan Area in both the government and non-government sectors. Given the large network of companies we support, we are able to offer candidates different employment options, which in turn affords them the unique opportunity to select a company that is on par with their corporate culture interest in addition to finding a new position.
+
+CIQC partners with a select group of clients based on a mutual commitment to employee management (i.e. development, training, etc.). Our vision of providing this service is not just oriented towards the customers we support. We are also advocates for the candidate experience and will support your job seeking effort with career and resume advice, as well as helping or coaching you through the interview process. We are seeking a Software Engineer I for a project at dual sites - Annapolis Junction & Linthicum, Maryland.
+
+Project Overview
+Perform software engineering, reverse engineering, and vulnerability research with a focus on OCO (Offensive Cyber Operations) and DCO (Defensive Cyber Operations) activities. Support assessments of large-scale weapons systems and other national security operations.
+
+Duties
+
+
+Perform software development tasks and assists in the design and architecture of software applications individually or as a team member
+Primary role is software programmer who develops production quality software based on pre-defined software requirements and designs
+Review, analyze, and modify programming systems to include coding, testing, debugging, installing, and documenting to support organizations software applications
+Implement software development process improvement activities in accordance with organizational procedures
+Develop unit and integration tests and test plans for software applications and prepares software test reports
+Write documentation for software and software interfaces
+
+Required Qualifications
+
+
+Five years' experience in software development technologies and methodologies
+A BS in Electrical/Computer/Software Engineering, Computer Science, Math or Information Systems can be used for (4) years of experience. Additional relevant certifications can be used for up to 2 years of experience, depending on the certification
+
+Education
+
+Bachelors degree in a technical discipline from an accredited college or university is required. 4 additional years of SWD experience may be substituted for a Bachelors degree.
+
+U.S. Citizenship Required
+
+Candidates must have TS/SCI with a CI or Full Scope Poly Clearance, and must be CCA eligible.
+
+Concept IQ Consulting strives to be one of the top premier providers of independent, trusted technical and scientific expertise. As we continue to add experienced, technically astute staff, we are looking for highly motivated, talented team members that can assist our DoD and Intelligence Community (IC) customers continue delivery of world class programs. We believe service to customers and support of our staff is our mission. We aspire to be a valued partner to our customers and to earn their trust through our unwavering commitment to achieve timely, innovative, cost-effective and mission-focused solutions.",12928,Washington
+13,Software Engineer (Server-Side),"Strider, Inc.","Vienna, VA","$111,000 - $141,000 a year","As an engineer on Strider’s Platform Team, your job is to define and drive simple, efficient software and systems design, taking hard problems, and finding efficient solutions to power our industry-leading platform. You will also provide leadership and guidance to establish best practices for engineering teams.We’re looking for someone who is passionate about technology, stays on top of the latest trends within the field, and loves to engage with the developer community.Responsibilities Leverage Python, Java, JavaScript, and other modern programming frameworks, languages, and tools to build scalable, secure software.Collaborate with subject matter experts to build tools which automate and enhance the collection and analysis of vast amounts of data.Build out and iterate on the Strider data model, including optimizing on the “right” data store.Work on a wide range of interesting technical and business projects.Investigate, prototype, and implement new solutions to a wide array of complex system design challenges.Develop and maintain software using established best practices for creating readable and maintainable code.Qualifications2+ years of experience in software engineeringAbility to work alongside a team of engineers and subject matter experts to determine effective and time-efficient solutionsAbility to manage time efficiently and focus on clear goalsA pragmatic approach towards tackling unforeseen challengesKnowledge of web spider technologiesExperience with PythonExperience with Java and/or C++Experience with JavaScriptExperience with Unix-like operating systemsExperience with ElasticsearchExperience building cloud-native solutions (AWS, Azure)Experience building containerized solutionsExperience providing in-depth code reviewsInfinite appetite for learningExperience with Scrum methodologies and remote teams is a plus!Company DescriptionStrider is revolutionizing the way companies, research institutions, and governments protect their innovation and compete in a new era of global strategic competition. Our trailblazing technology and intelligence solutions enable customers to proactively identify, manage, and mitigate nation-state directed IP theft and supply chain vulnerabilities outside the cyber domain. If you’re ready to be part of an elite team tackling some of the most pressing security and technology challenges, let’s talk.BenefitsCompetitive compensation and equity awardsComprehensive health, dental, vision coverage; company-paid for employee and family members401(k) planPaid parental leaveUnlimited vacation daysDiversityStrider provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Strider complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.Job Type: Full-timePay: $111,000.00 - $141,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceDisability insuranceHealth insuranceLife insurancePaid time offParental leaveVision insuranceSchedule:8 hour shiftDay shiftMonday to FridaySupplemental Pay:Bonus payCOVID-19 considerations:This position will be 100% remote for the the immediate future, but will eventually be located in Tysons, VA or South Jordan, UT office. Once office hours resume, there will be some remote options.Experience:Python, Java, or C++: 2 years (Preferred)Web Scraping (Beautiful Soup, Scrappy, etc): 2 years (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19",12928,Washington
+14,Software Engineer,POLITICO,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",None,"POLITICO’s mission from the very beginning was to win the audience. We dedicate ourselves to providing accurate, non-partisan, impactful information to the right people at the right time so that they can act with confidence and speed. We experiment to avoid being disrupted and we have fun disrupting others. And we are not afraid to risk failure if it means being the best at what we do.
+About Us
+This position would be a part of a growing POLITICO tech team whose responsibility is creating the best policy and news platform on the market. You’d be making an immediate impact in contributing to a suite of products that connects the dots between breaking news and taking action, and empowers thousands of users to make informed decisions.
+The tech team itself is a group of supportive and versatile engineers, data analysts, designers, and project managers. While many of us have a particular domain expertise, we are big proponents of the axiom that the “best idea in the room wins.” Whether you are a code expert or a policy wonk, being a member of our team means having the opportunity to learn and make an impact in a wide variety of ways - and to see your ideas make a real impact on the products we build.
+About You
+We are seeking a highly-skilled Software Engineer to join our Back End (BE) engineering team. This position would be responsible for building and maintaining modern web applications that serve a diverse array of users: both consumer facing apps as well as our flagship subscription-based service. A successful candidate will be comfortable working as a member of an Agile team, and in taking ownership of the release cycle for a variety of different products. Additionally, being conversant and familiar with a micro-service ecosystem and the use of technologies such as AWS, Kafka, Docker, Kubernetes and automated build/deploy tools (Gradle, Bamboo, Jenkins) would be a huge plus - as our ideal candidate would not only make an impact using our tools but help push the boundaries of what we are capable of.
+What You’ll Do
+The first month: You’ll get onboarded to the team, learn the ins-and-outs of our architecture, and have the chance to start diving into our codebase.
+The first six months: You’ll gain a greater understanding of our technical stack, contribute daily to production code and participate in decisions that have a real impact on our day-to-day jobs and our end users - from deployment improvements to starting to lead a small team of engineers.
+The first year: You’ll start to take ownership of release management, build out new products, and find opportunities to improve our processes - all of which make a difference to our team and our users.
+A Few More Details
+We are looking for candidates that can write clean, readable code that is easy to maintain. Our team uses Java as our primary backend language, and some other primary qualifications that align with this role include:
+Experience with Java/SpringBoot
+Experience with AWS/Cloud Technologies
+Experience with relational database design, SQL, and Views
+Writing automated unit and integration tests
+The ability to collaborate and communicate effectively with a variety of stakeholders including product managers, QA, and UX/UI designers
+Contributing substantively in engineering tasks like the peer review process, documentation writing, and debugging broken code
+Experience participating in on-call rotations
+Bonus
+A working knowledge of micro-service architecture, and tools such as Kafka, Docker, and Kubernetes
+Any experience working with Brightspot CMS or Dari is a great bonus.
+Finally, If the job description above doesn’t perfectly match your experience, but you align with our core values and feel there is a strong reason you should be considered, please apply. We are excited to meet you!
+We are driven by our values. We are relentless contributors, disruptors, collaborators, and talent cultivators. Our culture is defined by grit, total integrity, and a prioritization on innovation.
+
+We value our people. We offer a competitive compensation and comprehensive benefits package, including health and wellness benefits, commuter benefits, retirement plans, as well as work-life balance flexibility and opportunities for career development.
+
+Let’s keep in touch. Follow us on Instagram and Twitter at @politicocareers and #meetPOLITICO for a deep dive into what makes us POLITICOs and our adventures. We’d love to hear from you!
+
+Want to join POLITICO but don’t see a job suited to you? Sign up to be a part of our Talent Network to be alerted of future opportunities.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)",12928,Washington
+15,Enhanced Sponsorship Program - Software Developer,General Dynamics Information Technology,"Herndon, VA 20171",None,"Travel Required: Less than 10%
+Requisition Type: Pipeline
+Job Description:
+We are looking for current college Juniors who are willing and able to obtain a security clearance as part of your employment offer through the Enhanced Sponsorship Program.
+You will have a contingent offer of employment as early as your Junior year for Full Time work upon your graduation and successful completion of the clearance process.
+Unfortunately, due to the nature of the work we are not eligible to hire non-US citizens or individuals that hold dual citizenship.
+Requirements:
+You must graduate with a Bachelor’s Degree in Business IT, Computer Engineering, Computer Science, Cybersecurity, or a related technical discipline. A professional certification in one or more specific technologies may be required, depending on job assignment.
+Job Responsibilities:
+Responsible for the design and development of voice, video, radio frequency, and/or data communications networks
+Designs, develops, evaluates, plans, and tests engineering specifications for software programs and applications
+Designs and develops information processing hardware, computer systems, and electrical components
+Designs and defines system architecture for new or existing computer systems
+About General Dynamics Information Technology:
+Impactful Work. Smart Solutions. Meaningful Careers.
+General Dynamics Information Technology solves our customers’ biggest challenges through smart, future-focused technology and services, ingenuity and deep mission-knowledge. Partnering with government, defense, the intelligence community, industry leaders and cutting-edge technology companies, we deliver solutions that make a difference – helping our customers to advance mission performance, transform operations and discover opportunities to build a better future.
+Headquartered in Fairfax, Va., with major offices worldwide, General Dynamics IT and General Dynamics Mission Systems form the Information Systems and Technology (IS&T) business group of General Dynamics. IS&T and the Aerospace, Combat Systems and Marine Systems groups form General Dynamics Corp.
+Driving Mission Performance with Smart, Future-Focused Solutions and Services.
+General Dynamics IT brings together emerging technologies, and the brightest, cutting-edge advisors in the industry to deliver a broad range of innovative, next-generation IT solutions and professional services to help our customers modernize their legacy systems, protect their networks and assets, and improve the effectiveness and efficiency of mission-critical functions for our warfighters and our citizens.
+#gditinterns #gditoncampus
+To view our internships visit: https://gdit.com/studentsandnewgrads
+#DPOST
+#CJPOST
+#SWDevIC
+#ISDCJ
+#ComebackGDIT
+#OpportunityOwned
+#GDITCareers
+#GDITLife
+#WeAreGDIT
+We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done.
+GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.",12928,Washington
+16,Software Developer,NextXAP,"Herndon, VA 20170",None,"Job Title - Software Developers
+JOB DUTIES: Review business requirements for Software Applications given by the Client.
+Enhance technical specifications for Web Applications including User Interface and Object Oriented Design. Use Design patterns for the same. Develop Web User interface and integrate Backend Systems using Libraries and APIs (Application Programming Interface) for displaying data. Develop HTML Programs to meet user requirements and write User Interface related logic using Client side Source code Scripts. Program Software Applications based on Object Oriented Programming (OOP) methodology to implement middle tier business logic. Develop/Create/Modify JAVA and J2EE based Software Applications to implement user requirements. Develop Source code for Database Backends using SQL. Use Web Technologies and Stylesheets to give a standard consistent look & feel. Create Test Scripts and related documentation for QA purposes. Create Documentation for administrators and end users on Web Applications. Suggest new Methods to improve performance and efficiency of the application.
+REQUIREMENTS: Master's Degree in Engineering, Comp Science, Information Systems, Information Technology or equiv & 6 Months exp.
+POSITION LOCATION: NextXAP Inc. 555 Grove St Suite 210, Herndon, VA 20170 USA. Multiple Positions
+May require travel to various unanticipated client sites nationally.
+HOURS: 9:00 A.M. - 5:30 P.M. 40 Hours per week.
+CONTACT: NextXAP Inc. Attn: HRGC, 555 Grove St Suite 210 Herndon VA 20170 USA
+
+
+
+
+
+
+
+
+NextXAP Inc. is an Equal Opportunity Employer (EOE). Qualified applicants are considered for employment without regard to age, race, color, religion, sex, national origin, sexual orientation, disability or veteran status.",12928,Washington
+17,Software Developer,Q-Code Technologies,"Chantilly, VA 22033","$83,856 - $215,000 a year","Q-Code Technologies is supporting and securing some of the most complex government, defense, and intelligence projects across the country. We are seeking IT professionals with an active TS/SCI clearance with a favorable Poly to support a mission critical enterprise engineering program in Northern Virginia.These positions provide the opportunity to architect, develop, engineer and maintain large global networks, operating systems, applications and IT infrastructure in both cloud and non cloud hosting environments.Please contact us to discover the exciting upcoming career opportunities in support of this effort.We are seeking candidates with the following skillsets, but not limited to:Systems EngineersNetwork EngineersSystems/Network ArchitectsSystems AdministratorsDatabase AdministratorsCyber Security System EngineersSharePoint DevelopersSoftware EngineersIT Program ManagersSystem/Project IntegratorsTest EngineersSoftware DevelopersApplication DevelopersBenefits include:Medical, Rx, Dental & Vision InsurancePersonal and Family Sick Time & Company Paid HolidaysParental Leave and Adoption Assistance401(k) Retirement PlanBasic Life & Supplemental LifeHealth Savings Account, Dental/Vision & Dependent Care Flexible Spending AccountsShort-Term & Long-Term DisabilityTuition Reimbursement, Personal Development & Learning OpportunitiesJob Types: Full-time, ContractPay: $83,856.00 - $215,000.00 per yearBenefits:401(k) matchingDental insuranceDisability insuranceHealth insurancePaid time offTuition reimbursementVision insuranceSchedule:Monday to FridayEducation:Bachelor's (Preferred)Experience:REST: 1 year (Preferred)Java: 1 year (Preferred)Security Clearance:Top Secret (Preferred)Contract Length:More than 1 yearWork Location:One locationVisa Sponsorship Potentially Available:No: Not providing sponsorship for this jobCompany's website:www.q-codetechnologies.comWork Remotely:NoCOVID-19 Precaution(s):Remote interview process",12928,Washington
+18,Junior Software Developer,Revature,"Alexandria, VA",None,"Revature is the fastest growing employer of emerging technology talent in the US. We will hire over 300 new Junior Software Developers in the next 4 weeks.
+One day someone is going to ask you where you got your start…This is IT!
+With a wide range of Fortune 500 enterprises, government organizations and top systems integrators as our clients, we not only provide you with the skills needed to succeed through an employer-paid training program but will also give you the opportunity to put those skills to use, on projects that matter.
+What We Are Looking For
+College degree (Associates or Bachelors)
+Must be authorized to work in the US
+Strong desire to learn to code – No prior professional experience required.
+A natural problem solver
+Strong communication and interpersonal skills
+Willing to relocate anywhere in the US – Relocation assistance provided
+What We Offer
+Competitive salary
+Relocation & housing assistance
+Health, vision & dental insurance
+Paid time off
+Industry Certifications
+Life Insurance Policy
+401k
+Mentoring program and ongoing support throughout your entire Revature career
+Experience with the largest and most reputable companies in the US
+Apply Today. Interviews are going on now.
+#SoftwareEngineering
+Equal Employment Opportunity
+The Company is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national origin, disability, age, genetic information, marital status, veteran status, or any other status protected under applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation and training. If you require an accommodation to work based on any of these protected factors, please notify the Human Resources Department, and the Company will evaluate the request and provide an accommodation in accordance with applicable law.
+We seek to comply with all applicable federal, state and local laws related to discrimination and will not tolerate the interference with the ability of any of the Company’s employees to perform their job duties. Our policy reflects and affirms the Company’s commitment to the principles of fair employment and the elimination of all discriminatory practices.",12928,Washington
+19,Junior Tableau Developer,"Dovel Technologies, LLC","Rockville, MD 20852",None,"Overview:
+
+Do you have an interest in developing systems, software, and processes that will enhance how government agencies and departments work together?
+If so, we’d like to speak with you about our Tableau Developer position supporting a new program/customer initiative. Work location is currently remote during the pandemic, but will eventually be Rockville, MD.
+Duties & Responsibilities:
+
+The Tableau Developer will support a large government program in Rockville, Maryland, (www.GrantSolutions.gov). The Developer will:
+Utilize Tableau to design, develop, enhance and support Tableau visualizations including highly interactive dashboards, scorecards and reports with drill down to detail and analysis pathways to other supporting reports.
+Build and publish customized interactive Tableau reports and dashboards as well as manage extracts and refresh schedules using Tableau Desktop and Tableau Server.
+Execute data queries across multiple data sources in support of business intelligence reporting needs.
+Participate in QA testing, liaising with other project team members and being responsive to client's needs, all with an eye on details in a fast-paced environment.
+Evaluate requirements and recommend solutions that align with business needs.
+Work with the product owners to understand business/functional requirements and roadmap/timeline for delivery.
+Participate in design reviews and brainstorming sessions.
+
+Requirements:
+
+Required qualifications:
+Bachelor's degree in IT or related major or equivalent.
+1 year of experience in database design, data warehousing, SQL, and reporting solutions.
+1 year of Tableau development experience.
+Experience in creating clean, insightful dashboards using Tableau.
+Solid understanding of data management concepts - data processing, analysis, visualization, security and discovery.
+Experience in developing low-latency, reliable reports; designing with data visualization best practices.
+Excellent written and verbal communication skills.
+Ability to organize, prioritize, and plan their own work, while aligning with project priorities and changes to priorities.
+Candidate must be able to obtain a Public Trust Clearance.
+#LI-KM1
+
+Company Description:
+
+We are a trusted government partner that blends deep domain expertise with advanced technologies to help our customers solve complex problems that improve, protect, and save lives. As a rapidly growing company, we combine entrepreneurial spirit, customer focus, and an outcomes-based approach to support agency missions in health IT, life sciences, public safety, and grants management.
+The Dovel Family of Companies offers employees an opportunity to advance beyond a specific role or contract, we offer a path to develop an enriching career. We believe in empowering a culture of innovation, customer success, and employee growth.
+What you’ll get…
+Time Off! Flexible schedules and company paid holidays allow you to take the time you need.
+Investment in YOU! 401(K) company contributions are yours to keep with no waiting period.
+Choices! Unique healthcare plans to choose from with options like fertility and orthodontia benefits.
+Discovery! With our tuition assistance and training programs, we support your career advancement.
+Tax Savings! Enroll in pre-tax Health or Dependent Care Flexible Spending, HSA with company contributions, parking, and/or transit commuter benefits.
+Support! Working parents and busy professionals – we’ve got you covered with a supportive culture, confidential Employee Assistance Program and a membership to Care.com.
+Perks! Employee discounts, peer recognition programs, company-wide wellness challenges, and fun community events.
+A Voice! A unique culture where you can influence decisions and have your voice heard.
+We are an Equal Opportunity Employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, disability, or veteran status.",12928,Washington
+20,Entry Level Software Engineer - College,EchoStar,"Germantown, MD",None,"EchoStar Corporation (NASDAQ: SATS) is a premier global provider of satellite communication solutions. Headquartered in Englewood, Colo., and conducting business around the globe, EchoStar is a pioneer in communications technologies through its Hughes Network Systems and EchoStar Satellite Services business segments. For more information, visit echostar.com . Follow @EchoStar on Twitter.
+Hughes Network Systems, LLC, an EchoStar Company, (Hughes) is the world's leading provider of satellite broadband for home and office, delivering innovative network technologies, managed services, and solutions for enterprises and governments globally. HughesNet® is the #1 high-speed satellite Internet service in the marketplace, with offerings to suit every budget. To date, Hughes has shipped more than 4 million systems to customers in over 100 countries, representing approximately 50 percent market share.
+
+
+Hughes has exciting opportunities for entry level Software Engineers for multiple locations in Maryland.
+
+Responsibilities:
+Design, develop, deliver and support software for complex commercial communication systems, applications and products.
+Develop real-time software for protocols, algorithms and products using C & C++, and learn communications systems & protocols from the inside out.
+Develop management and control platforms for networks scaling from very small to very large, using Java/J2EE and the latest web-based frameworks.
+Research, design and test system solutions for algorithms and protocols in small teams with experienced engineers, and learn how to make applications perform optimally over IP-based wireless networks.
+Basic Requirements
+Bachelors degree in Computer Science or Computer Engineering
+#DNPAJE
+Will be eligible for discretionary bonus, with funding based on company performance.
+EchoStar is committed to offering a comprehensive and competitive benefits package. Our programs are designed to provide you with the ability to customize your benefits to best meet the needs of you and your family. Our philosophy for these programs is to support and encourage healthy living and wellness. Our benefits package covers it all–from healthcare savings plans to education assistance and more!
+Financial : 401(k) retirement savings plan with company match; employee stock purchase plan; profit-sharing; company-paid life insurance, AD&D and disability
+Work-Life Balance : Paid Time Off (PTO), company-paid holidays, health and wellness events, exercise and sports facilities (locations may vary)
+Employee Incentives : Tuition reimbursement, employee referral program, year round employee events and community programs, discounts on Dish Network and HughesNet
+Health : Medical, Dental, Vision, Employee Assistance Program (EAP), Health Savings Account (HSA) with opportunities to earn employer contributions; Health Care, Dependent Care and Transportation Flexible Spending Accounts (FSA)
+EchoStar and its Affiliated Companies are committed to hiring and retaining a diverse workforce. We are an Equal Opportunity/Affirmative Action employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law. U.S. Persons or those able to obtain and maintain U.S. government security clearances may be required for certain positions. EEO is the law.",12928,Washington
+21,Software Engineer,Fastcase,"Washington, DC 20004 (Penn Quarter area)","$90,000 - $120,000 a year","Fastcase is one of the fastest-growing legal research platforms in the United States, democratizing the law by putting a comprehensive law library in the hands of law firms, solo attorneys, in-house counsel, government lawyers, and law students. Founded in 1999 and based in Washington, D.C., Fastcase is applying cutting-edge technology to the law, allowing it to leapfrog legacy providers and usher in a new era of access, transparency, and legal technology.We’re looking for software engineers excited to develop the next generation of legal technology. Our projects range from building the most sophisticated NLP and search technology in the legal market, to architecting robust content delivery systems for our partners and designing innovative tools that help lawyers work faster, better, and more effectively.The right candidates are not just able to write well-designed, well-commented, and well-tested software, but are also curious about the legal system that underpins our work. The law is a demanding field; strong candidates will have respect for its importance and a determination to push through the hard-technical problems the law presents.Candidates should have a B.S./B.A. in Computer Science or a related field and 2+ years of experience in software development.Our technology stack includes C#, Typescript, Python, Java, Lucene, and SQL. Experience with these is a plus but is not required.Fastcase offers a casual, collaborative work environment, comprehensive benefits (including: Premium Medical, Dental, Vision, Group Life & Accidental Death and Disability insurance, Paid time off, 401(K) and competitive salary).Job Type: Full-timePay: $90,000.00 - $120,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceFlexible scheduleHealth insurancePaid time offRelocation assistanceVision insuranceSchedule:Monday to FridayEducation:Bachelor's (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19",12928,Washington
+22,Software Developer,Cornerstone Defense,"Tysons Corner, VA 22182",None,"Title: Software Developer (UI/Web)Location: Tysons, VA*Clearance: *Active TS/SCI w/ Polygraph needed to apply *Company Overview: Cornerstone Defense, in partnership with our military, intelligence, and civil government customers, supports U.S. operations worldwide through the use of many different types of intelligence, satellite, and cyber technologies. Cornerstone’s Intelligence Sector provides solutions to the United States Government for information collection, operations, exploitation and dissemination, and research activities. Our Team specializes in software development, cloud architecture, systems and network engineering, systems integration, agile management, as well as targeting operations and intelligence analysis. Our support to our mission customers includes cyber network operations, exploitation and defense, signals intelligence, human intelligence, and critical missions and networks.Job Description: As a Software Developer supporting the customer, you will be trusted to provide critical IT solutions. In this role, a typical day will include:Researches, designs, develops and/or modifies enterprise-wide systems and/or applications software.Designs and codes software components, units and modules that meet product specifications and development schedules.Performs systems modeling, simulation and analysis.Tests and debugs assigned components and units.Participates in large system and subsystem planning.Writes and updates technical documentation such as user manuals, system documentation and training materials.Troubleshoots problems and provides customer support for software operating systems and application issues.Maintains current knowledge of relevant technology as assigned.Participates in special projects as required.Working with a dedicated, highly skilled team of professionalsRequired Qualifications: Strong SharePoint developer skills, Joomla experienceMS Access ReportsDatabase with import export and reportsSQL for MS AccessJavaScript; JQuerySPServices; CAML QueriesCSSHTML; SharePoint DesignerWordPress; InfoPath; Lotus Notes Developer skillsJob Type: Contract",12928,Washington
+23,Full Stack Developer,Tripoint Solutions,"Rockville, MD 20850 (Town Center area)",None,"What we are looking for:
+
+Tripoint Solutions is seeking a Full-Stack Developer to join our team in Rockville, MD.
+The Full-Stack Developer will be responsible for developing applications in a hybrid cloud AWS environment using the most up-to-date technologies. You will work in an Agile environment and apply automation techniques with multiple teams, operating in parallel to accomplish large-scale virtual environment initiatives.
+The successful candidate will be accountable to:
+Working with a highly technical team in an Agile environment in order to provide timely, effective, and customized software solutions
+Facilitating the flow of continuous development with the incorporation of unit and integration testing / testing best-practices throughout
+Working alongside Scrum Masters, Business Analysts, and other Developers
+Keeping up to date with the most recent cloud and infrastructure technologies
+Developing highly optimized code
+Web application developing using Java/Spring, HTML5, CSS3, and modern TypeScript/JavaScript frameworks to develop interactive and responsive interfaces for use across platforms, devices, and browsers
+Understanding of cloud distribution and web analytics
+Advanced understanding of frameworks like Angular, Cloud delivery in AWS, and pattern libraries
+What you bring:
+
+Experience, Education & Training:
+Bachelor’s Degree or relevant work experience in full-stack development
+5+ years developing server-side applications with Java/J2EE or Node.js
+4+ years developing with Spring and Spring Boot developing REST API endpoints
+4+ years developing with and using JavaScript, TypeScript, CSS3, and HTML5
+3+ years developing web applications using the Angular 2 – 7 frameworks (or other modern frameworks, with a focus on Angular)
+3+ years developing in a modern cloud environment
+3+ years of experience with repository and project tracking systems (e.g., Git, Bitbucket, Jira)
+3+ experience developing unit tests with tools such as Jasmine and End-To-End testing with tools such as Protractor
+Strong understanding of working with a team which implements CI/CD pipeline automation, unit / integration testing and modern development practices such as Test-Driven Development
+Experience creating unit tests using JUnit and Jasmine; understanding of what is required to consistently achieve 85%+ code coverage
+Experience with pipeline automation tools, orchestration, and containerization (preferred)
+Experience doing performance improvement for websites using web analytics (preferred)
+COMPETENCIES:
+Using JUnit and Jasmine with understanding of requirements to consistently achieve 85%+ code coverage
+Developing server-side applications with Java/J2EE or Node.js
+Developing in a modern TypeScript/JavaScript framework
+Spring and Spring Boot development using REST API endpoints
+Developing in a modern cloud environment
+Integration of testing throughout the development process
+Working in a group setting on large deployments or continuous development solutions
+Understanding of cloud distribution and web analytics
+Clearance Requirements:
+Applicants selected may be subject to a government security investigation and must meet eligibility requirements for potential access to classified information. Accordingly, US Citizenship or Green Card is required.
+
+What we offer:
+
+Tripoint is a growing 8(a) small business that was founded on the principle that People and Processes—with Technology as an enabler—are the fundamental source of any team or organization’s ability to accomplish its mission.
+Our Focus is delivering practical and sustainable solutions for every customer.
+TPS Company Values
+At TPS, the CEO knows every employee's name and values and respects each employee's dedicated work and unique contributions; as they directly impact who we are and what we do.
+Your talent and innovative thinking bring leading-edge solutions to our customers.
+Our success is driven by the dedication of our employees.
+Employee-generated solutions have sustained our continued success and customer satisfaction
+Tripoint Solutions is an Equal Opportunity Employer/Veterans/Disabled",12928,Washington
+24,Senior Frontend Software Developer,GXM Consulting LLC,"Herndon, VA 20170",None,"Description: GXM is looking for a full-time Senior Frontend Developer to work out of the Herndon/Reston or Arlington area.GXM is a team of creative professionals focused on solving problems for end users. We focus on turning innovation into actual application working with clients who need rapid problem solving and solution development for their organizations. If you are interested in working on challenging problems, having fun along the way with a group of passionate professionals, and making a difference for end users, you’ll fit right in.RoleWe are designing and developing the future of cutting-edge cybersecurity technology protecting many of America’s leaders and infrastructure. You will be working to create a powerful solution based on a modern technology stack that will provide a robust security for America’s future.QualitiesThe most important characteristic we are looking for is a team player. Our team moves fast and is fluid. We need someone who can solve complex technical problems and has the eye of a UI designer.ResponsibilitiesDesigning and executing frontend user interfaces with modern frameworks such as react and angularIntegrating backend APIs with frontend codeInteract closely with a diverse development team end users, and key stakeholdersWork directly as part of a fast-paced team to provide outstanding professionalism and amazing results. Requirements:MUST BE US CITIZEN4-5 years demonstrated experience with frontend software development in react and angular5 years functioning as a software architect or lead4 years building frontend solutions with modern frameworks such as Angular and React2 years of unit testingStrong familiarity with Object Oriented Programming (OOP)Experience optimizing web application for performanceExperience building custom components and LibrariesBackground in prioritization and multi-tasking in a flexible, fast-paced work environmentProficient in Critical Competencies: Verbal and Written Communication, Technical Problem Solving, Client Orientation Skills, Critical Thinking, Team Oriented, Results Oriented, and Decision-Making SkillsGXM reserves the right to forward all materials submitted with applications to third parties that may be involved in the evaluation processGXM is committed to a policy of equal employment opportunity, and does not discriminate in the terms and conditions or privileges of employment on account of race, color, religion, national origin, sex, age, marital status, pregnancy, childbirth and related medical conditions, lactation, physical or mental disability, sexual orientation, genetic information (including testing and characteristics), veteran status, uniformed service member status, hairstyles or hair textures, or otherwise that may be prohibited by federal and applicable state law.Job Type: Full-time",12928,Washington
+25,ETL Software Developer,Cornerstone Defense,"Herndon, VA",None,"Title: Software Engineer - ETLLocation: Chantilly, VA*Clearance: *Active TS/SCI w/ Polygraph needed to apply *Company Overview: Cornerstone Defense, in partnership with our military, intelligence, and civil government customers, supports U.S. operations worldwide through the use of many different types of intelligence, satellite, and cyber technologies. Cornerstone’s Intelligence Sector provides solutions to the United States Government for information collection, operations, exploitation and dissemination, and research activities. Our Team specializes in software development, cloud architecture, systems and network engineering, systems integration, agile management, as well as targeting operations and intelligence analysis. Our support to our mission customers includes cyber network operations, exploitation and defense, signals intelligence, human intelligence, and critical missions and networks.Job Description: CIT is seeking a highly motivated, self-directed professional to fill the role of CDEP Software Developer on our team in Chantilly, VA. The Senior ETL-focused developer will need to have the ability to understand, develop, automate, and enhance all parts of the data pipeline to include ingestion, processing, storage, and exposing data for consumption. This position requires working with various mission stakeholders, communicating system features and concepts to other users and developers, and interacting with program management. Additional responsibilities include but are not limited to assisting other developers, debugging various development and O&M processes, and system documentation.Required Qualifications: Master’s Degree in Computer Science, Information Systems, Engineering or related or an additional 6 years of experience in lieu of degreeMinimum of 8 years of experience with hands on development experience using Java to ETL dataExperience with ETL including:Data formats such as XML, JSON and YMLNormalizing data and high-volume data ingestionKnowledge of build tools such as Maven or GradleUnderstanding relational databases including the use of MySQL and/ or Oracle for designingdatabase schemasBasic knowledge of LinuxExperience with PKI including creating and deploying certificatesExperience with C2S/AWS and understanding of fundamentals for EC2, VPC, and S3.Understanding of REST services and HTTPExperience with DevOps using tools like JenkinsDesired Qualifications: Developing middle tier software using Spring BootExperience with Amazon AWS Java APIExperience with shell scriptingJob Type: Contract",12928,Washington
+26,Software Developer,"DIGITALSPEC, LLC","Sterling, VA 20166",None,"P*osition: * Software Developer (Python)Become an integral part of a diverse team. DIGITALSPEC is seeking an experienced, motivated, career and customer-oriented Python Developer to join our team.Location: Sterling, VAEducation:  Bachelor’s Degree. 2+ years of experience preferred, but not required. Bootcamp or other formal training a plus.Clearance: U.S. Citizens Only who have resided in the US for the past 5 years. Must be able to obtain a CBP BI.Job Tasks: Work with a team of physicists and data scientists making tools to support homeland security operations. Program cutting-edge dashboards and visualization tools for field deployment to law enforcement and other stakeholders. Develop backend procedures and machine learning interfaces.Qualifications:· Expertise and hands-on experience with Python. Familiarity with common data analysis packages such as NumPy, MatPlotLib, and Pandas. Familiarity with databases and machine learning tools a plus.· Familiarity with one or more web frameworks a plus; Django or Flask preferred.· Ability to work collaboratively within a team of scientists, programmers, and IT professionals in a dynamic environment.· Excellent communication skills. Able to present work to outside clients.Corporate Performance Standards:  In the performance of their respective tasks and duties all employees are expected to conform to the following:1. Perform quality work within deadlines with or without direct supervision.2. Interact professionally with other employees, customers and suppliers.3. Work effectively as a team contributor on all assignments.4. Work independently while understanding the necessity for communicating and coordinating work efforts with other employees and organizations.About DIGITALSPEC, LLC DIGITALSPEC, LLC (DSPEC) is a Small Business Administration (SBA), ISO 9001, 20000, and 27001 company founded in 2005 and headquartered in Fairfax, VA. We are a leading provider of Business Consulting Services and Technical Solution Services delivering true business value and return on investment to Federal clients in the metropolitan Washington, D.C area. DSPEC provides solutions and services in markets such as: Homeland Security and Law Enforcement, Defense and Intelligence, Financial Services, and Social & Citizen Services. We work collaboratively with clients to create solutions that ‘fit’ the client environment and use industry best practices.Join us at DIGITALSPEC, where we’re engineering Innovations, Solutions, and ResultsJob Type: Full-timeBenefits:401(k)401(k) matchingDental insuranceDisability insuranceFlexible spending accountHealth insuranceHealth savings accountLife insurancePaid time offReferral programRetirement planTuition reimbursementVision insuranceSchedule:Day shiftApplication Question(s):Are you a US Citizen and have you resided in the US for at least the last 5 years (as required to obtain the needed clearances for this position)?What is you expected yearly salary for this position?Education:Bachelor's (Preferred)Experience:Python: 2 years (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19",12928,Washington
+27,Software Developer,INCA Engineering,"Adelphi, MD 20783",None,"Software Developer We are seeking a team member with a passion for applying their experience and knowledge to tactical wireless network systems simulation. You will become a part of a flexible and dynamic team of technology experts and developers.As a Software Developer you will develop software and analysis tools to assess the effectiveness of wireless technologies and systems within real world, military relevant scenarios.Key ResponsibilitiesDevelop new software tools to interact with the Ubuntu Linux based tactical emulation system and add new capabilities.Collect data, analyze, graph and visualize system performance of experimental scenario runs.Support the design, development, evaluation and integration of advanced software and compute technologies to improve system performance.Routinely interact with team members and researchers using the platform.Basic Qualifications: 2 years or more technical experience related to C5ISR technologies or systems.3 years of experience with a programming language such as Python, C, C++, Java or other languageBachelor of Science in Engineering, Physical Science, Computer Science, Information Science, Mathematics or a related fieldUS CitizenDoD Secret Clearance (or agency equivalent) or ability to obtain and maintain a DoD Secret ClearancePreferred Experience: Experience with the EMANE or CyberVANExperience with data visualization tools or libraries1 year or more of experience with wireless communication systems and/or radio frequency propagation effects such as free space propagation, fading and multipath.Experience with simulation and analysis tools such as MATLAB/Octave, Riverbed/OPNET Modeler, Qualnet, ns3 or other tools.Experience with Linux, BSD or macOSAbout INCA Engineering : INCA Engineering is a Veteran Owned small business providing research and technology development solutions that deliver positive impact on our world through creative innovation. Since 2008, we have combined a passion for our work with deep technical expertise to tackle our clients' greatest challenges.INCA Engineering offers an excellent benefits package, professional development, and fosters a highly skilled workforce while maintaining a healthy work-life balance. Benefits include personal time off, medical Insurance and 401k plan.INCA Engineering is an equal opportunity employer that values diversity at all levels. (EOE – Minorities/Females/ Protected Veterans Status/Disability Status/Sexual Orientation/Gender Identity)Job Location: Adelphi MarylandJob Type: Full-timeJob Type: Full-timeBenefits:401(k)401(k) matchingDental insuranceFlexible scheduleHealth insurancePaid time offVision insuranceSchedule:Monday to FridayCOVID-19 considerations:All work is currently being performed remotely.Education:Bachelor's (Required)Experience:technical: 2 years (Required)Security Clearance:Secret (Required)Work Location:One locationBenefit Conditions:Waiting period may applyOnly full-time employees eligibleWork Remotely:Temporarily due to COVID-19COVID-19 Precaution(s):Remote interview processVirtual meetings",12928,Washington
+28,New College Graduate: Associate Scientific Software Developer- Java/C++,Raytheon Intelligence & Space,"Arlington, VA",None,"Businesses Raytheon Intelligence & Space
+Clearance type Secret
+Relocation eligible Yes
+Ability to Telecommute No telecommuting
+Job ID 177209BR
+Date posted 03/15/2021
+City Arlington
+State VA
+Country United States
+Who we are:
+Raytheon BBN Technologies (BBN) is seeking a Software Engineer to join our world-class group in Arlington, VA. Our team of scientists and programmers is working with a broad range of government agencies to resolve exciting, technically challenging problems of national importance.
+
+We offer an exciting, fast paced, collaborative environment, with the opportunity to contribute to innovative applied research. Career growth is encouraged through support for publications and participation in leading research conferences, training, mentoring, and tuition reimbursement.
+
+The ideal candidate will have excellent verbal and written communication skills, be highly motivated, self-directed, and comfortable working in an agile development environment.
+
+
+BBN Physical Sciences & Systems, Maritime Systems
+
+The BBN Maritime Systems team is an industry-leading group of applied physicists and mathematicians, computer scientists, and mechanical and electrical engineers who work in undersea and cross-domain sensing; positioning, navigation, and timing (PNT); and communications for maritime applications. We work collaboratively across three offices. Our extensive background in undersea sensing, including acoustical, magnetic, and gravity modalities, provides a basis for this work. We analyze and model propagation in complex environments, evaluate background noise, clutter sources and characteristics, and develop sensor elements, systems, platform integration, and related signal processing to enhance system performance for specific applications.
+
+The Arlington, Virginia maritime team is focused on advanced systems to support the operational Navies of the US and UK. We develop systems and algorithms that exploit acoustic and other signals for detection, localization, and tracking of undersea threats.
+
+
+What will you do?
+Design and implement user interfaces for data visualization.
+Design and implement parsers for structured binary data.
+Design and implement signal processing algorithms for real-time systems.
+Design and customize client-facing prototype data displays.
+Design and implement Extract, Transform, and Load (ETL) applications for data migration within databases.
+Software requirements development.
+Work with a team in a professional software development environment.
+Interface with Program Management for coordination of software development tasks.
+Complete laboratory testing and field deployments, which may include occasional local travel.
+What will you need?
+BS in Computer Engineering, Computer Science, Electrical Engineering, or other relevant technical field and 0 to 2 years work experience.
+Thorough background in C/C++, Java, and object-oriented design.
+Solid Physics background, preferably with experience in the underwater acoustics domain.
+Comfortable working within Windows and Linux (RHEL) environments including knowledge of the Linux command-line and shell scripts.
+US citizenship is required along with a willingness to apply for a US Government Security clearance.
+Position may require some overnight travel
+Additional Skills that would be AWESOME:
+Active Security clearance is desired.
+2 to 4 years of software engineering experience.
+Familiarity or experience with Java Swing and GUI design.
+Familiarity or experience with Python or Matlab.
+Familiarity and experience with Eclipse or similar IDE.
+Familiarity, academic or commercial, working with relational databases (SQL).
+Familiarity with version control (SVN or GIT) basics.
+Ability to meet assigned budgets and schedules.
+
+What will you gain?
+Mentorship by talented researchers and engineers that will shape your career development.
+Involvement in the technical components of a client project.
+Exposure to business issues and challenges.
+Opportunities to lead early in your career and establish a reputation in your field.
+Experience in performing cutting-edge research and prototype development.
+Opportunities to propose new ideas and solutions to challenging scientific and technological problems.
+Empowerment to satisfy your scientific curiosity and entrepreneurial drive.
+A dedicated office where you can design your ideal working environment and express your own personality.
+
+Why us?
+
+Raytheon BBN is proud to offer a comprehensive total compensation package including a competitive 401k company match, a Retirement Contribution plan, performance based incentive, and competitive benefits package. In addition to protecting you and your family’s health and well-being, we also offer important financial and family friendly benefits to meet your needs.
+
+
+Our Work/Life benefits include – Paid Parental Leave – Adoption Assistance – Auto and Home Insurance – Child/Elder Back Up Care – College Coach – Retirement Planning Services – Flexible Work Arrangements – Legal Services – Life Resources – Employee Discount Program – Educational Assistance – Transportation Benefits – and Wellness Reward177209
+
+Raytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.",12928,Washington

@@ -1,0 +1,1415 @@
+,job_title,company,location,salary,description,counts,city
+0,Cloud Engineer,SAIC,"Reston, VA 20190","$125,001 - $135,000 a year","Job ID: 218953
+Location: RESTON , VA , US
+Date Posted: 2021-06-14
+Category: Information Technology
+Subcategory: Cloud Comp Engr
+Schedule: Full-time
+Shift: Day Job
+Travel: Yes, 10 % of the Time
+Minimum Clearance Required: None
+Clearance Level Must Be Able to Obtain: Public Trust
+Potential for Remote Work: Yes
+Description
+Architects, Designs, plans, and integrates cloud computing and virtualization systems.
+Provides specific, detailed information for hardware and software selection, cloud service provider selection, implementation techniques, application & data migration techniques and tools for the most efficient solution to meet business needs, including present and future capacity requirements.
+Setup and maintain Azure environments, configure networks and security in line with the design
+· Participate in design and development of new features and components. · Work with team leads to validate requirements, and perform impact analysis of new requirements and/or changes to the existing system.
+Develops and conducts testing of cloud and virtualization systems. Maintains technical expertise relevant industry standards and in cloud computing and virtualization technologies such as cloud service provider architecture, design, and configuration; cloud deployment models including public, community, private, and hybrid; cloud service delivery models including infrastructure-, platform-, and software-as-a-service; automation; hypervisors; containers; virtual compute, storage, and networks; virtual infrastructure management; self-provisioning; and scaling. Evaluates and reports on new cloud and virtualization technologies to enhance capabilities of cloud-based and virtualized services. May also provide systems engineering activities such as: Concept of Operations Formulation, Requirements Definition, Analysis and Engineering, System Architecting, System Analysis and Design, Interface and Data Architectures, Validation and Verification, System Integration, System & Op. Performance Analysis, Lifecycle Cost Analysis & Estimation, Decision Analysis and Physical Configuration Analysis (PCA). Ensures the logical and systematic conversion of product requirements into total systems solutions that acknowledge technical, schedule, and cost constraints. Performs functional analysis, timeline analysis, detail trade studies, requirements allocation and interface definition studies to translate customer requirements into hardware and software specifications.
+
+Qualifications
+10 years experience in IT
+Bachelor's degree or equivalent experience in Computer Science, Computer Information Systems, or related technical discipline is required.
+Experience with scripting languages is required
+Experience in agile development is required.
+Experience with Microsoft Team Foundation Server is required.
+· Experience with ASP .NET and SQL server is a plus. · Knowledge of XML schemas, XBRL and XSLT is a plus.
+Strong oral and written communication skills.
+Strong analytical and problem solving skills.
+Public Trust Clearance
+Target salary range: $125,001 - $135,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+SAIC is a premier technology integrator solving our nation's modernization and readiness challenges. Our offerings across defense, space, civilian, and intelligence markets include high-end solutions in engineering, IT, and mission outcomes. We integrate the best components from our portfolio with our partner's ecosystem to deliver innovative and effective solutions. We are 25,500 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, VA, SAIC has annual revenues of nearly $7.1 billion. For information, visit saic.com or Working at SAIC for benefits details. SAIC is an Equal Opportunity Employer empowering people no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or veteran status. We strive to create a diverse, inclusive and respectful work culture that values all.",6322,Washington
+1,Software Engineer AWS - Multiple Locations,UnitedHealth Group,"Washington, DC 20006 (Foggy Bottom area)",None,"Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that's improving the lives of millions. Here, innovation isn't about another gadget, it's about making health care data available wherever and whenever people need it, safely and reliably. There's no room for error. Join us and start doing your life's best work.(sm)
+Software engineering is the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method. The roles in this function will cover all primary development activity across all technology functions that ensure we deliver code with high quality for our applications, products and services and to understand customer needs and to develop product roadmaps.
+These roles include, but are not limited to analysis, design, coding, engineering, testing, debugging, standards, methods, tools analysis, documentation, research and development, maintenance, new development, operations and delivery. With every role in the company, each position has a requirement for building quality into every output. This also includes evaluating new tools, new techniques, strategies; Automation of common tasks; build of common utilities to drive organizational efficiency with a passion around technology and solutions and influence of thought and leadership on future capabilities and opportunities to apply technology in new and innovative ways.
+You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges.
+Primary Responsibilities:
+
+
+
+Automate the pipeline orchestration using AWS services and technologies
+Create and maintain Terraform modules
+Orchestration using lambda & python
+Ensuring EIS and HCC security guidelines are adhered to
+Develop highly-scalable pipeline solutions in AWS cloud
+
+Define and implement technical solutions to meet business needs through Agile process
+
+Foster high-performance, collaborative technical work resulting in high-quality output
+Build the infrastructure, application and services to enable an automated delivery through the CI/CD pipelines to the cloud
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+2+ years of experience building and deploying applications to the AWS cloud using Infrastructure as Code tools such as Terraform
+Experience in software engineering using Python
+You will be asked to perform this role in an office setting or other company location
+Employees are required to screen for symptoms using the ProtectWell mobile app, Interactive Voice Response (i.e., entering your symptoms via phone system) or a similar UnitedHealth Group-approved symptom screener prior to entering the work site each day, in order to keep our work sites safe. Employees must comply with any state and local masking orders. In addition, when in a UnitedHealth Group building, employees are expected to wear a mask in areas where physical distancing cannot be attained
+Preferred Qualifications:
+Experience with Linux
+
+Experience with DevOps, Continuous Integration and Continuous Delivery (Jenkins, AWS, DevOps)
+Experience working in an Agile environment
+Technology Careers with Optum. Information and technology have amazing power to transform the health care industry and improve people's lives. This is where it's happening. This is where you'll help solve the problems that have never been solved. We're freeing information so it can be used safely and securely wherever it's needed. We're creating the very best ideas that can most easily be put into action to help our clients improve the quality of care and lower costs for millions. This is where the best and the brightest work together to make positive change a reality. This is the place to do your life's best work.(sm)
+All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy.
+Colorado Residents Only: The salary range for Colorado residents is $64,800 to $116,000. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+UnitedHealth Group is a drug - free workplace. Candidates are required to pass a drug test before beginning employment.
+Job Keywords: Software Engineer, Washington, DC, District of Columbia, Austin, TX, Texas, Boston, MA, Massachusetts, Eden Prairie, MN, Minnesota",6322,Washington
+2,Cloud Engineer Junior,SAIC,"Reston, VA 20190",None,"Job ID: 218960
+Location: RESTON , VA , US
+Date Posted: 2021-06-14
+Category: Information Technology
+Subcategory: Cloud Comp Engr
+Schedule: Full-time
+Shift: Day Job
+Travel: Yes, 10 % of the Time
+Minimum Clearance Required: None
+Clearance Level Must Be Able to Obtain: Public Trust
+Potential for Remote Work: No
+Description
+1. Setup and maintain Azure environments, configure networks and security in line with the design
+2. Participate in design and development of new features and components.
+3. Work with team leads to validate requirements, and perform impact analysis of new requirements and/or changes to the existing system.
+4. Develops and conducts testing of cloud and virtualization systems. Maintains technical expertise relevant industry standards and in cloud computing and virtualization technologies such as cloud service provider architecture, design, and configuration; cloud deployment models including public, community, private, and hybrid; cloud service delivery models including infrastructure-, platform-, and software-as-a-service; automation; hypervisors; containers; virtual compute, storage, and networks; virtual infrastructure management; self-provisioning; and scaling. Evaluates and reports on new cloud and virtualization technologies to enhance capabilities of cloud-based and virtualized services. May also provide systems engineering activities such as: Concept of Operations Formulation, Requirements Definition, Analysis and Engineering, System Architecting, System Analysis and Design, Interface and Data Architectures, Validation and Verification, System Integration, System & Op. Performance Analysis, Lifecycle Cost Analysis & Estimation, Decision Analysis and Physical Configuration Analysis (PCA). Ensures the logical and systematic conversion of product requirements into total systems solutions that acknowledge technical, schedule, and cost constraints. Performs functional analysis, timeline analysis, detail trade studies, requirements allocation and interface definition studies to translate customer requirements into hardware and software specifications.
+
+Qualifications
+1 years of hands-on experience Azure cloud environment.
+· 5 years experience in IT · Bachelor's degree or equivalent experience in Computer Science, Computer Information Systems, or related technical discipline is required.
+· Experience with scripting languages is required · Experience in agile development is required.
+Experience with Microsoft Team Foundation Server is required.
+· Experience with ASP .NET and SQL server is a plus. · Knowledge of XML schemas, XBRL and XSLT is a plus.
+Strong oral and written communication skills.
+Strong analytical and problem solving skills.
+Public Trust Clearance
+SAIC is a premier technology integrator solving our nation's modernization and readiness challenges. Our offerings across defense, space, civilian, and intelligence markets include high-end solutions in engineering, IT, and mission outcomes. We integrate the best components from our portfolio with our partner's ecosystem to deliver innovative and effective solutions. We are 25,500 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, VA, SAIC has annual revenues of nearly $7.1 billion. For information, visit saic.com or Working at SAIC for benefits details. SAIC is an Equal Opportunity Employer empowering people no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or veteran status. We strive to create a diverse, inclusive and respectful work culture that values all.",6322,Washington
+3,Federal - Cloud Engineer,Accenture,"Arlington, VA",None,"We are:
+Accenture Federal Services, helping our federal clients tackle their toughest challenges while unleashing their fullest potential…and then some. What makes our approach so unique? Operating from the nation’s capital, we expand Cloud adaption by bringing together commercial innovation and leading-edge technologies to deliver an integrated and interactive experience that far exceeds expectations. How? Our passion meets purpose! Through our diverse culture and inclusive thinking, we embrace our employees' ideas taking them from concept to practical solutions. Not to mention, we sleep well at night knowing our work directly impacts and improves the way the world works. We keep our tech smarts sharp by providing abundant training and certification opportunities. Through our diverse culture, workforce, and inclusive thinking, we embrace our employees' ideas, taking them from concept to practical solutions. Are you ready to learn and grow in a career, while making a difference?
+You are:
+Proud to know Cloud. A cloud enthusiast and ready to roll up your sleeves to tackle any complex, technological, cloud computing challenge that comes your way! From design, planning, management, maintenance, and support, you help keep our clients on Cloud9. What sets you apart? You have a knack for digging deeper (or should we say higher) into the possibilities with cloud. Voted best trendsetter, you are always in-the-know on the latest Cloud dish. Not only are you able to modernize clients’ systems to today, you take it a step further anticipating their tomorrow and beyond. Afterall, your head is always in the Cloud, because it’s where you thrive! Pun intended.
+The work:
+Collaborate within a project team to solve complex problems
+Create scripts and templates for automatic provisioning of resources
+Enjoy learning new technologies quickly
+Design and Deploy Cloud services in a high-performance production environment
+Ability to work independently on project tasks
+Involved in a workstream(s) where you were an active contributor and can talk to the progress and results of a project
+
+Here’s what you need:
+Minimum 2 years of technical experience working with databases, compute, storage and networks on one or more of the following platforms: Azure, AWS, Google Cloud Platform, VMware or Oracle Cloud Platform.
+Bonus points if you have:
+Worked on or implemented a Cloud migration project
+Obtained relevant Cloud certifications such as Microsoft Certified Azure Solutions Architect or AWS Cloud Practitioner
+Worked with container and serverless technologies (ie: AWS Lambda, Google Cloud Functions, Azure Functions etc)
+Exposure to DevOps Methodologies by using orchestration tools (ie: Chef, Ansible, etc.)
+One more thing, this role requires US Citizenship
+Important information:
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture Federal Services
+Accenture Federal Services is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+Equal Employment Opportunity:
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration. An active security clearance or the ability to obtain one may be required for this role.
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",6322,Washington
+4,DevOps Software Engineer,Intelligent Business Platforms LLC,"Washington, DC",$65 - $80 an hour,"At Intellibus, we are an innovative technology consulting firm made up of a team of passionate software engineers. We are currently seeking an experienced DevOps Architect to join our team.Develop Fully Automated Pipelines for Java Applications which Build, Deploy and Test Across Multiple Environments of Enterprise Integration Service Layer PlatformAutomate Infrastructure Provisioning, Deployment, and Delivery in the CloudSupport and Troubleshoot Cloud Deployment and Environment IssuesAutomate DB Schema Creation and Test Data PopulationAssist the Development Team with MonitoringImmersed in Product’s Codebase and Understand How Critical Components Work TogetherIdentify and Implement Infrastructure Resilience ImprovementsParticipate in Cross-Functional Projects, and Take Ownership of Individual Feature EffortsLead in the Adoption of Continuous Delivery and Automation of Platform ServicesImplement Monitoring Tools and Dashboards for Various Services and Operations for the Platform Following the Enterprise Monitoring Strategy and ToolsWork in an Agile Development Environments, Attend Ceremonies, Accurately Estimate Story Points, Meet Sprint DeadlinesAssist with Identifying and Evaluating New Technologies and Methodologies to Solve Complex ProblemsWork Closely with the Service Delivery and Cloud Platform Team for Platform Support and Day-to-Day ActivitiesQualificationsDevelopment Experience is a MustWrite Application Code — At Least One Language (Preferably Java)Experience in Taking Application Code and Third Party Products and Building Full End-to-End Pipelines to Build, Test and Deploy Complex SystemsAbility to Containerize an Application and Build a Process Around Creating Containers and Pushing them to an Artifact RepositoryGood Working Understanding of CI/CD and How Best to Implement CI/CD PracticesUnderstand General Networking Concepts, Connectivity, Systems Architecture, Disaster RecoveryHands-on Experience with AWSHands on Experience with UnixHands on Experience on Wintel ServerJenkinsTerraformInfrastructure as Code toolsChefGitContainersDockerSplunk or other Equivalent Monitoring ToolJob Types: Full-time, TemporaryPay: $65.00 - $80.00 per hourSchedule:8 hour shiftEducation:Bachelor's (Preferred)Experience:CI/CD: 1 year (Preferred)DevOps: 1 year (Preferred)Work Location:Multiple locationsWork Remotely:Temporarily due to COVID-19",6322,Washington
+5,Cloud Access Security Monitoring Info Security Engineer,Wells Fargo,"Washington, DC",None,"Job Description
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as “Personal Cell” or “Cellular” in the contact information of your application.
+At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.
+Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.
+The Distributed Platform Security team designs, implements, and supports secure virtual hosting platforms including Citrix Published Applications / Desktops and VMWare Virtual Desktops. We also operate Cloud Access Security Monitoring infrastructure used to generate reports that quantify the risk of SaaS tool usage. This actionable intel is leveraged by Third Party Risk Management and other organizations to minimize risk and satisfy compliance objectives.
+We are seeking an Information Security Engineer to support our on-premises deployment of Netskope’s CASM tool, migrate its reporting components to the Cloud, and ongoing support the hybrid deployment including maintenance of integration with various monitoring, scanning and compliance tools.
+Key Responsibilities Include:
+Support Netskope “Discovery” Cloud Access Security Monitoring (CASM) system including Ubuntu OS, Windows Server, and Mongo database.
+Integrate CASM system with Broadcom proxies, and Splunk Heavy Forwarder / CS4A feeds and Okta authentication / authorization.
+Contribute to continuous improvement of compliance risk management program by working collaboratively across risk disciplines to improve compliance validation methodologies.
+Work with peer engineers to ensure consistency and accuracy of multiple internal systems or record (Remedy, SAR, AMP, TSC, PAVR, DMAN, Validation Framework, Security Planning & Assessment of Risks / Controls (SPARC).
+Leverage Agile tools (Jira, Confluence) to track work assignments and contribute to comprehensive knowledge management system for design documents, build and baseline configuration documents, troubleshooting material, audit materials, etcetera.
+Recommend and initiate systems testing, prepare production change / validation plans.
+Work across lines of business to assess tools, define / improve processes and automate systems for greater efficiencies.
+Possess subject matter expertise in industry leading security solutions and best practices across one or more components of information security such as availability, integrity, confidentiality, risk management, threat identification/modeling/monitoring, incident response, access management, and business continuity.
+Able to interface with senior management.
+
+Required Qualifications
+5+ years of information security applications and systems experience
+4+ years of information technology applications and systems experience
+2 + years of experience with Windows server operating systems
+2+ years of experience with Cloud technologies
+3+ years of experience engineering and analyzing UNIX based operating system, Linux based operating system or a combination of both
+2+ years of experience in planning and managing cloud application migration and large scale cloud platform deployment
+Desired Qualifications
+Strong verbal, written, and interpersonal communication skills
+Vendor management experience
+Knowledge and understanding of information security log management system
+Knowledge and understanding of Splunk
+2+years of Mongo DB experience
+Experience using the team collaboration software Confluence
+Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban
+1+ year of web proxy administration or support experience
+Experience working with cloud access security brokers
+Other Desired Qualifications
+
+Experience connecting security log sources and creating reports and dashboards to monitor for notable security events
+Problem solving skills, ability to develop effective long-term solutions to complex problems
+
+Job Expectations
+Ability to work weekends and holidays as needed or scheduled
+Ability to work additional hours as needed
+Ability to travel up to 5% of the time
+Street Address
+IL-Chicago: 10 S Wacker Drive - Chicago, IL
+NC-Charlotte: 401 S Tryon St - Charlotte, NC
+NC-Winston Salem: 809 W 4 1/2 St - Winston Salem, NC
+NC-Charlotte: 1525 W Wt Harris Blvd - Charlotte, NC
+VA-Glen Allen: 4340 Innslake Dr - Glen Allen, VA
+TX-San Antonio: 4101 Wiseman Blvd - San Antonio, TX
+DC-Washington: 1700 K Street NorthWest - Washington, DC
+NC-Raleigh: 1100 Corporate Center Dr - Raleigh, NC
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+AZ-PHX-Central Phoenix: 100 W Washington St - Phoenix, AZ
+AZ-PHX-Northwest Phoenix: 2222 W Rose Garden Ln - Phoenix, AZ
+AZ-Tempe: 1305 W 23rd St - Tempe, AZ
+TX-Plano: 4975 Preston Park Blvd - Plano, TX
+TX-Irving: 2975 Regent Blvd - Irving, TX
+MN-Minneapolis: 255 2nd Ave S - Minneapolis, MN
+MN-Minneapolis: 600 S 4th St - Minneapolis, MN
+MN-Minneapolis: 425 E Hennepin Ave - Minneapolis, MN
+MN-Saint Louis Park: 600 Highway 169 S - Saint Louis Park, MN
+IA-Des Moines: 800 Walnut St - Des Moines, IA
+MO-Saint Louis: 1 N Jefferson Ave - Saint Louis, MO
+PA-Philadelphia: 101 N Independence Mall E - Philadelphia, PA
+CA-SF-Financial District: 333 Market St - San Francisco, CA
+MA-Boston: 125 High Street - Boston, MA
+NY-New York: 150 E 42nd St - New York, NY
+GA-Atlanta: 3579 Atlanta Ave - Atlanta, GA
+OR-Portland: 1300 Sw 5th Ave - Portland, OR
+CA-El Monte: 3440 Flair Dr - El Monte, CA
+UT-Salt Lake City: 260 Charles Lindbergh Dr - Salt Lake City, UT",6322,Washington
+6,AWS Cloud Engineer,Matlock,"Washington, DC",None,"Matlock and Associates, LLC3033 Wilson Blvd. Suite700, PMB #117Arlington, VA 22201(571) 858-3710www.matlockllc.comThe Department of Homeland Security Science & Technology Directorate (DHS S&T) relies on a Cloud Engineer to design new applications with a cloud-native approach to application architecture, integrate innovative technology into everyday use at the Office of the Chief Information Officer (OCIO).You will play a vital role providing leadership in building and launching a cloud strategy and environment for use in federal agencies. As a cloud engineer for the Department of Homeland Security, you will transform the traditional infrastructure deployment model to maximize the benefit of the cloud infrastructure with automation and monitoring. You will design and protect the networks that DHS relies on for all existing, planned, and future DHS S&T IT systems.Typical Responsibilities: Designing and delivering cloud infrastructure strategies aligned with business objectives with a focus on migrations and deploymentsCapturing user and business owner requirements and coordinating with appropriate S&T team members for enterprise architectureIdentifying functional, security, and performance requirementsProviding identification for/correction of problems within existing systems, design/implementation of new systems, and enhancing existing systemsParticipating in analysis, design and new construction of next generation IT systems alongside team membersDesired Qualifications: 15 years of experience in designing cloud infrastructures and transforming traditional infrastructure deployment model to maximize benefit of cloud infrastructure with automation and monitoringAWS or Azure certification OR Master's Degree and 12 years of experienceNetworking certification such as CCNA or CCNP are preferredLocation: Full-time telework is currently allowed for most employees due to COVID-19 restrictions, but full time telework is not anticipated on a permanent basis.Onsite location: Science and Technology Directorate headquarters (VTA) located in Washington, DCHours:  Monday-Friday 9am-5pmJob Type: Full-time, 5-year contractBenefits: Medical, dental & vision coverage401k matching3 weeks PTOEmployee development assistanceParental leaveMilitary leaveTuition reimbursementEnd of year/contract bonusSpot bonusAbout MatlockAt Matlock & Associates our mission is to provide a safe and secure environment for our passionate customers; a foundation for incredible impacts. We are passionate about connecting the perspectives of humanity in a way that influences and fosters positive change. We take it personal and we get close, we go all in with those affected by our work. The people we help, the missions we support, they change things, they push societies to a better place. We protect those brave and rare customers who strive to make others’ lives better.Matlock is a proven 8(a), EDWOSB/WOSB small business provider of support to U.S. government missions and the initiatives of partner nations. A leader in custom software solutions, IT infrastructure, and austere environment operations, Matlock is at the nexus of mission sets critical to both the public and private sectors. Founded in 2011, it stands out as uniquely positioned to realize bespoke technological solutions that are tailor-made to meet its clients’ most pressing operational needs. Matlock’s experience in some of the world’s most challenging environments deepens its capabilities, bridging gaps between processes, technology, and infrastructure.About Department of Homeland Security (DHS) Science & Technology (S&T)Technology and threats evolve rapidly in today’s ever-changing environment. The Department of Homeland Security (DHS) Science and Technology Directorate (S&T) monitors those threats and rapidly capitalizes on technological advancements, developing solutions and bridging capability gaps at a pace that mirrors the speed of life.S&T’s mission is to enable effective, efficient, and secure operations across all homeland security missions by applying scientific, engineering, analytic, and innovative approaches to deliver timely solutions and support departmental acquisitions. Created by Congress in 2003, S&T conducts basic and applied research, development, demonstration, testing and evaluation activities relevant to DHS.Job Types: Full-time, ContractBenefits:401(k)401(k) matchingDental insuranceEmployee assistance programHealth insuranceLife insurancePaid time offParental leaveProfessional development assistanceReferral programRetirement planTuition reimbursementVision insuranceSchedule:8 hour shiftMonday to FridayExperience:Cloud development: 10 years (Required)License/Certification:AWS Certification (Preferred)Azure certification (Preferred)CCNA (Preferred)CCNP (Preferred)Security Clearance:Secret (Required)Work Location:One locationWork Remotely:Temporarily due to COVID-19",6322,Washington
+7,DevOps/Cloud Engineer,"Harmonia Holdings Group, LLC","Washington, DC",None,"Harmonia Holdings Group, LLC, an award-winning federal government contractor, has an exciting opportunity for a DevOps/Cloud Engineer to join our team in Washington, DC.
+
+Due to COVID-19 prevention measures, work is being performed remotely; once facilities re-open, in-person attendance is required in Washington, DC and McLean, VA
+
+We have an exciting opportunity for an Azure DevOps Engineer to join our team in Washington DC. Harmonia is currently seeking an experienced Azure DevOps Engineer with at least 2 years of development background using Django Python.
+
+Minimum Required Qualifications:
+US Citizenship or legal permanent resident
+
+Must be able to obtain and maintain a Public Trust clearance
+
+Bachelor's Degree with at least 3 years of related work experience
+
+Experience, Skills and Abilities:
+Ability to work independently, take ownership of tasks, and deliver high-quality products and customer services.
+
+Ability to manage and complete multiple tasks within tight deadlines; self-directed and results/goal oriented.
+
+Strong analytical and problem-solving skills with a high attention to detail.
+
+Must be self-motivated as well as creative and efficient in proposing solutions to complex, time-critical problems.
+
+Highly adaptable to a changing environment.
+
+Strong experience in migration projects to Azure cloud on technically complex projects.
+
+Thorough understanding of DevOps culture, Continuous Integration/Continuous Deployment (CI/CD) pipelines, and advanced technical practices.
+
+Experience migrating on-premises workloads to the cloud.
+
+Understanding of cloud automation and orchestration tools and techniques including Git, Terraform, Ansible, Azure DevOps, ARM or equivalent.
+
+At least 2 years of development experience using Python/Django.
+
+Experience in Docker and Azure Kubernetes Service.
+
+Experience with CI/CD tools such as Jenkins, Azure DevOps.
+
+Working experience of agile frameworks on complex projects.
+
+Experience with Source Control Management systems, such as Git/GitLab and Team Foundation Version Control (TFVC).
+
+Preferred Skills:
+One of the following Microsoft Azure certifications is required:
+
+Microsoft Azure DevOps Engineer Certification
+
+Microsoft Azure Architect Expert Certification
+
+Working knowledge of other programming languages such as Java or .NET
+
+We are pleased to have been repeatedly recognized for our outstanding work culture, the innovative work we do, and the employees on our team who make a difference each day. Some of these recognitions include:
+
+Virginia Chamber of Commerce Fantastic 50 company
+
+Northern Virginia Technology Council Tech 100 company
+
+Great Place to Work Certification
+
+Inc. 5000 list of fastest growing companies
+
+SBA SBIR Tibbett's Award
+
+Virginia Values Veterans (V3) Certification
+
+Every bit of our success is the result of hard-working, motivated, and innovative professionals who are proud to call themselves part of the Harmonia family! In addition to competitive compensation and a dynamic, productive work environment, we offer all full-time employees a variety of benefits including, but not limited to, employer-paid medical, dental, vision insurance; STD, LTD, and life insurance; an HSA; gym/wellness reimbursement; 401(k) matching; 501(c)(3) donation matching; paid holidays; generous paid time off; training reimbursement; and an Employee Assistance Program.
+
+Harmonia is an Equal Opportunity Employer providing equal employment opportunity to all employees and applicants for employment without regard to race, color, religion, national origin, age, gender, gender identity, sexual orientation, disability, or genetics. Harmonia does and will take affirmative action to employ and advance in employment individuals with disabilities and protected veterans.
+
+To perform this job successfully, an individual must possess the knowledge, skills, and abilities listed; meet the education and work experience required; and must be able to perform each essential duty and responsibility satisfactorily. Other duties, in addition to the below, may be assigned as necessary to meet business needs. Reasonable accommodation will be made to enable an applicant with a disability to successfully apply for and/or perform the essential duties of the job. If you are in need of an accommodation, please contact HR@harmonia.com .",6322,Washington
+8,Cloud Native Engineer,Accenture,"Arlington, VA",None,"We are:
+A leading partner to the world’s major cloud providers, including AWS, Azure, and Google. The formation of Accenture Cloud First, with a $3 billion investment over three years, demonstrates our commitment to deliver greater value to our clients when they need it most and offers huge growth opportunities for you!
+Our Cloud First group of more than 70,000 cloud professionals delivers a full stack of integrated cloud capabilities across data, edge, integrated infrastructure and applications, deep ecosystem skills, culture of change along with a deep industry expertise to shape, move, build and operate our clients’ businesses in the cloud. To accelerate our customers transformation leveraging cloud, we combine world-class learning and talent development expertise; deep experience in cloud change management; and cloud-ready operating models with a commitment to responsible business by design — with security, data privacy, responsible use of artificial intelligence, sustainability and ethics and compliance built into the fundamental changes Accenture helps companies achieve.
+We are excited about the opportunities in the Cloud – and hope you are too! Learn more about our AWS careers here: AWS cloud careers page
+You are:
+A motivated, inquisitive developer. You enjoy using your development skills to deliver innovative solutions that help our clients improve the services they provide. Driven by curiosity, you explore how new technologies can be applied to solve challenging business problems. You thrive in a collaborative, creative and productive team environment where ideas are freely exchanged, and innovative concepts evolve into practical solutions.
+The work:
+Design and Implement AWS architectures and environments
+Design Native Cloud Application Architectures or optimize applications for AWS
+Collaborating within a project team to solve complex problems
+
+Here's what you need:
+Minimum of 3 years’ experience developing business applications using object-oriented programming languages (ie: Java) and experience with JavaScript frameworks like Angular, React, Node.js
+Hands-on AWS experience with at least 1 implementation (preferred in an Enterprise scale environment)
+Minimum AWS Associate level certification
+ Bonus points if you have:
+A Bachelor's in Computer Science, Engineering or Technical Science
+Bachelor's degree or equivalent (minimum 12 years) work experience. If Associate’s Degree, must have minimum 6 years work experience
+Experience with cloud platforms, including Kubernetes, Open Shift, Docker Enterprise, or Cloud Foundry in the public cloud
+Minimum of 3 years’ experience with Infrastructure as Code automation tools/platforms such as AWS CloudFormation, Terraform, Ansible
+A system engineering or developer background with the ability to learn quickly and share your knowledge with the broader team
+A mindset of automate everything
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",6322,Washington
+9,AWS Cloud Engineer,"Xfinion, Inc.","Tysons Corner, VA 22102","$90,000 - $100,000 a year","Xfinion, Inc. is a leading software development company specializing in application modernization, system integration, content management solution and business process automation within the federal government.Anticipate performing software development and application enhancements on this O&M contract using Scaled Agile Framework (SAFe) and DevSecOps processes. The opportunity to join a SAFe Agile release planning team implementing CI/CD pipeline to support one our nation’s most critical homeland missions – the storage and processing of student and exchange visitor information for national security, law enforcement, immigration and border management, intelligence, background investigations, and associated testing, training, management reporting, planning and analysis.Additional Information: Security Clearance: Must be a US Citizen and have or ability to attain a DHS EOD clearanceAvailable: Within 30 days; subject to completing clearance processLocation:  Washington, DC Metro AreaQualificationsResponsibilities / Qualifications:Specific responsibilities include but are not limited to:Work in a dynamic, agile, team environment developing new applicationsParticipate in design decisions, including new technology research and prototypingCollaborate closely with other AWS engineers and architects, cloud engineers, support teams and other stakeholdersSupport DevOpsPromote Kubernetes and AWS platform design and qualityInnovate new ideas to evolve our applications and processesContinuously analyzing and evaluating our systems, products and process for potential improvementsDesired Skills: Databases: Oracle RDBMS, Mongo DBLanguages and Frameworks: Java, Java EE, SpringFront-end: JSP, Angular, ThymeleafTesting: JUnit, Selenium, CucumberContainers: Dockers, KubernetesGit version controlJava with Spring MVC/REST/Data/Boot/Security, Junit and JPAJenkinsReactJSJava Applications servers (Tomcat/Jboss/etc)SQL and PL/SQLMuleSoftMicroservice architectureExperience developing in a SaFe Agile environmentSolid written and verbal communication skillsEducation Requirements/Years of Experience: Bachelor’s degree in computer science or related discipline is required3 years experience with AWS product offerings (e.g. EC2, VPCs, Lambda, API Gateway, etc.)Experience with Kubernetes (AWS EKS a plus)Experience with the AWS Console, CLI and SDKExperience with Terraform, CDK or CloudFormationProficiency with at least one technology language like Java, Javascript, NodeJS, Golang or PythonHave a broad set of technology skills - DEVSECOPS - Development, Security and OperationsHands-on experience with Cloud Platforms and ArchitectureAdvanced experience in troubleshooting techniquesKnowledge of security and performance best practices for cloud architecturesHands-on experience building and supporting CI/CD pipelines leveraging a tool such as Jenkins orGitLabWillingness to grow skills and capabilitiesExcellent communication skillsPHYSICAL DEMANDS AND WORK ENVIRONMENTThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodation may be made to enable individuals with disabilities to perform these functions.While performing the duties of this position, the employee is regularly required to talk or hear. The employee frequently is required to use hands or fingers, handle or feel objects, tools, or controls. The employee is occasionally required to stand, walk, sit, and reach with hands and arms. Specific vision abilities required by this position include close vision, distance vision, and the ability to adjust focus. The noise level in the work environment is usually low to moderate.Additional InformationXfinion, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, or disability status.Job Type: Full-timePay: $90,000.00 - $100,000.00 per yearBenefits:401(k)Dental insuranceDisability insuranceFlexible spending accountHealth insuranceHealth savings accountLife insurancePaid time offProfessional development assistanceReferral programTuition reimbursementVision insuranceSchedule:8 hour shiftWork Location:One locationWork Remotely:Temporarily due to COVID-19",6322,Washington
+10,"Cloud Engineer, Junior",Booz Allen Hamilton,"McLean, VA 22102",None,"The Challenge:
+We have the technology, but do we know how to use it? In an industry where “Cloud” is sometimes synonymous with “genie,” it’s important to have someone on your team who knows how to engineer Cloud-based and hybrid on-premise and Cloud-based solutions. That’s why we need you, an engineer who knows how hardware and software components fit together and integrate with Cloud-based resources, to help us modernize mission critical systems across a variety of our top clients.
+As a Cloud Engineer on our team, you’ll help to create solutions to drive the next wave of innovation. You’ll recommend tools and capabilities based on your research of the current environment and knowledge of various on-premise, Cloud-based, and hybrid resources. You’ll work with our engineering, architecture, and migration teams to inform strategy and architecture design. This is an opportunity to stay on top of the latest Cloud resources as you lead efforts to prototype using multiple techniques and new technologies. You’ll be able to broaden your skillset into areas like automation, scripting, and containerization while developing critical systems for several of our clients. Join our team as we transform the way government agencies manage data and information by taking advantage of Cloud technology.
+Empower change with us.
+You Have:Experience in a systems engineering or systems administration roleKnowledge of Linux and Linux system administrationKnowledge of end-to-end modern Agile software developmentTop Secret clearanceHS diploma or GED
+Nice If You Have:Experience with implementing and maintaining JenkinsExperience with writing scripts and glue to tie together services, functionalities, and tools using technologies, including Python scripting, Bash, Boto3, JSON, YML and XML templatesExperience with AzureExperience with Amazon Web Services (AWS)Experience with additional tools, including Docker, Kubernetes, and Ansible
+Ability to use automation tools and Infrastructure-as-Code to manage installations, pipelines, and scriptingBS degree in CS, Computer Engineering, Mathematics, Statistics, or a related technical engineering field
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Top Secret clearance is required.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you can expect:
+access to experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications? Take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want, as you chart your own course for success.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",6322,Washington
+11,Cloud Engineer,NTT DATA Services,"Washington, DC",None,"Req ID: 134044
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+We are currently seeking a Cloud Engineer to join our team in Washington, District of Columbia (US-DC), United States (US).
+Day to Day Job Duties:
+Provide O&M support for the following Amazon Managed Services currently deployed in production below:
+AWS Relational Database Service (RDS)
+AWS Elastic Container Service (ECS)
+AWS Elasticsearch
+AWS Elastic Container Registry (ECR)
+Amazon Elastic Kubernetes Service (Amazon EKS)
+AWS Elasticache
+AWS Sage Maker
+Amazon ElasticMapReduce (EMR)
+AWS Glue
+AWS Step Functions
+AWS Athena
+AWS Secrets Manager
+Update the EDC TAD for new AWS Managed Service offerings as required.
+Provide O&M support for new AWS Managed Service components and integrate the services into production operations when required.
+Provide presentations to the AWS CAB and Engineering Review Board on the design and implementation of new AWS Managed Services.
+Secure user access to the AWS Managed Services by creating AWS Identity and Access Management (IAM) roles.
+Stay current on new AWS Managed Services and brief the AWS CAB on services that will enhance data center efficiency and performance.
+Monitor AWS service notifications for changes to existing EDC AWS Managed Services and inform USAID management of configuration changes required to ensure no impact to EDC operations.
+Collaborate with the client’s engineering branch to implement new AWS Managed Services into the EDC.
+Collaborate with the client’s O&M vendor to monitor and detect unauthorized EDC access.
+Collaborate with the client’s O&M vendor to monitor and detect AWS security group/firewall port security and rule violations.
+Basic Qualifications:
+6+ years of cloud engineering experience in medium to large sized AWS based data center operations
+5+ years of experience in medium to large sized AWS based data center operations
+5+ years of AWS IaaS and Managed Services skills
+5+ years of experience developing and implementing policies for the use of AWS cloud services, managing requests for new technology, establishing a secure cloud environment, and ensuring appropriate availability of services
+AWS Solutions Architect certification
+AWS SysOps Administrator certification
+AWS Cloud Practitioner certification
+Secret clearance required
+Desired Qualifications:
+The ideal candidate will possess AWS IaaS and Managed Services skills.
+The candidate should carry AWS Solutions Architect, AWS SysOps Administrator and AWS Cloud Practitioner certifications.
+The candidate should be proficient in developing and implementing policies for the use of AWS cloud services, managing requests for new technology, establishing a secure cloud environment, and ensuring appropriate availability of services.
+The candidate should possess proficient oral and written communication skills.
+About NTT DATA Services
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, age, veteran-status, sexual orientation, gender identity, or any other class protected by law.",6322,Washington
+12,Cloud Support Engineer I - Linux,"Amazon Web Services, Inc.","Herndon, VA",None,"
+Basic troubleshooting to resolve straightforward Linux and network related technical problems.
+Troubleshoot basic connectivity problems across the different layers of the OSI model from the Linux stand point of view using tools like ping, traceroute, ifconfig, tcpdump, etc.
+Basic understanding of Networking fundamentals like CIDR notations, OSI model, HTTP/HTTPS, DNS, SSH, TCP, routing, switching, subnets, ACLs, NAT
+Perform basic networking administration tasks like being able to connect an individual PC to the network/internet and set FW rules.
+Bachelor’s degree in Information Science / Information Technology, Data Science, Computer Science, Engineering, Mathematics, Physics, or a related field OR equivalent experience in a technical position OR equivalent military experience
+1+ years of professional experience
+
+ABOUT US
+
+Amazon Web Services is the market leader and technology forerunner in the Cloud business. As a member of the AWS Support team you will be at the forefront of this transformational technology, assisting a global list of companies and developers that are taking advantage of a growing set of services and features to run their mission-critical applications. As a Cloud Support Engineer, you will act as the ‘Cloud Ambassador’ across all the cloud products, arming our customers with required tools & tactics to get the most out of their Product and Support investment.
+
+Would you like to use the latest cloud computing technologies? Do you have an interest in helping customers understand application architectures and integration approaches? Are you familiar with best practices for applications, servers and networks? Do you want to be part of a customer facing technology team helping to ensure the success of Amazon Web Services (AWS) as a leading technology organization?
+
+If you fit the description, you might be the person we are looking for! We are a group of smart people, passionate about cloud computing, and believe that world class support is critical to customer success.
+
+WHAT CAN YOU EXPECT FROM A LIFE AT AWS?
+
+Every day will bring new and exciting challenges on the job while you:
+
+
+Learn and use groundbreaking technologies.
+Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs.
+Interact with leading engineers around the world.
+Partner with Amazon Web Services teams to help reproduce and resolve customer issues.
+Leverage your extensive customer support experience to provide feedback to internal AWS teams on how to improve our services.
+Drive customer communication during critical events.
+Drive projects that improve support-related processes and our customers’ technical support experience.
+Write tutorials, how-to videos, and other technical articles for the developer community.
+Work on critical, highly complex customer problems that may span multiple AWS services.
+
+WHY AWS SUPPORT?
+
+
+First and foremost this is a customer support role – in The Cloud.
+On a typical day, a Support Engineer will be primarily responsible for solving customer’s cases through a variety of customer contact channels which include telephone, email, and web/live chat. You will apply advanced troubleshooting techniques to provide tailored solutions for our customers and drive customer interactions by thoughtfully working with customers to dive deep into the root cause of an issue.
+Apart from working on a broad spectrum of technical issues, an AWS Support Engineer may also coach/mentor new hires, develop & present training, partner with development teams on complex issues or contact deflection initiatives, participate in new hiring, write tools/script to help the team, or work with leadership on process improvement and strategic initiatives.
+Career development: We promote advancement opportunities across the organization to help you meet your career goals.
+Training: We have training programs to help you develop the skills required to be successful in your role.
+
+We hire smart people who are keen to build a career with AWS, so we are more interested in the areas that you do know instead of those you haven’t been exposed to yet.
+
+Support engineers interested in travel have presented training or participated in focused summits across our sites or at specific AWS events.
+
+As we operate on a follow-the-sun model, with Premium Support sites located globally, working hours and days are based on customer demand and may include weekends (on a rotational basis).
+
+The Linux role supports our services that focus on compute technologies. In this role, you will support AWS Services including EC2, EBS, LightSail. and the services that enable customers to migrate their workloads to AWS. As well as supporting our customers, you will be leading operational improvement initiatives, an acting as the voice of the customer to internal teams across AWS.
+
+
+Perform basic administration tasks and initial troubleshooting of different Linux distributions.
+Knowledge of the most common OS logs used for troubleshooting problems.
+Troubleshooting of disk space issues and knowledge of the administrative tasks required to address these problems.
+High level understanding of security in Linux (filesystem permissions, etc), may have experience managing users and groups.
+Troubleshooting of booting issues and how to manage services in Linux (SystemV and or SystemD)
+Basic backup and restore concepts (desktops/laptops).
+Have experience installing software using the different package managers
+Basic understanding of applications such as Apache, NginX, MySQL, etc.
+Troubleshoot performance issues in a single domain using common OS tools such as top, sar and free.
+Basic understanding of process lifecycle and signals
+Basic understanding of 3-tier web application and a general idea of which components are stateful and which ones are stateless.
+Basic understanding of shell concepts such as variables, aliases, redirection and shell expansion.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",6322,Washington
+13,Sr AWS Cloud Engineer,CSC (Corporation Service Company),"Gaithersburg, MD",None,"AWS Engineer
+Wilmington, DE
+If you like building innovative solutions, you will fit in perfectly at CSC - the world’s leading provider of digital brand, business, legal, and tax services. We use technology to make businesses run smoother and smarter and we need talented cloud technology professionals like you to make this happen!
+We are seeking a talented, motivated, experienced cloud technology professional to join our team, working in a fast-paced, dynamic environment that encourages collaboration and innovation. As an AWS Engineer at CSC, you will be responsible for the planning, implementation and growth of the AWS cloud infrastructure, among other important duties. You will manage these critical efforts with support and guidance from management and the architecture / engineering team, with the goal of delivering high quality technology to support our internal and external customers.
+Some of the things you’ll be doing:
+ Be responsible for the planning, implementation and growth of the AWS cloud infrastructure
+ Build, release and manage the configuration of all production systems
+ Manage a continuous integration and deployment methodology for server-based technologies
+ Work alongside architecture and engineering teams to design and implement any scalable software services
+ Ensure necessary system security by using best-in-class cloud security solutions
+ Stay current with new technology options and vendor products, evaluating which ones would be a good fit for the company
+ Implement continuous integration/continuous delivery (CI/CD) pipelines when necessary
+ Recommend process and architecture improvements
+ Troubleshoot the system and solve problems across all platform and application domains
+ Oversee pre-production acceptance testing to ensure the high-quality services and products
+What technical skills, experience, and qualifications do you need?
+ Experience using AWS
+ Experience designing and building web environments on AWS, which includes working with services like EC2, ELB, RDS and S3
+ Experience building and maintaining cloud-native applications
+ A solid background in Linux/Unix and Windows server system administration
+ Experience using DevOps tools in a cloud environment, such as Artifactory, Docker, GitHub, Jenkins, Kubernetes
+ Experience installing and configuring different application servers such as Tomcat and WebLogic
+ Experience using monitoring solutions like CloudWatch, ELK Stack and Netdata
+ An understanding of writing Infrastructure-as-Code (IaC) using Terraform
+ Knowledge of one or more of the most-used programming languages available for today’s cloud computing (e.g. Python procedural, R math, Go procedural languages)
+ Experience in troubleshooting distributed systems
+ Proficiency in script development and scripting languages
+ The ability to be a team player
+ The ability and skill to train other people in procedural and technical topics
+ Strong communication and collaboration skills
+ In addition, a n AWS engineer who works in DevOps should also have experience with:
+ -The theory, concepts and real-world application of Continuous Delivery (CD), which requires familiarity with tools like AWS CodeBuild, AWS CodeDeploy and AWS CodePipeline
+ - An understanding of automation
+#LI-DH1",6322,Washington
+14,Level 1 Cloud Engineer,Hitachi Vantara,"Reston, VA",None,"The Company
+
+Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched industrial and digital capabilities to their data and applications to benefit both business and society. More than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
+
+The Role
+
+We are seeking applicants with a strong knowledge in Systems Administration & troubleshooting skills with Linux, Unix, and/or Windows. The candidate should possess a solid understanding of networking technologies such as DNS, TCP/IP, SSL, DHCP and Load Balancing. This role requires troubleshooting & supporting solutions with AWS (CSP) experience/knowledge.
+***Must have flexibility to work 24/7, rotating shifts.
+
+***US Citizenship is required for government clients support.
+
+Responsibilities
+Act as Tier 1 Support Engineer to triage and troubleshoot issues with AWS services like EC2, S3, RDS etc.Document solutions for known issues using the company knowledge base systemAdvocate customer requests, troubleshoot and resolve complex, escalate critical issues to L2/L3 and beyond and advocate for resolutionPrioritize technical issues, define, and track bugs and offer creative solutionsWork in a team setting in a shared services environmentPositive attitude expected - should be able to adapt and work based on business demandInterface with external customers as needed
+***Must have flexibility to work 24/7, rotating shifts.
+
+Primary Qualifications
+In depth knowledge of either UNIX/Linux or Windows Environment.Good written and verbal English communication.Open to work in rotating shifts in 24x7 model.Minimum 1 years of experience in Tier 1 support
+Bachelor’s degree in Computer Science, Engineering or equivalentProficient experience on System Administration (Linux / Windows) – CertifiedExperience on AWS at the AWS Associate/SysOps/Developer Certification course level. – Certified
+
+Linux Administration (RHCE Certification)
+Scripting (Shell or Python)
+ITIL experience in handling Incidents, changes, service requests
+Performance Monitoring (Nagios, Zabbix, Datadog, or any other such tools)
+TCP/IP Networking Knowledge
+SSL / TLS Management
+
+Preferred Qualifications
+
+Jenkins CI/CD Pipelines Management
+AWS Cloud Management
+Terraform / CloudFormation
+ELK Experience
+Security Fundamentals
+
+
+We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+
+#LI-GB1",6322,Washington
+15,Level 1 Cloud Engineer,Hitachi Vantara,"Reston, VA",None,"The Company
+
+Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched industrial and digital capabilities to their data and applications to benefit both business and society. More than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
+
+The Role
+
+We are seeking applicants with a strong knowledge in Systems Administration & troubleshooting skills with Linux, Unix, and/or Windows. The candidate should possess a solid understanding of networking technologies such as DNS, TCP/IP, SSL, DHCP and Load Balancing. This role requires troubleshooting & supporting solutions with AWS (CSP) experience/knowledge.
+***Must have flexibility to work 24/7, rotating shifts.
+
+***US Citizenship is required for government clients support.
+
+Responsibilities
+Act as Tier 1 Support Engineer to triage and troubleshoot issues with AWS services like EC2, S3, RDS etc.Document solutions for known issues using the company knowledge base systemAdvocate customer requests, troubleshoot and resolve complex, escalate critical issues to L2/L3 and beyond and advocate for resolutionPrioritize technical issues, define, and track bugs and offer creative solutionsWork in a team setting in a shared services environmentPositive attitude expected - should be able to adapt and work based on business demandInterface with external customers as needed
+***Must have flexibility to work 24/7, rotating shifts.
+
+Primary Qualifications
+In depth knowledge of either UNIX/Linux or Windows Environment.Good written and verbal English communication.Open to work in rotating shifts in 24x7 model.Minimum 1 years of experience in Tier 1 support
+Bachelor’s degree in Computer Science, Engineering or equivalentProficient experience on System Administration (Linux / Windows) – CertifiedExperience on AWS at the AWS Associate/SysOps/Developer Certification course level. – Certified
+
+Linux Administration (RHCE Certification)
+Scripting (Shell or Python)
+ITIL experience in handling Incidents, changes, service requests
+Performance Monitoring (Nagios, Zabbix, Datadog, or any other such tools)
+TCP/IP Networking Knowledge
+SSL / TLS Management
+
+Preferred Qualifications
+
+Jenkins CI/CD Pipelines Management
+AWS Cloud Management
+Terraform / CloudFormation
+ELK Experience
+Security Fundamentals
+
+
+We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+
+#LI-GB1",6322,Washington
+16,Cyber Defense Cloud DevSecOps Engineer,Accenture,"Arlington, VA",None,"Accenture is a global collective of innovators whose aim is to improve the way the world works and lives. Empowered with innovative tools, continuous learning and a global community of diverse talent, we drive success in new business architecture that disrupts conventional practices Accenture Security helps organizations prepare, protect, detect, respond to, and recover, at all points of the security lifecycle. We hire the very best security talent and arm them with the coolest tools and latest tech so they can help our clients build resilience as we create integrated, customized turnkey solutions. We blend risk strategy, digital identity, cyber defense, application security and managed service solutions to rethink the entire security lifecycle.
+About Accenture Cyber Threat Intelligence (ACTI)
+ACTI is a global team that spans 13 countries and 4 continents and speaks more than 30 languages. We are passionate about delivering intelligence analysis, and providing industry-leading analytic insights, cyber context, and critical services our clients need to achieve their business-line and strategic-growth initiatives. We know success is only possible by developing and supporting our most-critical resources: our talented analysts, developers, and supporting team members. We value creativity and entrepreneurship in our team; where possible, we back staff initiatives with opportunities and investments. We enjoy the hunt. We strive to automate and innovate while working with powerful resources and differentiated data. Above all else, we value an egoless approach to guiding our clients as they navigate their businesses through all aspects of the cyber domain.
+Cyber Defense within Accenture Security provides several high-risk, high-impact services for our clients. As such, the teams within Cyber Defense have unique and challenging infrastructure and security requirements. Some of the infrastructure currently managed within Cyber Defense includes command-and-control infrastructure for advanced red teaming, cloud infrastructure to support incident response investigations, and custom environments dedicated to developing malware and reverse-engineering software. Additionally, the workstations and laptops of Cyber Defense personnel have unique security requirements and challenges. This person will report to the Global CDI Detection Lead, and will be responsible for the deployment, operation and security monitoring capabilities across Cyber Defense.
+Some of the responsibilities of this role include:
+Support cloud security architecture, compliance, and incident response across Cyber Defense.
+Implement and evolve “best practice” security standards for the management and security of Cyber Defense cloud infrastructure.
+Ensuring that cloud (AWS, Azure, GCP) and hybrid infrastructure is compliant with Accenture and/or client data protection policies.
+Maintaining an accurate and up-to-date inventory of Cyber Defense assets, accounts, and active controls.
+Conduct periodic scans and testing of Cyber Defense infrastructure to ensure compliance with security standards.
+And conduct periodic reviews of delivery methodologies and practices to ensure the highest level of quality and security.
+
+Basic Qualifications:
+Minimum of 3 years of experience in information security experience, with a recent focus on cloud .
+Minimum of 2 years of experience in Amazon AWS, Google Compute, and/or Microsoft Azure
+Minimum of 1 year of experience in Threat and Vulnerability Management
+Minimum of 1 year of experience with Aviatrix Multi-Cloud management platform.
+Preferred Qualifications:
+Experience with sensitive customer data and compliance frameworks (NIST, PCI, etc).
+System administration experience in Windows and/or Linux environments: 2-3 years
+Knowledge of Cyber Intelligence, Threat Operations, Penetration Testing, Red Teaming, Incident Response and Threat Hunting
+Security certifications: ACE, CISSP, CCSP, GSEC, etc.
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture. Equal Employment Opportunity Statement Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation. Our rich diversity makes us more innovative, more competitive and more creative, which helps us better serve our clients and our communities. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Accenture is committed to providing veteran employment opportunities to our service men and women. For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement Requesting An Accommodation Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired. If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter. Other Employment Statements Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration. Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",6322,Washington
+17,Junior DevOps Engineer,linuxjobber.com,"Greenbelt, MD 20770","$75,149 - $95,000 a year","Apply here: https://linuxjobber.com/jobs/apply/6All Candidates must have Red Hat Certified Systems Administrator certification. No Exceptions.Candidate must have a very good knowledge of computersCandidate must be a quick learner and goal orientedCandidate must be able to work with little or no supervisionAny previous computer certification would be a plusApply here: https://linuxjobber.com/jobs/apply/6Job Type: Full-timePay: $75,149.00 - $95,000.00 per yearSchedule:Monday to FridayWork Location:One locationWork Remotely:No",6322,Washington
+18,Cloud Support Engineer,Brightspot,"Reston, VA",None,"At Brightspot® we believe technology should enable content-focused teams to work smarter, faster, and more seamlessly to move businesses forward. With decades of experience in publishing and media, we help companies transform their business content and digital experiences by creating enterprise applications at scale with astonishing speed.
+
+Do you want to work hard alongside smart and talented product managers, engineers, and designers every day? Do you excel when you are smack in the middle of a challenging project, thrive when things get complex, and yawn when everything is going according to plan? Do you actually want to like your clients and coworkers?
+Our Cloud Engineers practice a hybrid of System Administration, Configuration/Release Management, and Systems Integration. At Brightspot, it’s not just about supporting software releases, it’s about departmental collaboration to bring success to our clients. We’re looking for an enthusiastic and proactive participant in a growing client support organization, focusing on highly available, highly visible cloud operations.
+Responsibilities
+Implement and manage multi-server deployments in AWS, Rackspace Cloud and Microsoft Azure
+Collaborate with development teams to deploy new code to production environments
+Maintain and improve monitoring systems and alarms for production environments, using Zabbix, Pingdom, ElasticSearch and Graylog
+Set up back-up mechanisms for production environment and test disaster recovery mechanisms
+Manage incident response with other engineers and clients
+Participate in rotating 24/7 on-call schedules with team members
+Qualifications
+2+ years of relevant experience in Cloud Operations
+Any familiarity with the following technologies in our stack: Linux, git, ruby, bash, AWS, Azure, Google Cloud, Kubernetes, MySQL, Solr, Apache, Tomcat, Java, Graylog, Kibana, Zabbix, and Datadog
+Proven troubleshooting and problem-solving skills in a cloud-based application environment
+Outstanding communication skills with the ability to work in a client-facing role",6322,Washington
+19,Azure Cloud Engineer,Applied Information Sciences,"Reston, VA 20191 (South Lakes Dr - Soapstone Dr area)",None,"Intro:
+
+As an Azure Cloud Engineer, you will use cutting-edge cloud and data technologies to streamline services to our clients. Join our team of Cloud professionals and accomplish what others only dream of.
+What You'll Be Doing:
+Guiding the design and implementation of secure solutions and services across the client’s business and IT support areas
+Employ excellent client-facing and consulting skills to create innovative business solutions based on your network and systems experience
+Define and implement secure networking solutions between on-premises data centers and commercial clouds
+Develop solutions integrating Microsoft Azure commercial clouds (public and government community) with services hosted on-premises and in other clouds
+Develop and maintain software solutions/scripts to support automation of cloud configuration and administration
+Implement AIS cloud infrastructure solution offerings based on public cloud, private cloud, hybrid client environments, and multi-cloud environments
+Support security audits, accreditation, and certification processes, and obtaining authority to operate (ATO) for cloud-based system architectures
+Set quality standards for tools, techniques, and methodologies, advising on their application, and ensuring compliance
+Location and Travel Details:
+
+This is a remote position with occasional travel once COVID restrictions are lifted.
+Profile of Success:
+5+ years of experience in systems engineering, designing platforms to support developers
+Strong experience with API Security, Container Security, Azure Cloud Security
+Must be well versed in general infrastructure technology and understand public and private cloud concepts such as Software as a Service (SaaS), Platform as a Service (PaaS), Desktop as a Service (DaaS), and Infrastructure as a Service (IaaS)
+Experience with automation to Infrastructure (IaC - Infrastructure as Code)
+Experience with the Cloud, Windows/SQL Server, Application Support, PowerShell scripting, and virtualization
+Experience developing, configuring, and managing cloud-based systems supporting enterprise web-based applications
+Ability to manage Azure subscriptions and resources, implement and manage storage, deploy and manage virtual machines, configure and manage virtual networks, and manage identities
+Experience with developing scalable architectures using API management, microservice frameworks, PaaS, and container orchestration systems, or other applicable platforms
+Desirable Skills:
+Obtain or utilize certifications as part of continuous professional growth
+Experience implementing secure and scalable hybrid cloud architectures
+Experience with DevOps workflows using tools like GitLab, Jenkins, and others
+About AIS:
+
+AIS, Dedicated to Our People
+AIS employees can spend their entire career at AIS doing challenging, rewarding work and reach their desired level of achievement and responsibility. We offer the opportunity to move up, without the obligation to move out of a position where one excels. We are committed to our employee's success; however, they define it.
+It's our dedication to our employees that inspired our leadership to invest in our future and become partially employee-owned through an Employee Stock Ownership Program (ESOP).
+Our employees are our greatest strength, and we do all that we can to serve them. We invest in technology as early adopters, allowing us to create transformative and innovative solutions for our customers while exposing our team to cutting edge technology.
+We hire outstanding individuals who are committed to curiosity, passionate about emerging technology, and who are excited to find innovative solutions for the biggest tech challenges facing international brands and government agencies today.
+We Invest in Individuals Committed to Innovation
+AIS is seeking professionals of a certain character and level of excellence. People that we can learn from and that we can help grow to achieve their personal career goals.
+We are looking for:
+Smart people with a passion for technology
+Strong technical capabilities with a consultancy mindset
+Close involvement with local technical communities
+A willingness to think outside of the box to provide innovative solutions to clients
+Ability to solve challenging technical business problems
+Self-directed professionals
+Our Core Values
+Client Success
+Continued Learning and Technical Excellence
+Strong Client Relationships
+Citizenship and Community
+EEO Statement:
+
+Applied Information Sciences is an Equal Opportunity Employer and does not discriminate on the basis of race, national origin, religion, color, gender, sexual orientation, age, disability, protected veteran status or any other basis covered by law. Employment decisions are based solely on qualifications merit, and business need.",6322,Washington
+20,"Cloud Engineer, Mid",Booz Allen Hamilton,"Washington, DC",None,"The Challenge:
+Are you looking for an opportunity to make a difference in the public sector? What if you could find a position that is tailor made for your mix of development, engineering, and communication skills? Efficient software development teams make the most of their time by limiting the activities that take developers away from writing their code. That’s why we need you, an experienced Cloud Engineer, to help us shorten the time it takes to get critical tools developed and into the hands of end users who need them to advance the public interest.
+As a Cloud Engineer, you will manage mission critical system infrastructure in a Cloud environment. You will recommend tools and capabilities based on your research of the current environment and knowledge of various on-premise, Cloud-based, and hybrid resources. You will work with your clients, development teams, and architects to inform strategy and architecture design. This is an opportunity to stay on top of the latest Cloud resources as you prototype using multiple techniques and new technologies. In addition, you will be able to gain experience in Cloud infrastructure, monitoring and automation, and Cloud native architectures while developing critical systems for a federal Cloud computing environment, including SaaS products, Web applications, and managed services. Join our team as we transform Cloud solutions to drive the next wave of a federal Cloud computing innovation.
+Empower change with us.
+You Have:Experience with deploying, operating, and maintaining Web based applications in a Cloud environmentExperience with operating and maintaining an Oracle databaseExperience with designing Cloud environments with DevOps and Continuous Integration Deployment tools, including maintaining and configuring the Atlassian stackExperience with designing and supporting applications using the Drupal 8 content management systemsExperience with developing, supporting, and administering Web applications, leveraging technologies, including SharePoint 2013, Drupal 8 and LAMP, Microsoft .NET 4.0, SQL Server 2008, RHEL 7.x, CSS 3.0, XML, Windows Server 2016, HTML, and jQueryKnowledge of allocating, configuring, and monitoring Cloud-based resources, including virtual machines, storage, and networking componentsKnowledge of DevOps, Cloud provisioning, Managed Services, and the Security Accreditation processAbility to debug and resolve functional, communications, performance, and security issues impacting operationsAbility to obtain a security clearanceHS Diploma or GED
+Nice If You Have:Experience with supporting Microsoft Dynamics and SharePoint in a Cloud environmentExperience with Amazon Web Services (AWS) and Azure Government Cloud environmentsExperience with supporting Oracle in a Cloud environmentAbility to anticipate customer requirements and build strategic plansPossession of excellent analytical, quantitative, and presentation skillsPossession of excellent verbal and written communication skillsAWS Cloud Practitioner Certification
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",6322,Washington
+21,Cloud Engineer,Effectual,"Washington, DC",None,"Under general direction, the successful candidate will be responsible for performing Cloud Engineering duties such as Cloud readiness assessments, AWS architecture design, system evaluation, system analysis, AWS Infrastructure Operations, Optimization and Maintenance, Change and Configuration Management Support, Release, Control and Validation of Cloud Infrastructure Deployment and Migration and infrastructure assessment. The cloud engineer shall perform duties on tasks that require expertise in AWS/Azure/system/processor architecture, client/server architecture, operating systems, software applications, network protocols, routers, switches, remote access servers, and firewalls.
+
+Essential Duties and Responsibilities:
+Maintain AWS Cloud Infrastructure in Optimal Configuration from both technical and budgetary perspectives
+
+Provide Functional Escalation Support and Expertise to the Incident Management Processes involving AWS Infrastructure or related issues
+
+Provide input and guidance to Personnel and Cloud Architects/SMEs to the overall AWS Architecture and Design tenets
+
+Compose and leverage AWS CloudFormation Templates for utilization, to ensure repeatable, sustainable AWS infrastructure is effectively managed
+
+Deploy, test and document development, pre-production, and production environments
+
+Train and mentor Junior Administrators and Engineers
+
+Create Amazon Virtual Private Cloud (VPC) resources such as subnets, network access control lists, and security groups
+
+Backup cloud and on-premise resources, including in a hybrid environment
+
+Leverage resource tagging to allocate costs and optimize resource planning
+
+Create gold images / AMIs and employ auto scaling
+
+Assist in preparing cost analysis based on expected usage
+
+Configure multi-factor authentication on virtual and hardware devices
+
+Create IAM users and groups
+
+Maintain availability of critical AWS Cloud infrastructure. To include configuration changes to AWS Cloud Services (UACS) shared services, adhere to compliance requirements, PVT, PROD environments as approved and directed.
+
+Improve operational capabilities of UACS enterprise infrastructure as approved and directed.
+
+Maintain availability of production systems deployed into AWS managed area that are not covered in Project-Related Configuration Support or Prototype Configuration Support.
+
+Communication, including responding to C3, Alert distributions, support team requests, system business area requests, ESSD requests within 30 minutes of receipt, during business hours.
+
+Investigating reported and suspected outage issues, documenting issue, resolution, maintaining knowledge base of known issues.
+
+Review and enhance Operational Service Plans (OSPs), Run books, known issues knowledge bases, log defects.
+
+Basic Qualifications:
+Minimum Education: I – A.S. degree, II & III - B.A. or B.S. degree in related discipline or equivalent experience
+
+Minimum Years of Experience: I - Must have a minimum of 2 years of experience cloud engineering, II – Must have a minimum of 3 years of experience cloud engineering with 5+ years in overall technical engineering, III – Must have minimum of 4 years of experience in Cloud Engineering with 7+ years in overall technical engineering
+
+II – Must have AWS Associate – Level Certification; III – Must have AWS Professional-Level Certification
+
+US Citizenship
+
+Must have public trust clearance or higher
+
+Experience documenting technical requirements
+
+Must have strong written and verbal communication skills
+
+Proficient at multi-tasking and proactive in work responsibilities
+
+Superior attention to detail
+
+Passion for providing great customer service
+
+Preferred Qualifications:
+AWS or Microsoft Cloud Certification desired for all personnel
+
+At least 1 year in enterprise cloud deployments desired
+
+At least 2 years development experience desired
+
+Solid understanding of Linux and Windows operating system
+
+Advanced troubleshooting skills
+
+Capability in architecture design, system evaluation, system analysis, and infrastructure assessment
+
+Be proficient in scripting image deployment and bootstrapping
+
+Experience with AWS CloudWatch and other automation services
+
+Strong background in Microsoft based applications
+
+Maintain account documentation, such as architecture diagrams and portal links.
+
+Knowledge of databases like MySQL, Oracle, SQLServer, or MongoDB
+
+Experience in a 24/7 production environment
+
+Excellent communication, prioritization, and analytical skills
+
+Ability to work in a fast paced and agile development environment
+
+Ability to thrive in a fast-paced, high-intensity, Agile Scrum team work environment and exhibit flexibility as innovation is implemented.
+
+Must be able to see opportunities for improvement, take ownership and closely work with development team to drive product improvement",6322,Washington
+22,Cloud Access Security Monitoring Info Security Engineer,Wells Fargo,"Washington, DC",None,"Job Description
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as “Personal Cell” or “Cellular” in the contact information of your application.
+At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.
+Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.
+The Distributed Platform Security team designs, implements, and supports secure virtual hosting platforms including Citrix Published Applications / Desktops and VMWare Virtual Desktops. We also operate Cloud Access Security Monitoring infrastructure used to generate reports that quantify the risk of SaaS tool usage. This actionable intel is leveraged by Third Party Risk Management and other organizations to minimize risk and satisfy compliance objectives.
+We are seeking an Information Security Engineer to support our on-premises deployment of Netskope’s CASM tool, migrate its reporting components to the Cloud, and ongoing support the hybrid deployment including maintenance of integration with various monitoring, scanning and compliance tools.
+Key Responsibilities Include:
+Support Netskope “Discovery” Cloud Access Security Monitoring (CASM) system including Ubuntu OS, Windows Server, and Mongo database.
+Integrate CASM system with Broadcom proxies, and Splunk Heavy Forwarder / CS4A feeds and Okta authentication / authorization.
+Contribute to continuous improvement of compliance risk management program by working collaboratively across risk disciplines to improve compliance validation methodologies.
+Work with peer engineers to ensure consistency and accuracy of multiple internal systems or record (Remedy, SAR, AMP, TSC, PAVR, DMAN, Validation Framework, Security Planning & Assessment of Risks / Controls (SPARC).
+Leverage Agile tools (Jira, Confluence) to track work assignments and contribute to comprehensive knowledge management system for design documents, build and baseline configuration documents, troubleshooting material, audit materials, etcetera.
+Recommend and initiate systems testing, prepare production change / validation plans.
+Work across lines of business to assess tools, define / improve processes and automate systems for greater efficiencies.
+Possess subject matter expertise in industry leading security solutions and best practices across one or more components of information security such as availability, integrity, confidentiality, risk management, threat identification/modeling/monitoring, incident response, access management, and business continuity.
+Able to interface with senior management.
+
+Required Qualifications
+5+ years of information security applications and systems experience
+4+ years of information technology applications and systems experience
+2 + years of experience with Windows server operating systems
+2+ years of experience with Cloud technologies
+3+ years of experience engineering and analyzing UNIX based operating system, Linux based operating system or a combination of both
+2+ years of experience in planning and managing cloud application migration and large scale cloud platform deployment
+Desired Qualifications
+Strong verbal, written, and interpersonal communication skills
+Vendor management experience
+Knowledge and understanding of information security log management system
+Knowledge and understanding of Splunk
+2+years of Mongo DB experience
+Experience using the team collaboration software Confluence
+Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban
+1+ year of web proxy administration or support experience
+Experience working with cloud access security brokers
+Other Desired Qualifications
+
+Experience connecting security log sources and creating reports and dashboards to monitor for notable security events
+Problem solving skills, ability to develop effective long-term solutions to complex problems
+
+Job Expectations
+Ability to work weekends and holidays as needed or scheduled
+Ability to work additional hours as needed
+Ability to travel up to 5% of the time
+Street Address
+IL-Chicago: 10 S Wacker Drive - Chicago, IL
+NC-Charlotte: 401 S Tryon St - Charlotte, NC
+NC-Winston Salem: 809 W 4 1/2 St - Winston Salem, NC
+NC-Charlotte: 1525 W Wt Harris Blvd - Charlotte, NC
+VA-Glen Allen: 4340 Innslake Dr - Glen Allen, VA
+TX-San Antonio: 4101 Wiseman Blvd - San Antonio, TX
+DC-Washington: 1700 K Street NorthWest - Washington, DC
+NC-Raleigh: 1100 Corporate Center Dr - Raleigh, NC
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+AZ-PHX-Central Phoenix: 100 W Washington St - Phoenix, AZ
+AZ-PHX-Northwest Phoenix: 2222 W Rose Garden Ln - Phoenix, AZ
+AZ-Tempe: 1305 W 23rd St - Tempe, AZ
+TX-Plano: 4975 Preston Park Blvd - Plano, TX
+TX-Irving: 2975 Regent Blvd - Irving, TX
+MN-Minneapolis: 255 2nd Ave S - Minneapolis, MN
+MN-Minneapolis: 600 S 4th St - Minneapolis, MN
+MN-Minneapolis: 425 E Hennepin Ave - Minneapolis, MN
+MN-Saint Louis Park: 600 Highway 169 S - Saint Louis Park, MN
+IA-Des Moines: 800 Walnut St - Des Moines, IA
+MO-Saint Louis: 1 N Jefferson Ave - Saint Louis, MO
+PA-Philadelphia: 101 N Independence Mall E - Philadelphia, PA
+CA-SF-Financial District: 333 Market St - San Francisco, CA
+MA-Boston: 125 High Street - Boston, MA
+NY-New York: 150 E 42nd St - New York, NY
+GA-Atlanta: 3579 Atlanta Ave - Atlanta, GA
+OR-Portland: 1300 Sw 5th Ave - Portland, OR
+CA-El Monte: 3440 Flair Dr - El Monte, CA
+UT-Salt Lake City: 260 Charles Lindbergh Dr - Salt Lake City, UT",6322,Washington
+23,Junior DevOps Engineer,Stellar Inc.,"Arlington, VA",$40 - $55 an hour,"***OPT/H4-EAD Candidates Only***We are looking for Devops/AWS/Java full stack/Angular/React/.NET candidates who are on OPT/H4-EAD/GC and have at least 3 years of professional experience. The candidates should be able to work on W2. We provide H1B and GC sponsorship.We are approved vendors with Disys, Pyramid and Tech Mahindra and we get plenty of job requirements on regular basis. The pay rate for our candidates ranges from $45/Hr - $60/Hr on W2 depending upon the experience.Job Types: Full-time, ContractPay: $40.00 - $55.00 per hourSchedule:8 hour shiftDay shiftMonday to FridayEducation:Bachelor's (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19",6322,Washington
+24,Mid-Level Cloud Technology Engineer,Fannie Mae,"Reston, VA",None,"Company Description
+At Fannie Mae, futures are made. The inspiring work we do makes an affordable home a reality and a difference in the lives of Americans. Every day offers compelling opportunities to modernize the nation's housing finance system while being part of an inclusive team using new, emerging technologies. Here, you will help lead our industry forward, enhance your technical expertise, and make your career.
+
+Job Description
+As a valued colleague on our team, you will design and develop moderately complex solutions for information technology (IT) infrastructure environments, including coding, testing, and certifying technology platforms, software, and applications under limited supervision.
+
+THE IMPACT YOU WILL MAKE
+The Mid-Level Cloud Technology Engineer role will offer you the flexibility to make each day your own, while working alongside people who care so that you can deliver on the following responsibilities:
+Develop moderately complex solutions for application design and IT infrastructure components.
+Understand the end-to-end performance of IT platforms.
+Draft and maintain policies, guidelines, and standard operating procedures.
+Independently monitor advanced performance and capacity metrics for technology solutions.
+
+Qualifications
+THE EXPERIENCE YOU BRING TO THE TEAM
+
+Minimum Required Experiences
+2 years
+Desired Experiences
+Bachelor degree or equivalent
+Skills
+
+Skilled in cloud technologies and cloud computing
+Hands-on in coding, specifically with Python (i.e. extending work privileges)
+Programming including coding, debugging, and using relevant programming languages
+Hands-on development/engineering experience
+Ability to handle IAM requests to support Fannie Mae cloud journey
+Experience using JIRA for handling tickets
+Experience working in an Agile environment
+Working with people with different functional expertise respectfully and cooperatively to work toward a common goal
+Experience migrating teams or applications into the Cloud
+Relationship Management including managing and engaging stakeholders, customers, and vendors, building relationship networks, contracting, etc.
+
+Tools
+
+Experience using IAM
+Experience using JIRA
+Skilled in Python
+Skilled in JSON
+Experience in AWS, Cloud space
+Skilled in coding
+Well-versed in Agile
+Additional Information
+Job REF ID: REF6022U
+The future is what you make it to be. Discover compelling opportunities at Fanniemae.com/careers.
+
+Fannie Mae is an Equal Opportunity Employer, which means we are committed to fostering a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, religion, national origin, gender, gender identity, sexual orientation, personal appearance, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation in the application process, email us at careers_mailbox@fanniemae.com.",6322,Washington
+25,Cloud Engineer,Yakshna Solutions,"Herndon, VA 20170","$94,000 a year","-
+ID Job Title Job Description
+
+5866602 Cloud Engineer
+Our Virginia local state client is looking for Cloud Engineer 3 in Richmond, VA for full time, long term engagement. If interested, please submit your resume ASAP
+Local candidates are HIGHLY preferred.
+Interviews will be conducted via phone, Skype or Google Hangout.
+Candidates will telework now (after coming to office to pick up laptop). Once restrictions are lifted, candidates will be required to work onsite daily M-F 8-5pm, NO exceptions
+Cloud Engineer to Support VDOT Transportation Management Systems
+Position is needed to support several Transportation Management Systems that will either be transitioned to or implemented in the Microsoft Azure Cloud Environment.
+Position Requirements
+Formal Education & Certification
+Degree in computer science or software engineering and/or 13 years equivalent work experience.
+Knowledge and Experience
+Strong system administration (Linux/Unix or Windows) at the command-line level.
+Strong scripting skillet.
+Multi-tier architectures: load balances, caching, web servers, application servers, databases, and networking.
+Understanding of cloud security best practices.
+Experience with templates and other configurable items to enable automation.
+Familiarity with deployment techniques (and tools) in a distributed environment.
+Basic monitoring techniques in a dynamic environment.
+Design of self-healing and fault-tolerant services.
+Understanding of stateless and loosely coupled distributed applications.
+Familiarity developing with RESTful API interfaces.
+Basic understanding of relational and non-relational databases.
+Familiarity with messaging and queuing services.
+Infrastructure as Code: design and security, configuration management, integration, deployment, performance monitoring and tuning, automation of infrastructure.
+Working knowledge of one or more high-level programming languages (C#, Java, PHP, Ruby, Python, etc.).
+Minimum of an undergraduate (Bachelors) degree in Information Technology, Information Systems Management, Computer Science, or a related field from a regionally accredited University registered with the Department of Education.
+Required Certifications:
+Microsoft Azure Fundamentals
+ Location: 1221 E Broad Street, Richmond VA 23219
+Annual Salary: $94K, plus Benefits
+YSI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+Please e-mail your profile / referrals to resumes@yakshna.com",6322,Washington
+26,Cloud Engineer,"UNICOM Government, Inc.","Chantilly, VA 20151","Up to $175,000 a year","UNICOM Government, Inc. is looking for a AWS Cloud Engineer to join our Engineering team. As a AWS Cloud Engineer, your main focus will be to write clean and scalable code to run on AWS services (e.g. between decoupled services built with serverless application model) to assist in a multi-region highly available AWS implementation.You will contribute to the design, analysis, development, implementation, upkeep/maintenance, and deployment using AWS Cloud Developer Kit of new event & data-driven applications. The ideal candidate has the ability to function in an agile software development lifecycle and will thrive in a hands-on, focused, productive and team-oriented environment.In this role, you will: Strong “security first” advocacy and encourage when creating all AWS servicesWrite scalable and maintainable Python 3.x for AWS services (e.g. Lambda, Fargate)Design, develop and monitor Websockets and RESTful APIsUtilize AWS to create cost effective and efficient services for file migrationsCreate clean and organized CDK templates and deploy stacksManage the security and organization of files in S3Manage Cognito user pool to control API Gateway accessShared responsibility for 24x7 research and resolution of production system problems through participation in an on-call rotationTo be successful in this role, you have (required): 3+ years of experience with Python and TypeScriptExperience with a version-control system (e.g. git)Experience with Team Foundation Server is a plusWorking knowledge of: CDKCloud FormationAPI GatewayLambdaRoute53JWT, API w/ Websockets, Mutual TLSS3ECS/FargateDynamoDBSQSAt UNICOM Government, Inc., our top priority is our people. We support our employees in maintaining a healthy work-life balance by providing unique programs and comprehensive benefits that are important to today’s busy professionals.UGI’s benefits include Medical, Dental, and Vision plans, life and disability insurance, 401K, short and long-term disability- and flexible spending. UGI employees also enjoy observance of federal holidays, a family-friendly environment, flexible work schedules, and an onsite gym. If you are interested in a career with UGI, please visit https://www.unicomgov.com/about/careers/ to learn more and apply directly to our openings.Thank you for your interest in UNICOM Government, Inc.We are proud to be an Equal Employment Opportunity/Affirmative Action employer. Male/Female/Disabled/VeteranApplicants can learn more about the company's status as an equal opportunity employer by viewing the federal ""EEO is the Law"" poster at EEOPost.pdfOne Mission. Yours.Job Type: Full-timePay: Up to $175,000.00 per yearBenefits:401(k)Dental insuranceDisability insuranceFlexible spending accountHealth insuranceLife insurancePaid time offVision insuranceSchedule:8 hour shiftMonday to FridayAbility to Commute/Relocate:Chantilly, VA 20151 (Required)Education:High school or equivalent (Preferred)Experience:Python: 3 years (Required)TypeScript: 3 years (Required)Work Location:One locationThis Job Is:A job for which military experienced candidates are encouraged to applyA job for which all ages, including older job seekers, are encouraged to applyOpen to applicants who do not have a college diplomaA job for which people with disabilities are encouraged to applyCompany's website:www.unicomgov.comBenefit Conditions:Waiting period may applyWork Remotely:No",6322,Washington
+27,Cloud Engineer,Leidos,"Reston, VA 20170","$91,000 - $140,000 a year","Description
+Job Description:
+The REACTS program is looking for a pro-active Senior level Cloud Engineer with a broad range of skills to deploy and manage the Idemia MBSS search software in our intelligence customer environment. This person will aid in every part of the delivery cycle, from engagement with senior customers to software development as a forward-deployed member of Agile teams.
+Primary Responsibilities
+Leverage knowledge and skills associated with the Idemia MBSS biometric search product
+Leverage knowledge and skills associated with cloud-first and AWS native architectures.
+Leverage knowledge and skills associated with AWS Console, CLI, and Manage Services
+Utilizing cloud services to build infrastructure as code in an automated fashion
+Implement DevSecOps including auto-scaled architectures for rebuilds
+Use knowledge for IT systems to include, but not limited to;
+Linux baselines: CentOS and Ubuntu, Bash Scripting and hardening protocols
+Micro-Services: building decoupled systems, utilizing RESTful endpoints and lightweight systems
+Data Management: landing zones, data lakes, and data movement restrictions for security
+Development: Modern coding principles, continuous integration pipelines, and automation-first implementations
+Security: understanding of information security postures for members of the Intelligence Community, engineering of secure solutions, and experience providing security documentation
+Operations: continuous deployments, rip and replace architectures, dynamic monitoring, and quick-response operations up-time
+CI/CD tools: Git and Jenkins
+Basic Qualifications
+Experience with the Idemia MBSS biometric search product
+Significant experience with cloud-first and AWS native architectures
+Significant experience with AWS Console, CLI, and manage services utilizing cloud services to build infrastructure as a code in an automated fashion
+Preferred Qualifications
+AWS certifications, like associates and developer
+At least 2 years of C2S experience
+Demonstrated experience of the following;
+Cloud formation
+Serverless architectures and implementations
+Big data solutions for data lake implementations (Elasticsearch)
+Managing complex Sponsor relationships and requirements gathering
+Experience with migrating workloads to the cloud
+Injecting detailed technical direction into teams for adoption
+Candidate must have an active TS/SCI with polygraph – Full Scope Polygraph desired.
+Candidate must have BS degree with 8-12 years of prior relevant experience or Masters with 6-10 years of prior relevant experience. Additional years of experience can be accepted in lieu of a degree.
+NSOINT
+
+External Referral Eligible
+External Referral Bonus:
+Eligible
+External Referral Bonus $:
+5000
+Potential for Telework:
+Yes, 75%
+Clearance Level Required:
+Top Secret/SCI with Polygraph
+Travel:
+Yes, 75% of the time
+Scheduled Weekly Hours:
+40
+Shift:
+Day
+Requisition Category:
+Professional
+Job Family:
+Systems Engineering
+Pay Range:
+Pay Range $91,000.00 - $140,000.00 - $189,000.00
+#Remote",6322,Washington
+28,Cloud Support Engineer,Appian Corporation,"McLean, VA",None,"The Appian Support Engineering team provides technical expertise to our customers around the globe, touching every layer of the Appian platform. From data analysis to creative problem solving, our Support Engineers tackle the most challenging technical problems encountered by Appian customers and partners.
+
+We are looking for a hands-on Senior Solution Engineer with demonstrated technical expertise on the Appian platform and superior problem solving skills. The Cloud Support Engineer will have a passion in improving customer experience and internal systems, tools and processes used by the Support Engineering team.
+
+Each day will be unique and filled with exciting challenges, but on a typical day you will:
+
+Learn and use the latest technologies
+Apply advanced troubleshooting techniques to provide solutions to our customers
+Collaborate with various teams and subject matter experts to help reproduce and resolve customer issues
+Drive customer communication during critical incidents
+Work on critical, highly complex customer problems that may span multiple technologies like VPNs, databases, authentication, etc
+Leverage your contact with customers to capture feedback with how Appian can improve
+Write tutorials and other technical articles for both Appian Customers and Appian Employees
+Drive projects that improve support-related processes and our customers' technical support experience
+Develop 24/7 systems that are leveraged globally to monitor, prevent, and respond to our customers' cloud issues
+
+Why Appian Support?
+
+We promote advancement opportunities across the organization to help you meet your career goals
+We have training programs to help you develop the skills required to be successful in your role
+We are growing, and with growth comes opportunity
+
+Basic Qualifications
+
+Bachelor's degree in Science, Technology, Engineering or Mathematics (STEM)
+2+ years in a technology focused role
+Strong communication skills (written and verbal)
+Comfortable working in a Linux environment
+Experience with networking fundamentals like VPNs, DNS, TCP/IP, UDP, etc.
+Willing and able to provide after hours support (rotation every 12 or so weeks)
+
+Preferred Qualifications
+
+2+ years in a customer facing technology role
+Certifications: AWS Associate Solution Architect, CCENT or CCNA
+Advanced analysis of packet capture (Wireshark, tcpdumps etc)
+Knowledge of Containerization solutions (Kubernetes and Docker)
+Familiarity with Database concepts (tables, views, ERDs, etc)
+Experience with Appian development
+
+About us
+
+Appian helps organizations build apps and workflows rapidly, with a low-code automation platform. Combining people, technologies, and data in a single workflow, Appian can help companies maximize their resources and improve business results. Many of the world's largest organizations use Appian applications to improve customer experience, achieve operational excellence, and simplify global risk management and compliance. Our employees create opportunities to drive hands-on impact both with our customers and throughout the organization, which creates an environment where meaningful work is met with career growth and opportunity. As a result, we are proud to have been recognized as a Washington Post Top Workplace for seven consecutive years. Simply put, we are changing the way businesses operate and our employees are to thank for Appian's success.
+
+Appian Corporation is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. Further, Appian will not discriminate against applicants for inquiring about, discussing or disclosing their pay or, in certain circumstances, the pay of their co‐worker, Pay Transparency Nondiscrimination .
+
+#LI-KC1",6322,Washington
+29,Federal - Junior DevOps Engineer,Accenture,"Arlington, VA",None,"Organization: Accenture Federal ServicesLocation: W ashington, DC, San Antonio, TX, St. Louis, MOWe are: Accenture Federal Services, bringing together commercial innovation with the latest technology to unleash the potential for our federal clients. Every day we bring bold thinking and diverse disciplines to solve problems in new ways. We guide them through DevOps adoption and transformation, from application to enterprise. Ready to learn as much as you can We’ll give you numerous opportunities from informal training sessions to courses and certifications to keep your tech smarts sharp.You are: You enjoy using new technologies to help our clients increase the pace and efficiency of solution delivery. Driven by curiosity, you constantly explore ways of improving and enhancing the components you develop and are constantly building new skills. You thrive in a collaborative, creative and productive team environment where ideas are freely exchanged, and innovative concepts evolve into practical solutions.The work: - Participate in technical solution and design discussions - Perform proofs of concept and comprehensive solutions throughout the development lifecycle- Utilize open source tools, automation, and cloud services to implement enterprise DevOps solutions - Add new features while improving efficiency, reliability, and scalability to address client needs - Gather information to deliver weekly reports to clients
+
+Here's what you need:- 1 years of experience in a technology role- At least two of the following:- 1 years of experience scripting and/or programming in a Unix or Linux environment- 1 year of experience with automation frameworks including at least one of the following: Ansible, Chef, Puppet, Salt- 1 year of experience designing and implementing runtime architectures or container-based applications (Docker)Eligibility Requirements:- US Citizenship required.Important information:Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture Federal ServicesAccenture Federal Services is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.Equal Employment Opportunity:All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.An active security clearance or the ability to obtain one may be required for this role.
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",6322,Washington
+30,Cloud Engineer (Top Secret),Datastrong,"Washington, DC 20036 (Downtown area)",None,"Cloud Engineer
+Location: Washington DC
+Job ID: 1187
+Top Secret clearance required
+We are seeking a driven and talented Cloud Engineer with a background in development or DevOps, to join our thriving Cloud Services business unit and work with some of the best Cloud Architects and Cloud Engineers in the market. This individual will bring a passion for technology, a strong technical skill set, and proven experience in the development or DevOps space.
+Responsibilities:
+Work effectively within a delivery-centric professional services organization
+Navigate client-facing engagements and work in tandem with other vendors
+Support execution activities across the full project lifecycle
+Contribute to technical discussions both internally and with customer or vendor teams
+Focus on cloud-native services and optimizing the customer landscape through adoption of these services
+Define and engineer solution capabilities that satisfy customer business drivers / requirements and meet service delivery objectives
+Produce high-quality, well-written technical documentation, including design plans, implementation diagrams, data flow mappings, and as-built documents
+Take ownership of solutions, assignments, actions items and issues, and remain accountable for their completion
+Ability to look at existing solutions and propose enhancement/ improvements
+Work effectively with other team members, customers and key stakeholders and foster team success
+Ability to communicate clearly and concisely with team members and customers.
+Provide transparent and regular status updates in requested format
+Be willing to learn, collaborate, contribute and improve
+Be a positive force within the team and ready to roll up your sleeves
+Achieve and maintain AWS or other cloud certification levels
+Required Skills:
+Clearance Required: None. Must have the ability to obtain a public trust
+Bachelor’s degree and 2-4 years of experience in a role that encompasses software development, DevOps or infrastructure automation, as well as systems engineering
+An understanding of Object Oriented programming and Unit Testing
+Experience with programming languages such as Python, Ruby, and Java
+Ability to dissect a technical architectures into engineering plans and development tasks
+Ability to come up with more than one solution to the problem – in other words, provide options
+Ability to write Terraform and/or AWS CloudFormation templates, or other automation frameworks
+Experience with Linux scripting (BASH, CSH, KSH), Javascript, Python, PostgreSQL, and PowerShell
+Strong understanding of native cloud tools used for development and deployment of code
+A ""sure can!"" and a “customer first” attitude
+Desired Skills:
+Experience working across multiple vendors or directly with customer teams in support of common goals
+Hands-on experience writing and deploying AWS Lambda functions and/or IaC ( Infrastructure as Code)
+Demonstrate the ability to improvise solutions and/or build things faster, either with automation or with existing products
+Basic knowledge of containers and related services
+Basic knowledge of serverless architecture patterns and their components
+Basic knowledge of Azure or GCP services
+Ability to build code pipelines and support deployment activities
+A good understanding of foundational AWS components (e.g. VPN, Direct Connect, IAM, CloudWatch, ""cross account"" capabilities)
+Strong written and verbal communication skills
+Strong analytic, organization, presentation, customer service and facilitation skills
+Datastrong is committed to hiring and retaining a diverse workforce. We are an Equal Opportunity and Affirmative Action Employer, making decisions without regard to race, color, religion, sex, national origin, age, veteran status, disability, or any other protected class. If accommodation is needed in the application process, arrangements can be made with the local regional office.",6322,Washington
+31,Jr Cloud Software Engineer,Red Arch Solutions,"Fort Meade, MD",None,"Red Arch Solutions is a proven and effective small business integrator and consultant, recognized as a leading provider of IT development to the Federal Government, and primarily focused within the Intelligence Community. We offer excellent benefits, including 20 days PTO, 10 holidays, up to 10% 401k contribution, and reimbursement for tuition/certifications. Top of the line PPO Medical, Dental, Vision, and Short and Long-Term disability are also offered. We are also an official AWS Partner, and are pleased to now offer Cloud Solutions Architecture and Engineering using Amazon Web Services.
+Red Arch is looking for a Jr Cloud Software Engineer. Job Duties to include:
+Perform as a software engineer on a large agile team developing a mission-critical product on a Linux baseline.Work independently on complex tasks, both design and implementationDesign software architectures for distributed systemsIntroduce new patterns, practices, techniques, or other contributions to a development team with a focus on increasing team productivityDevelop asynchronous, distributed systems in a modern software development stack
+Red Arch Solutions is a proven and effective small business integrator and consultant, recognized as a leading provider of IT development to the Federal Government. We offer excellent benefits, including 20 days PTO, 10 holidays, up to 10% 401k contribution, and reimbursement for tuition/certifications. Top of the line PPO Medical, Dental, Vision, and Short and Long-Term disability are also offered.
+Red Arch Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, national origin, age, marital status, disability, or protected veteran status. Red Arch Solutions takes affirmative action in support of its policy to advance in employment individuals who are minorities, women, protected veterans and individuals with disabilities.
+GWsCZElYVJ",6322,Washington
+32,"Software Engineer (COTS, AWS, Python)",Fannie Mae,"Reston, VA",None,"Company Description
+At Fannie Mae, futures are made. The inspiring work we do makes an affordable home a reality and a difference in the lives of Americans. Every day offers compelling opportunities to modernize the nation's housing finance system while being part of an inclusive team using new, emerging technologies. Here, you will help lead our industry forward, enhance your technical expertise, and make your career.
+
+Job Description
+As a valued colleague on the Corporate Systems Tech/Governance, Risk & Compliance team, you will contribute to designing, producing, testing, or implementing routine or foundational software, technology, or processes, as well as contribute to creating and maintaining IT architecture, large scale data stores, and cloud-based systems. You will be an integral part of our digital transformation
+
+THE IMPACT YOU WILL MAKE
+The Software Engineer role will offer you the flexibility to make each day your own, while working alongside people who care so that you can deliver on the following responsibilities:
+Gather and document information about the needs of the customer and create preliminary solution frameworks.
+Under the guidance of management, design and develop software solutions to meet needs.
+Apply fundamental knowledge of process-driven approach in designing solutions.
+Collaborate with senior staff to implement new software technology.
+Maintain existing software using standard methods, practices, and precedents.
+
+Qualifications
+THE EXPERIENCE YOU BRING TO THE TEAM
+Required Experiences:
+At least one year of relevant experience
+Experience with COTS applications
+Experience with .Net Core and ASP.NET5
+AWS or other cloud technology experience or strong desire to work on cloud technology implementation and development
+Experience with development/design using Python
+Experience partnering closely with other members of functional project teams to define business requirements
+Experience in production support that has high visibility/SLA
+Strong problem-solving skills in troubleshooting issues and maintenance of Web Services
+Ability to collaborate and work with stakeholders across multiple groups
+Ability to effectively communicate and collaborate with other engineering teams and key business stakeholders
+Desired Experiences
+Bachelor’s degree or equivalent
+Experience with TeamMate
+Experience with Teammate Application installations and integrating Teammate application using API’s
+Experience with implementing integration solutions with RESTful Web Services and Web APIs
+Ability to lead in an Agile environment
+Knowledge or experience in basic DevOps support and deployment
+Knowledge development/technical skills in Tomcat, Maven, Git, Jenkins, CI/CD pipelines
+
+Additional Information
+The future is what you make it to be. Discover compelling opportunities at Fanniemae.com/careers.
+
+Fannie Mae is an Equal Opportunity Employer, which means we are committed to fostering a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, religion, national origin, gender, gender identity, sexual orientation, personal appearance, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation in the application process, email us at careers_mailbox@fanniemae.com.
+REF6053S",6322,Washington
+33,Cloud Security Engineer,Cyber Security Innovations,"Washington, DC 20001 (Shaw area)","From $140,000 a year","Federal client is making major investments in moving to Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS) cloud vendors for the majority of its computing needs. As the client moves to the cloud, it requires skilled resources that understand how security in the cloud is similar to that of on-prem data centers and the key differences that require different controls and different approaches.This task supports the security activities associated with evaluating, implementing, managing security practices and continued operations of new and existing technologies across all cloud environments.The Contractor should possess demonstrable experience working in at least one of the following cloud environments: Amazon Web Services (AWS), Azure, or Google. The Contractor should be well-versed in the architecture and design of the respective cloud including associated services, how the cloud interconnects with agencies, and, specifically, how to conduct business within the cloud environment in a secure manner.The Contractor shall: Understand architectural development for cloud automated frameworks for Security Tool deployment and development, leveraging various scripting languages and open source solutionsUnderstand architectural design and implement security measures related to computer networks, software testing, validation procedures, programming, and documentation as it pertains to Cloud Security, Application Security, Vulnerability Management, and Network SecurityUnderstand cloud security plans that implement systems and procedures to effectively secure company information, infrastructure, intellectual property, and users against accidental or unauthorized modification, destruction or disclosureApply agile practices to analyze internal security and provide relevant information to internal and external customers, suppliers, and partnersWork with assigned system stakeholders to understand their cloud infrastructure to adequately support the agencies missionUnderstand and interpret cloud services that are offered on a platform, to include 3rd party servicesAbility to determine cost associated with cloud services and address anomalies accordinglyAssist with the implementation of monitoring capabilities for various audiences – developers, business owners, security, and infrastructure; analyze all platform level, network changes and monitor impact and provide appropriate technical solutions to resolve issues efficiently; evaluate and document operating baseline according to required standardsProvide oversight of application packaging to ensure automation is being utilized for both the application and infrastructure builds throughout the development, test, and production environments. This includes the automation of server builds for VMs and maintenance of these builds utilizing chef scripting as deemed appropriateUtilize in-depth knowledge of infrastructure components (VM’s, Security Products, Network ports and protocols, Databases, Middleware and open source code) to support DevOps in an enterprise environment to build, maintain and sustain an enterprise information technology DevOps operational modelProvide technical support for enterprise infrastructure components (network, database, middleware, security and open source code) technology transitions and migrations to cloud services e.g. Platform as a Service (PaaS), Infrastructure as a Service (IaaS), etcEvaluate and implement automation of server and application builds and monitoring for multiple environments (Development, Test, Training, Production, and Disaster Recovery)Ability to perform computer incident response and remediation practices as outlined in NIST 800-61 (Computer Security Incident Handling Guide) and DHS 4300A Sensitive Systems Policy Handbook, Attachment F Incident Response. The contractor’s staff will assist the agencies Security Operation Center (SOC) on incident response actions for security incidents affecting the agencies Cloud environment on an as needed basisPerform other duties as assigned by the GovernmentJob Type: Full-timePay: From $140,000.00 per yearBenefits:401(k)Dental insuranceHealth insurancePaid time offProfessional development assistanceVision insuranceSchedule:Monday to FridayApplication Question(s):Do you have the following?Demonstrated proficiency in vast array of Cyber Security platforms: Standard Application Online (SAO), Security Information and Event Management (SIEM), Intrusion Detection System (IDS)/Intrusion Protection System (IPS), Data Loss Prevention (DLP), Web Application Firewalls (WAF), Threat Intel, Endpoint SecurityEducation:Bachelor's (Preferred)Experience:Information Systems Security Professional: 5 years (Required)Vulnerability Management Tools: 5 years (Required)security engineering or security operations: 5 years (Required)License/Certification:At least one: CISSP, CEH, CISM, CISA, Cloud+, AWS, CCSP (Required)Work Location:One locationWork Remotely:Temporarily due to COVID-19",6322,Washington
+34,Cloud DevOps Engineer,Booz Allen Hamilton,"Herndon, VA",None,"The Challenge:
+Are you looking for an opportunity to make a difference in Cybersecurity? What if you could find a position that is tailor made for your mix of development, engineering, and communication skills? Efficient software development teams make the most of their time by limiting the activities that take developers away from writing their code. That’s why we need you, an experienced DevOps engineer, to help us shorten the time it takes to get critical tools developed and into the hands of Cybersecurity analysts who need them to protect the nation's critical infrastructure and information systems.
+As a DevOps engineer on our team, you’ll use your development experience to streamline our software development lifecycle from requirements to monitoring in production. You’ll lead efforts to incorporate open source tools, automation, and cloud resources to cut down on tedious, boring tasks and free up the team’s developers to do what they do best – innovate. You’ll implement continuous integration and delivery to limit manual testing and troubleshooting. This is an opportunity to broaden your skillset into areas like automation and cloud-based development while developing software that will national cybersecurity. As a technical leader, you’ll identify new opportunities to build software solutions to help your customers meet their toughest challenges. Join our team as we build tools to transform the future of cybersecurity.
+Empower change with us.
+You Have:
+3+ years of experience with working on software development teams
+2+ years of experience with Amazon Web Services (AWS)
+2+ years of experience with container orchestration including Docker, AWS ECS, or Kubernetes
+2+ years of experience with linux-based operating systems and programming
+Experience with messaging/streaming brokers including RabbitMQ, Kafka, or AWS SNS/SQS
+Experience with CI/CD, Cloud & task automation including Jenkins, SonarQube, or Terraform
+Knowledge of operating systems, web technologies, software systems, networks, and security
+Ability to obtain a security clearance
+BA or BS degree in Science, Technology, Engineering, or Mathematics
+Nice If You Have:
+Experience with distributed systems engineering
+Experience with AI/ML Ops
+Experience with Elasticsearch, Logstash, Kibana (ELK)
+Experience with databases & administration, including Postgres, MySQL, or Graph/No-SQL databases
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",6322,Washington
+35,Junior Cloud Systems Engineer,ECS Federal LLC,"Washington, DC",None,"ECS is seeking a Junior Cloud Systems Engineer to work in our Washington, DC office.
+Job Description:
+We are looking for a junior system engineer that is looking to join a strong cloud team supporting critical national security workloads. This individual will have some experience in operations and engineering in the cloud but also must have a strong passion to learn more about cloud, DevOps, automation, and software development. As we seek to deliver mission critical cloud services to the federal government, the stability, automation, and scalability will be critical to our success. This individual will have the opportunity to work on many different projects with many different capabilities. Work location is currently remote due to COVID-19, however ability to work from Washington DC client site is expected.
+A strong candidate will always seek to deliver work as code in a repeatable manner, have a desire to lead and have experience with modern DevOps technologies to provide high quality technical delivery for transformational efforts and teams.
+Required Skills:
+Must be a US Citizen.
+Must be able to obtain a Public Trust Clearance
+BA/BS with a relevant degree
+At least 3 years of experience in and working familiarity with:
+Linux
+Cloud infrastructure in AWS or Azure
+Configuration management experience through Ansible/Terraform/Chef/Puppet etc
+Git, CI/CD and other development tools
+Scripting skills in at least one language (e.g. Python, PowerShell, Bash)
+Strong communication skills with both technical and non-technical stakeholders.
+Ability to take complex tasks and complete them with minimal assistance
+
+Desired Skills:
+Proven success in supporting production cloud services
+Experience in AWS CDK
+Experience in technical delivery in the federal space
+Understanding of DevOps processes, methodologies, and philosophies
+Strong analytical and problem-solving skills
+Experience in both AWS and Azure Cloud Environments
+Relevant associate level cloud or DevOps certifications
+
+ECS is an equal opportunity employer and does not discriminate or allow discrimination on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state, or local law. ECS promotes affirmative action for minorities, women, disabled persons, and veterans.
+ECS is a leading mid-sized provider of technology services to the United States Federal Government. We are focused on people, values and purpose. Every day, our 3000+ employees focus on providing their technical talent to support the Federal Agencies and Departments of the US Government to serve, protect and defend the American People.",6322,Washington
+36,Cloud Data Migration Replication Engineer,Accenture,"Arlington, VA",None,"Who We Are
+We are Accenture, a global professional services company and a leading partner to the world’s major cloud providers, including AWS, Azure, and Google. Our longstanding involvement with cloud technology (we have 34,000 completed cloud projects under our belt) was emphasized recently when we consolidated our multiple cloud teams into a single business practice called Accenture Cloud First. The organization is backed by a $3 billion investment over three years.
+Our Data & AI team is renowned for insights and solutions they have provided to companies working to migrate various operations to the cloud and to manage them successfully. The cloud data replication engineer is responsible for developing data replication solutions and help companies to migrate and modernize on-prem data solutions by moving to cloud (AWS/GCP/Azure).
+The Work
+Design Replication solutions to copy, move, CDC, replicate data from on-prem to cloudExtracting, loading, transforming, cleaning, and validating dataUse DevOps tools and orchestration tools to automate migration pipelinesSupport current state analysis and work with enterprise architects to build target state architecture. Conduct POCs to validate hypothesis
+
+What You Need
+At least 5 years of consulting or client service delivery experience in data engineering with focus on data replication using Goldengate, HVR, Qlik Replicate etc.Al least 2 years of experience in replicating data to cloud (AWS/GCP/Azure)At least 2 years of experience in building scalable pipelines using ETL/ELTBachelor’s degree or equivalent work experience, or an Associate degree with a minimum of 6 years of equivalent work experience
+Bonus Points If
+Experience in legacy/ systems like Hadoop, Exadata, Oracle, Teradata, or NetezzaImplementing DevOps on cloud platformMulti-cloud experience
+We will not accept external applications from applicants located in Colorado, unless the role can only be performed in Colorado.
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",6322,Washington
+37,AWS Cloud Operations Engineer,CACI,"Washington, DC 20005 (Logan Circle area)",None,"Job Description
+CACI has an exciting opportunity for an AWS Cloud Operations Engineer to support the Department of Homeland Security (DHS).
+
+In this role you will:
+Have a strong technical background and excellent communication skills to interface with the government client, users, administrators, managers, and peer engineers. You are responsible for maintaining and managing production application Amazon AWS systems including operations & maintenance.
+Engineer, install, maintain, configure, and optimize Microsoft server operating systems and hosted applications.
+Perform analysis for collaboration of network / system needs and participate in planning, designing, upgrading and deployment of enterprise datacenter hardware and software using a project-based timeline.
+Apply appropriate security measures to properly safeguard government systems by implementing industry standard best practices and DHS mandated mitigations.
+Support the distribution of security patches throughout the enterprise using Microsoft Systems Center Configuration Manager (SCCM) and other enterprise level tools.
+Participate in on-call rotation to handle and resolve high severity technical escalations.
+Design, build, test and deploy highly scalable and resilient cloud-based applications on private and public clouds.
+Design and implement appropriate environments for those applications, engineer suitable release management procedures and provide production support.
+Influence other teams and broader Engineering groups in adopting Cloud technologies, processes, and best practices.
+Redesign legacy applications for Cloud implementation.
+Automate the provisioning of environments with Chef, Puppet, Ansible.
+Troubleshoot problems, involving the appropriate resources and driving resolution of issues with a focus on minimizing impact to our clients.
+Participate in the Agile DevOps design, development, testing, and release of new capabilities and features.
+Collaborate with product owners (researchers and software developers) to identify and design topologies for custom business and scientific applications in AWS as part of our container PaaS, or as a custom solution.
+Provide guidance for adhering to best practices for optimal and secure use of cloud technologies.
+Assist development teams in migrating their products from on-prem infrastructure to AWS.
+Work with other Cloud Solutions Engineers to develop prototypes and enhance or expand fundamental capabilities offered in the PaaS and containerized or serverless workloads.
+Participate in a daily stand-up meeting to report your accomplishments, plans for the day, and any roadblocks you encountered.
+Drive improvements to processes and design enhancements to automation to continuously improve the production environment.
+Prepare, participate, present in Change Management process, Technical Review Board, and Change Control Board.
+Document all work and updates in Service Now, JIRA, Confluence.
+Document standard operating procedures (SOP), work instructions, guides, network diagrams, knowledge base articles.
+You’ll Bring These Qualifications:
+Ability to obtain DoD security clearance.
+Ability to obtain a Department of Homeland Security (DHS) Entry on Duty (EOD)
+Bachelor’s degree or equivalent + 10 years of applicable experience.
+3+ years of Amazon AWS cloud support experience in a production environment including network, security, deployment, and automation.
+Knowledge of commonly used AWS services, such as IAM, VPC, S3, EC2, CloudWatch and CloudTrail, Route 53, RDS, SSM and Lambda.
+At least one Amazon AWS cloud certification.
+3+ years supporting Microsoft Server and applications in a production environment including scripting.
+Experience with Deployment Management tools such as Chef, Ansible or Puppet.
+Experience collaborating across multiple functional/technical teams to deliver a project.
+Provide on-call support for emergencies.
+Demonstrated growth mindset, enthusiastic about learning new technologies quickly and applying gained knowledge to address business problems.
+Ability to communicate with client on a business level and translate their needs into a technical solution.
+Experience working with Agile Development practices.
+2+ years of experience in technology delivery in a DevOps environment.
+Ability to communicate clearly and effectively in interpersonal and written formats.
+These Qualifications Would be Nice to Have:
+Knowledge of IT strategy and management desirable.
+Previous DHS experience.
+DHSHP
+
+What We Can Offer You:
+
+We’ve been named a Best Place to Work by the Washington Post.
+Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives.
+We offer competitive benefits and learning and development opportunities.
+We are mission-oriented and ever vigilant in aligning our solutions with the nation’s highest priorities.
+For over 55 years, the principles of CACI’s unique, character-based culture have been the driving force behind our success.
+Job Location
+US-Washington-DC-WASHINGTON DC
+
+
+CACI employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is proud to provide dynamic careers for employees worldwide. CACI is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities.",6322,Washington
+38,Cloud and Business Intelligence (BI) Engineer,Wintrio,"Washington, DC","$15,000 a month","Data Science/BI/Cloud Projects Bentonville, AR
+Company Overview:
+Wintrio is a leading provider of cloud managed services, agile software development, DevOps, systems engineering, IT service management and risk analytics. We work collaboratively with our customers to solve their biggest challenges through a commitment to delivering innovation, agility, and maximum value. Our employees are empowered to think outside of the box and provide innovative solutions to our customers and provide measurable cost saving.
+Requirements:
+The candidate MUST HAVE Business Intelligence (BI), Enterprise Data Warehousing (EDW), and ETL type background. The candidate must have led and managed BI and EDW initiatives with an ability to manage a demanding client by proposing alternate solutions. This type of critical thinking comes from experience and exposure in this domain that you grow after being in the industry for 8+ years.
+Deep hands-on MS Power BI experience is a MUST.
+Deep and Broad BI, EDW, and ETL type background is a MUST.
+The candidate must be well-versed in cloud solution technologies like AWS, Microsoft Azure, etc.
+Bachelor’s or MS degree in Engineering, Computer Science, and/or related field.
+10+ years of industry experience; preferably, a candidate should have Supply Chain and Consumer Goods background working for large US retailers.
+Strong analytical and problem solving skills.
+Excellent written and verbal communication, and presentation skills.
+Ability to regularly interact with customer, discuss and design requirements.
+Ability to hold grounds in complex and tough discussions. Remain objective and goal focused in all phases of project.
+Ability to communicate with offshore team on regular basis and become a communication bridge between customer and dev team.
+Ability to organize raw data in spreadsheets and perform basic statistical analysis.
+Ability to Work effectively in fast-paced, team-oriented, rapidly changing environment.
+Ability to learn and efficiently use a service tool BI tool like Power BI
+Expertise in relational databases and schema design.
+Familiarity with BI models, star schema.
+Ability to create BI reports examples, prototypes and demonstrations autonomously.
+Wintrio LLC’s Benefits:
+Medical insurance
+Dental Insurance
+Vision Insurance
+Flexible Spending Account (FSA) – You may elect to participate in the FSA plan
+Health Savings Account (HSA) – If you elect to participate in an HDHP plan, you can enroll in the available HSA Program.
+401K and Retirement Savings Account
+Annual Bonus and Profit Sharing – Based upon individual performance, client feedback, and business development results
+Vacation – Company paid vacation and federal holidays followed by the client
+Employee Assistance Program (EAP) – Through available sponsors the 24 hours EAP program.
+Life and Personal Accident Insurance – Both are part of your benefit package and equal 1x your annual earnings ($15,000 minimum; $50,000 maximum); Voluntary Life and Personal Accident Insurance is optional.
+Voluntary Disability Insurance – Both short and Long-term disability insurance is optional
+Training – An abundance of training resources can be found on the Employee Service Center.
+Wintrio is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.",6322,Washington
+39,N01R Cloud Systems Engineer,TalentWerx,"Crystal City, VA",None,"Start Date: Immediate
+At TalentWerx, we are focused on partnering with America’s top companies to acquire new talent with speed, accuracy, and a differentiated pricing model. We pride ourselves in acquiring top talent to ensure our clients' competitive advantage.
+Our client for the Cloud Systems Engineer position delivers scalable advanced analytic and technical solutions to a broad spectrum of commercial, Federal, Defense, and Intelligence customers. They strive to solve complex technical and analytic challenges for their customers with speed and precision.
+OVERVIEW
+Full-time/Permanent Employee
+Location: Crystal City, Virginia
+Our client is seeking a data minded Cloud Systems Engineer who is excited to tackle data challenges related to national security. This person will be motivated to work on data pipelines, cloud infrastructure, and extracting valuable analytics from a multitude of data sources.
+Responsibilities Include
+Leverage Amazon Web Services to build scalable data infrastructure
+Extract intelligence and analytics from a variety of data sources
+Work with technologies such as Elasticsearch, PostgreSQL, Docker and Swarm
+Design and build data services for consumption by clients and other services
+Additional Qualifications
+Experience implementing security best practices in production environments
+Experience with deploying and maintaining IT development and automation tools (Ansible, Puppet, Nexus, Jenkins, Gitlab etc)
+Comfortable with collaboration, open communication and reaching across functional borders
+Support mission-focused infrastructure to ensure performance and availability of system and environment
+Schedule and coordinate system maintenance activities to reduce impact to production environment
+Test changes in development environment before application in production environment
+Experience with AWS infrastructure management and scaling
+Willing to learn new technologies and share knowledge with the team
+Interested in identifying areas of improvement and ways to continually improve the systems
+Interested in containerized workloads and microservices
+Interested in scaling systems on AWS
+Database administration (e.g. Oracle, Postgres, ElasticSearch)
+Strong understanding of security concepts including but not limited to firewalls, encryption, identity management, and hardening
+Experience with administration of LDAP
+TalentWerx is an equal opportunity employer and does not discriminate against any employee or applicant because of race, age, sex, color, physical or mental disability, religion, sexual orientation, marital status, national origin, or political affiliation.",6322,Washington
+40,Cloud Engineer with Polygraph,Deloitte,"Rosslyn, VA 22209 (Radnor-Ft Myer Heights area)",None,"Are you interested in working in a dynamic environment that offers opportunities for professional growth and new responsibilities? Are you interested in helping clients drive alignment with their business, improve organizational and human resource performance and establish a culture focused on adding business value? That is what the new generation of human resource transformation is all about. If you are seeking a role that offers you the opportunity to advise Government and Public Services (GPS) clients through critical and complex issues, while allowing you to develop personally and professionally, consider a career in Deloitte's Human Capital practice.
+Work you'll do
+You will be part of a team standing up a new ServiceNow platform on top of an AWS infrastructure.
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+The HR Transformation offering (HRT) transforms the way HR enables the business and the workforce. In this world of disruption, we believe that HR has an opportunity to take the lead and own enterprise-wide issues for the organization. From the creation of HR strategy using our leading Oracle-enabled HR Transformation labs, the application of design thinking that allows HR to challenge how work gets done today, to navigating the ever-evolving HR technology landscape to determine the right digital solutions to enable transformation, our HR Transformation practice is focused on helping HR take the lead.
+Qualifications
+Required:
+
+Bachelor's degree required
+Experience standing up a ServiceNow platform
+Experience performing cloud migrations
+Must be legally authorized to work in The United States without the need for employer sponsorship, now or at any time in the future
+Must have an Active TS/SCI security clearance with Polygraph
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+DS&J
+IntelligenceCommunity",6322,Washington
+41,Cloud Engineer,Booz Allen Hamilton,"McLean, VA 22102",None,"The Challenge:
+We have the technology, but do we know how to use it? In an industry where “Cloud” is sometimes synonymous with “genie,” it’s important to have someone on your team who knows how to engineer cloud-based and hybrid on-premise cloud-based solutions. That’s why we need you, an engineer who knows how hardware and software components fit together and integrate with Cloud-based resources, to help us modernize DoD agency systems.
+As a cloud engineer on our team, you’ll apply specialized knowledge of cloud-specific technologies and services, leverage expertise in the Cloud Command Line Interfaces (CLI) and Cloud SDKs, comprehend cloud architectural constructs, and establish and maintain cloud environments programmatically using vendor consoles. You’ll recommend tools and capabilities based on your research of the environment and knowledge of various on-premise, Cloud-based, and hybrid resources. You’ll work with our cloud team to inform strategy and architecture design. This is an opportunity to stay on top of the latest cloud resources as you lead efforts to prototype using multiple techniques and new technologies. you’ll be able to broaden your skillset into areas like Big Data, cloud security, and DevOps while developing critical systems for DoD agencies. Join our team as we transform outdated on-premise infrastructure into modern scalable architectures by taking advantage of cloud technology.
+Empower change with us.
+You Have:
+Experience with AWS
+Knowledge of CloudFormation Templates (CFTs)
+Ability to work closely with clients and provide status updates and reports
+Secret clearance
+BA or BS degree
+Security+ Certification
+Nice If You Have:
+Experience with DoD Cloud Access Points
+Experience with Microsoft Azure
+Knowledge of the DoD Cloud Computing System Requirements Guide (SRG)
+AWS Certification
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",6322,Washington
+42,AWS Cloud Engineer,Booz Allen Hamilton,"Washington, DC",None,"The Challenge:
+Everyone is trying to “harness the power of the cloud,” but not everyone knows how. As a cloud architect, you know how to build a cloud based technical architecture that meets customer needs and takes advantage of cloud capabilities. What if you could use your cloud architecture skills to improve and modernize mission critical systems in the national security space? We need you to help us develop cloud-based solutions to some of law enforcement and national security organizations' toughest challenges.
+As a cloud architect on our team, you’ll design and implement cloud solutions, provide cloud migration strategies, and modernize mission critical systems. You’ll recommend tools and capabilities based on your research of the current environment and knowledge of various on premise, cloud based, and hybrid resources. You’ll lead your team as they help the customer overcome their most difficult challenges in the cloud. Your technical expertise will be vital as you work with a national security organization to ensure standards are met throughout the cloud migration process. This is an opportunity to use the latest cloud technologies as you look for ways to improve your customer’s environment using current cloud capabilities. You’ll be able to sharpen your skills in DevSecOps, Containerization, and Big Data platforms while developing critical systems for a national security organization. As a technical leader, you’ll identify new opportunities to build cloud-based solutions to help your customers meet their evolving needs. Join our team, as we transform the law enforcement and national security space with cloud technology.
+Empower change with us.
+You Have:
+6+ years of experience with IT architecture
+3 years of experience with Cloud environments on Amazon Web Services (AWS)
+Experience with working in a large enterprise environment
+Experience with infrastructure management and support and system administration in Linux environments
+Experience with Infrastructure-as-Code and automation tools, including Ansible, Puppet, and Chef
+Experience with using scripting languages to automate tasks and manipulate data
+Top Secret clearance
+BA or BS degree
+Nice If You Have:
+Experience as a full-stack developer
+Experience with working in Secret or Top Secret cloud regions
+Experience with CI/CD and DevOps pipeline automation tools, including Jenkins and Gitlab CI
+Experience with containerization technologies, including Docker and Kubernetes
+Experience with implementing security controls on Linux or Windows based systems
+Knowledge of enterprise logging, including application, OS, and security technology logging
+AWS Cloud Certifications
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Top Secret clearance is required.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",6322,Washington
