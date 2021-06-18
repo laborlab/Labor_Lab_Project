@@ -46,6 +46,7 @@ df_MSA_2016 <-list_data$MSA_M2016_dl.csv %>%
 df_MSA_2019 <-list_data$MSA_M2019_dl.csv %>%
   mutate(Year="2017")
 
+df_Initial_list <- list_data$Initial_Input_Set.csv
 
 rm(list_data)
 
