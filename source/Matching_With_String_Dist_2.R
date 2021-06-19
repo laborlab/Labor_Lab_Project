@@ -11,7 +11,7 @@ List<-c("IT Project Manager I","IT Project Manager III","Senior Computer Securit
 
 
 # Naive approach
-start <- proc.time()
+#start <- proc.time()
 results <- c()
 for(city in List)
 {
@@ -32,8 +32,23 @@ for(city in List)
   results <- append(results, closest_match)
   
 }
-end <- proc.time()
+#end <- proc.time()
 
 Matches <- List %>%
   bind_cols(results) %>%
   rename(Allwyn=`...1`, BLS=`...2`)
+
+df_final <-df_final %>%
+  select(OCC_TITLE,AREA,H_MEAN,A_MEAN,Year,PRIM_STATE)
+
+df_final_matches<-Matches %>%
+  left_join(df_final, by=c("BLS"="OCC_TITLE"))
+
+
+dupe <- df_final %>%
+  group_by(OCC_TITLE,Year,PRIM_STATE,H_MEAN) %>%
+  filter(n()>1)
+
+dupe <- df_final %>%
+  group_by(OCC_TITLE,AREA,Year,PRIM_STATE,H_MEAN) %>%
+  filter(n()>1)
