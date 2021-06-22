@@ -1,0 +1,995 @@
+job_title	company	location	salary	description	counts	city
+Software Developer (entry level)	AINS	Gaithersburg, MD 20878	None	"Software Developer (entry level)
+
+Are you passionate about development and project based work? Do you like a significant challenge? We offer this and much, much more. Our teams work with cutting-edge cloud and mobile technologies and collaborate with teams across various industries.
+
+We are searching for brilliant Software Developers (0-3 years’ experience) to join our Software Development Team at our corporate headquarters in Gaithersburg*, MD. We have been a very successful software product company for 30 plus years and experiencing continued growth. We are looking for forward thinkers and critical players who can help us continue our growth.
+
+*Currently all staff are telecommuting for the foreseeable future
+
+Software Developer technical skills:
+Specific knowledge and hands on experience should include: Web Application Development using ASP.NET/C# or Java. Knowledge and hands on experience with RDBMS database development using SQL queries and stored procedures (preferred)
+
+Skills & Experience Requirements
+Web Application development experience
+Experience with C#/Java development
+Experience with ASP.NET/JSP/HTML/CSS development
+Required license or certification:
+BS Computer Science"	12962	Washington
+Software Developer	Avison Young	Washington, DC 20006 (Downtown area)	None	"Our Story:
+
+Our Story
+Avison Young is the world’s fastest-growing commercial real estate services firm. Headquartered in Toronto, Canada, Avison Young is a collaborative, global firm owned and operated by its principals. Our Technology teams develop products and processes that combine data, analytics and technology to increase transparency in our cities and improve real estate outcomes for our clients.
+Overview:
+
+As a Software Developer at Avison Young, you will be at the forefront of innovative products that shape the way Avison Young serves clients across the globe. You will take ownership of the development of our systems and applications. You will team up with technical and business stakeholders, advocate for a high quality codebase, and eliminate roadblocks. You'll also enhance our collaborative environment by supporting the engineers on your team through mentorship and knowledge sharing.
+In the role, you will partner cross functionally with Innovation, IT and Product. This role will be working on our organizations internal analytics database as well as client facing products that allow our revenue professions to tell the story of the market so you will be able to drive clear results that have a direct impact on our bottom line and you will be responsible for achieving and exceeding business growth. We focus on intuitive design, analytical rigor, and innovative visualizations to understand complex data relationships and facilitate data-driven decision making.
+Responsibilities:
+
+We are seeking a Software Engineer/Developer to join our dynamic and energetic product development team. The main functions anticipated for this role include, but are not limited to, the following:
+Actively participate in our Scrum process paired with collaborating with our product team to develop high-caliber software
+Contribute to architectural philosophy, vision, and conventions of expanding an evolving suite of technology products
+Build solutions to help Avison Young ingest, validate, enrich, publish, and analyze commercial real estate data from third party providers and internally curated data
+Enhance systems to manage critical issues with commercial real estate data, orchestration workflow, task prioritization and user generated content management system
+Propose, automate, streamline, and improve existing processes to allow various teams to maximize productivity
+What we value in an engineer
+Customer-focused: We believe that doing what’s right for the customer is ultimately what will drive our business forward.
+Obsessed with quality: Your production code works and scales linearly.
+Team players: You believe that more can be achieved together. You listen to feedback and also provide supportive feedback to help others grow and improve.
+Fast learners: We are willing to disrupt our existing business to trial new products and solutions. You love learning how to use new technologies and then rapidly apply them to new problems.
+Pragmatic: We do things quickly to learn what our customers desire. You know when it’s appropriate to take shortcuts that don’t sacrifice quality or maintainability.
+should be comfortable working in a remote environment.
+This is a challenging, entrepreneurial position where the incumbent is expected to be self-motivated (with a very supportive team!) and work autonomously, while maintaining effective communication with the team and ensuring alignment with ‘big picture’ goals.
+Qualifications:
+1+ years of software development experience post graduation
+B.S. or M.S. in Computer Science or 3+ years of equivalent experience
+Experience developing web applications using React, React Native, Angular or MVC
+Experience in DB design using SQL Server, Postgres, MySQL, Redshift or similar db engine
+General knowledge of Node.js, Typescript, GraphQL, C# or similar
+Experience designing software that is deployed to cloud platforms, including MS Azure and AWS
+Understanding of testing methodologies.
+Excellent written and oral communication skills
+Our Equal Opportunity Commitment:
+
+Our Equal Opportunity Commitment
+Avison Young practices as an equal opportunity employer in all services locations around the world. We are committed to building and maintaining a workforce diverse in experience, skills and knowledge with uniformity in service excellence, commitment and integrity.
+The firm maintains a strict policy to ensure employment opportunities are equal and do not discriminate based on race, color, religion, creed, age, sex, gender, gender identity or expression, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, protected veteran or military service status, or any other elements protected by law.
+For those requiring assistance with disabilities, information relating to the need for accommodation and accommodation measures will be addressed confidentially.
+Avison Young is committed to employing the best talent with the most fair and equitable recruitment practices."	12962	Washington
+Entry Level Software Developer	Revature	Arlington, VA	None	"Revature is the fastest growing employer of emerging technology talent. We will hire over 300 Entry Level Software Developers across the country in the next 4 weeks.
+One day someone is going to ask you where you got your start…This is IT!
+With a wide range of Fortune 500 enterprises, government organizations and top systems integrators as our clients, we not only provide you with the skills needed to succeed through an employer-paid training program but will also give you the opportunity to put those skills to use, on projects that matter.
+What We Are Looking For
+College degree (Associates or Bachelors)
+Must be authorized to work in the US
+Strong desire to learn to code – No prior professional experience required.
+A natural problem solver
+Strong communication and interpersonal skills
+Willing to relocate anywhere in the US – Relocation assistance provided
+What We Offer
+Competitive salary
+Relocation & housing assistance
+Health, vision & dental insurance
+Paid time off
+Industry CertificationsLife Insurance Policy
+401k
+Mentoring program and ongoing support throughout your entire Revature career
+Experience with the largest and most reputable companies in the US
+Apply Today. Interviews are going on now.
+#SoftwareEngineering
+Equal Employment Opportunity
+The Company is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national origin, disability, age, genetic information, marital status, veteran status, or any other status protected under applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation and training. If you require an accommodation to work based on any of these protected factors, please notify the Human Resources Department, and the Company will evaluate the request and provide an accommodation in accordance with applicable law.
+We seek to comply with all applicable federal, state and local laws related to discrimination and will not tolerate the interference with the ability of any of the Company’s employees to perform their job duties. Our policy reflects and affirms the Company’s commitment to the principles of fair employment and the elimination of all discriminatory practices."	12962	Washington
+Entry Level Software Developer	Northramp, LLC	Reston, VA	None	"Northramp is looking for a smartindividual with a strong passion for software development to support thecreation and enhancement of a number of ASP.NET MVC web applications. The idealcandidate understands/embraces the SOLID Object-Oriented design principles andTDD. While working knowledge of all the skills listed below is a plus, it isnot required. What is required is a developer that can quickly learn newtechnologies as needed and can be depended on to fulfill requirements whilefollowing sound development practices. While efficiency is appreciated, qualityis preferred.
+Desired Skills/Technologies include:
+ASP.Net MVC
+.Net Framework
+Agile Software Development
+AJAX
+C#
+CSS
+LESS
+JavaScript
+JQuery
+KnockoutJS
+LINQ
+NHibernate
+EntityFramework
+Microsoft SQL Server/T-SQL
+Test Driven Development (TDD)
+Twitter Bootstrap
+Amazon EC2
+The ideal candidate may possessvarying levels of knowledge and experience across these areas but at a minimumpossesses some level of experience with several.
+Required Qualifications
+U.S.Citizenship and the ability to successfully pass a federal backgroundinvestigation.
+
+1Year of .NET/SQL Server software development or 4 year degree in ComputerScience.
+Desired Qualifications
+Bachelor’sdegree
+Clearance
+Public Trust clearance required. Applicants selected will be subject toa security investigation and may need to meet eligibility requirements foraccess to classified information.
+About Northramp
+At Northramp, ourpassion, our true north, is to help our clients cut through the fog and obtaintechnical and operational clarity to help them make the most significant impactpossible. Focused like a laser on driving value forour clients, Northramp specializes in helping public and private sector clientsstreamline their IT operations, improve their technical services, and drivegreater returns from IT investments.
+If you are curious in learning moreabout Northramp, please visit our website at https://www.northramp.com.
+All qualified applicants will receive consideration for employmentwithout regard to race, color, sex, sexual orientation, gender identity,religion, national origin, disability, veteran status, or other legallyprotected status.
+Reasonable Accommodation Requests
+Northramp is committed to working with and providing reasonableaccommodation to individuals with physical and mental disabilities. If you needspecial assistance or an accommodation while seeking employment, please e-mail PeopleOPS@northramp.comor call: 703-772-5588 - Northramp Human Resources. We will make a determinationon your request for reasonable accommodation on a case-by-case basis.
+EEO is the Law
+The law requires Northramp to post a notice describing the Federal lawsprohibiting job discrimination. For information regarding your legal rights andprotections, please click on the following link: EEO is the Lawand EEOis the Law Supplement.
+Pay Transparency Non-Discrimination
+Northramp will not discharge or in any other manner discriminateagainst employees or applicants because they have inquired about, discussed, ordisclosed their own pay. Please see the Pay TransparencyNondiscrimination Provision for more information.
+E-Verify
+As a Federal Contractor, Northramp is required to participate in theE-Verify Program to confirm eligibility to work in the United States. Forinformation please click on the following link: E-Verify."	12962	Washington
+Entry Level Software Engineer	BOEING	Fairfax, VA 22035	None	"Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Are you interested an opportunity to solve unremitting complex challenges? The Boeing Company is seeking talented Software Engineers to join our team in Fairfax, Virginia . In this position you will design and build Signals Intelligence (SIGINT) products for the Department of Defense, Intelligence Community and allied customers. Our products intercept Radio Frequency (RF) signals, apply signal processing algorithms, distribute the processed results and display it to operators. These systems are deployed to manned aircraft, unmanned aircraft, ships, submarines, and ground mobile platforms.
+
+Our close-knit engineering teams collaborate on unique and novel solutions to complex problems. Software engineers participate in full life cycle software development tasks utilizing primarily Java and C++ programming languages. Our application development domain includes embedded control, digital signal processing, machine learning, enterprise applications, middleware and user interface development. Candidates have the ability to specialize in a single domain or cross-train .
+
+Our engineering teams support the entire product development lifecycle including requirements development, analysis, software design, coding, unit testing, integration, installation and maintenance. Our engineers develop new ideas based on technical and domain experience, and work in a multi-disciplinary environment to solve our customers' problems. If you're up for the challenge please apply today!
+
+This position requires the ability to obtain a U.S. Security Clearance for which the US Government requires US Citizenship. An interim and/or final U.S. Top Secret clearance Post Start is required.
+
+Basic Qualifications (Required Skills/Experience):
+Computer Science, Computer Engineering or Electrical Engineering degree
+
+Possess a solid foundation in computer science
+
+Demonstrated competencies in data structures and algorithms
+
+Demonstrated understanding of concurrent software and distributed systems
+
+Genuine desire to develop software to solve unique problems
+
+Demonstrated creative, critical thinking and troubleshooting skills
+
+Experience and working knowledge of Linux
+
+Preferred Qualifications (Desired Skills/Experience):
+Software development in a Linux environment
+
+Collaborative teamwork skills
+
+Experience working on Agile software development projects in a professional environment
+
+Signals Intelligence (SIGINT) system experience
+
+Current Top Secret SCI clearance
+
+Typical Education/Experience:
+Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) or an equivalent combination of technical education and experience. In the USA, ABET accreditation is the preferred, although not required, accreditation standard
+
+Relocation:
+This position offers relocation based on candidate eligibility.
+
+Drug Free Workplace:
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies."	12962	Washington
+Software Developer, Junior	Booz Allen Hamilton	Bethesda, MD	None	"The Challenge:
+Do you want to help build and deliver a powerhouse system that will advance scientific discoveries related to human health? A good system is more than just a nice-looking interface and data. You need the right combination of clean code, APIs, analytics, and infrastructure to help your team build a user focused solution. As a software developer, you’ll have the chance to learn how to solve a problem with a complete end-to-end solution in a fast-paced, agile environment. We’re looking for someone like you to support NIH scientific data sharing mission from vision to production-ready system.
+As a software developer on our team, you’ll help your team to overcome your customer’s most difficult challenges using the latest architectural approaches like microservices, pub/sub, domain and data-driven design alongside open source frameworks and tools like Spring Boot and React. You’ll use your passion to learn new tools and techniques, while helping to identify and implement system improvements. Using Agile life cycle development, Java and JavaScript language, AWS cloud environment, etc. You’ll help code and deliver the solution that supports the current architecture and operating environment, as well as support future functionality and enhancements.
+Ready to help us build systems that will accelerate scientific discovery and improve human health?
+Join us.
+You Have:Experience with Java, SQL, and Data StructuresKnowledge of Linux, Jenkins or GitAbility to obtain a security clearanceBA or BS degree
+Nice If You Have:Experience with Spring Boot, including JPExperience with Maven, including Pom files and pluginsExperience with Docker, Git, Jenkins, JavaScript, and ReactExperience with Open-Source libraries and documentationKnowledge of AWS, including SQS, SES, Lambda, and JiraBS degree in CS, Computer Engineering, or a related field
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change."	12962	Washington
+Software Engineer	Fastcase	Washington, DC 20004 (Penn Quarter area)	$90,000 - $120,000 a year	Fastcase is one of the fastest-growing legal research platforms in the United States, democratizing the law by putting a comprehensive law library in the hands of law firms, solo attorneys, in-house counsel, government lawyers, and law students. Founded in 1999 and based in Washington, D.C., Fastcase is applying cutting-edge technology to the law, allowing it to leapfrog legacy providers and usher in a new era of access, transparency, and legal technology.We’re looking for software engineers excited to develop the next generation of legal technology. Our projects range from building the most sophisticated NLP and search technology in the legal market, to architecting robust content delivery systems for our partners and designing innovative tools that help lawyers work faster, better, and more effectively.The right candidates are not just able to write well-designed, well-commented, and well-tested software, but are also curious about the legal system that underpins our work. The law is a demanding field; strong candidates will have respect for its importance and a determination to push through the hard-technical problems the law presents.Candidates should have a B.S./B.A. in Computer Science or a related field and 2+ years of experience in software development.Our technology stack includes C#, Typescript, Python, Java, Lucene, and SQL. Experience with these is a plus but is not required.Fastcase offers a casual, collaborative work environment, comprehensive benefits (including: Premium Medical, Dental, Vision, Group Life & Accidental Death and Disability insurance, Paid time off, 401(K) and competitive salary).Job Type: Full-timePay: $90,000.00 - $120,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceFlexible scheduleHealth insurancePaid time offRelocation assistanceVision insuranceSchedule:Monday to FridayEducation:Bachelor's (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19	12962	Washington
+Software Developer (Mid-Level)	Cobalt	Arlington, VA 22202 (Aurora Highlands area)	$95,000 - $100,000 a year	About the PositionCobalt currently has an opening for a mid-level Software Developer for product development, client implementations, and sustainment of Cobalt’s products. Our products are mobile and browser-based CRM applications that make substantial use of web services. These applications are built on top of the Microsoft Dynamics 365 platform. This position will play a primary role on our cross-functional SCRUM team and candidates must be interested in working closely with a small team of technical individuals to produce excellent quality products and implementations while focusing on code reusability and flexibility.The hired individual will be placed on a leadership track and, as part of the hiring process, a technical lead transition plan will be created that will include requirements and a timeline for promotion. Plan specifics will be based on the individual candidate, but the expected timeline range is six months to one year.The ideal candidate is someone who has been successful in their early career and is looking to moving into a leadership position. They are self-motivated, interested in the process of developing complex software systems and enjoy collaborating with and coaching other technically minded people. In addition to strong technical skills, they must have strong communication and problem-solving skills.Cobalt hires talented, motivated people who like to see the results of their work, develop their own skills, and strive to grow the company. This is a full-time position averaging 45 hours per week and is normally based at our headquarters in Crystal City (Arlington), Virginia, where employees are expected to work onsite in our office in order to help encourage teamwork and collaboration.Primary DutiesMember of our cross-functional SCRUM teamWorking on a team of about 4-6 people composed of experienced Tech Leads & upper managementWorking on projects geared towards extending codes, CRM based products, and individualized client needsRequired Qualifications4-year degree from a respected institution, preferably in Computer Science4+ years of software development work experience1-2 years of experience writing business application softwareObject-oriented programming knowledgeFluency in English with excellent verbal and written communication skillsAbility to work in the U.S. without sponsorshipExperience working with Microsoft Dynamics 365 is preferredDepartment Training & BenefitsIndividual training budgetPaid time for individual training and/or projects throughout the yearOther professional development opportunities (such as conferences)Cobalt’s Work EnvironmentQuiet, relaxed & collaborative workspacesWorking with other intelligent and motivated developersWeekly code reviews with Tech LeadsWeekly company-wide lunch-n-learn sessionsBenefits & CompensationCobalt offers all employees medical, vision, dental, life, and disability insurance, as well as a 401k plan with employer matching. We host multiple events for our employees each year including quarterly events and a holiday party.The mid-level Software Developer position pays an annual base salary of $95,000 - $100,000, based on experience.About CobaltCobalt is a growing software development company and Microsoft Dynamics 365 (formerly Microsoft Dynamics CRM) partner with a track record of providing quality custom software solutions to our clients. Cobalt focuses on building custom solutions on the Dynamics platform and specializes in guiding clients through the full software development project life cycle from project initiation, planning and kick-off, the implementation phase, and finally through the training and end-user adoption and support process. Additionally, we recently launched Migration Dynamics, aimed at helping other Microsoft partners and clients migrate to Microsoft’s cloud offerings.Job Type: Full-timePay: $95,000.00 - $100,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceDisability insuranceHealth insuranceHealth savings accountLife insurancePaid time offParental leaveProfessional development assistanceReferral programTuition reimbursementVision insuranceSchedule:Monday to FridaySupplemental Pay:Bonus payEducation:Bachelor's (Preferred)Experience:Software development: 4 years (Preferred)Work Location:One locationWork Remotely:No	12962	Washington
+Java Developer (Entry-Level)	Information Management Services, Inc	Calverton, MD 20705	From $55,000 a year	Looking for a collaborative, fun company with room for growth?IMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a diverse group of people with a focus on product quality, customer satisfaction, & enjoying what we do. We have a relaxed, friendly work environment, where employees are recognized for the work that they do. Add to that work/life balance, social events, casual dress, & no cubicles- that’s why many employees have stayed with us.Join us as a Java Developer & see what makes IMS such a unique place to work!As a developer, you will:Design and develop n-tier applications for new products or enhancements to existing products using multiple languages and design methodologiesTranslate requirements into viable codeTest and debug codePrepare documentation following company standards and applicable regulationsPerform other software development related duties as assignedTo be eligible for this position, you must meet the following requirements:BA/BS in CompSci, Math, or related field from an institution considered accredited by U.S. DOE, with a 2.9+ GPA0-5 years of related programming experienceDemonstrated proficiency in JavaDemonstrated knowledge of at least one additional programming language such as Python, C#, etc.Demonstrated knowledge of current web user interfacesDemonstrated knowledge of current development technologies & environmentsDemonstrated strong verbal & written communication skillsDemonstrated ability to relay technical information to clients & users in layman termsDemonstrated strong problem-solving & analytical skillsDemonstrated customer service skillsExcellent attention to detail & organization skillsMust be able to multi-task, meet deadlines, & work within a teamStrong presentation skills preferredIf this sounds like the right position for your career, apply today at: https://www.imsweb.com/employment/job.description.php?position=25305.IMS is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, protected veteran status, or other characteristic protected by applicable law.Job Type: Full-timePay: From $55,000.00 per yearBenefits:Dental insuranceDisability insuranceFlexible scheduleFlexible spending accountHealth insuranceLife insurancePaid time offProfessional development assistanceRetirement planTuition reimbursementVision insuranceSchedule:8 hour shiftDay shiftMonday to FridayCOVID-19 considerations:100% teleworking policyWork Location:One locationWork Remotely:Temporarily due to COVID-19	12962	Washington
+DevOps Software Engineer	Intelligent Business Platforms LLC	Washington, DC	$65 - $80 an hour	At Intellibus, we are an innovative technology consulting firm made up of a team of passionate software engineers. We are currently seeking an experienced DevOps Architect to join our team.Develop Fully Automated Pipelines for Java Applications which Build, Deploy and Test Across Multiple Environments of Enterprise Integration Service Layer PlatformAutomate Infrastructure Provisioning, Deployment, and Delivery in the CloudSupport and Troubleshoot Cloud Deployment and Environment IssuesAutomate DB Schema Creation and Test Data PopulationAssist the Development Team with MonitoringImmersed in Product’s Codebase and Understand How Critical Components Work TogetherIdentify and Implement Infrastructure Resilience ImprovementsParticipate in Cross-Functional Projects, and Take Ownership of Individual Feature EffortsLead in the Adoption of Continuous Delivery and Automation of Platform ServicesImplement Monitoring Tools and Dashboards for Various Services and Operations for the Platform Following the Enterprise Monitoring Strategy and ToolsWork in an Agile Development Environments, Attend Ceremonies, Accurately Estimate Story Points, Meet Sprint DeadlinesAssist with Identifying and Evaluating New Technologies and Methodologies to Solve Complex ProblemsWork Closely with the Service Delivery and Cloud Platform Team for Platform Support and Day-to-Day ActivitiesQualificationsDevelopment Experience is a MustWrite Application Code — At Least One Language (Preferably Java)Experience in Taking Application Code and Third Party Products and Building Full End-to-End Pipelines to Build, Test and Deploy Complex SystemsAbility to Containerize an Application and Build a Process Around Creating Containers and Pushing them to an Artifact RepositoryGood Working Understanding of CI/CD and How Best to Implement CI/CD PracticesUnderstand General Networking Concepts, Connectivity, Systems Architecture, Disaster RecoveryHands-on Experience with AWSHands on Experience with UnixHands on Experience on Wintel ServerJenkinsTerraformInfrastructure as Code toolsChefGitContainersDockerSplunk or other Equivalent Monitoring ToolJob Types: Full-time, TemporaryPay: $65.00 - $80.00 per hourSchedule:8 hour shiftEducation:Bachelor's (Preferred)Experience:CI/CD: 1 year (Preferred)DevOps: 1 year (Preferred)Work Location:Multiple locationsWork Remotely:Temporarily due to COVID-19	12962	Washington
+Software Engineer	Team Engine	Washington, DC	$70,000 - $120,000 a year	"Who we are
+The Team Engine platform helps small businesses all over the country find, hire, and manage their deskless workforce. For hundreds of thousands of hard-working small businesses all over the country, there is a huge challenge of building and engaging with great teams when the leadership and central office staff is working regular hours at a desk and the majority of the rest of the workforce is out on a production floor 24 hours a day, making deliveries, or out in the field serving customers. Team Engine is the text-first, central HR and Operations hub that solves these problems.
+Founded by serial entrepreneurs, each with over a decade of experience starting and scaling high-growth software companies, Team Engine is well-funded and growing fast.
+The role
+We are looking for great, well-rounded, entrepreneurial software engineers. This is an incredible opportunity to join a one-of-a kind team and gain experience in every aspect of a fast-moving start up as we scale. You will have the support and mentorship of a small, established team, but the freedom and runway to shape the direction of the code and product. You will dive deep on every aspect of the tech stack, solve challenging problems involving automation, scaling, and optimization. You’ll be contributing to critical decisions around company and technology direction.
+In this role, you will be central to building out the next phase of the Team Engine platform across everything from the front-end user experience to the optimization algorithms, APIs, application architecture, data pipelines, and data models. You will have direct insight each day into real-world customer problems, be expected to empathize with and understand our customers, and design solutions and features to address their needs.
+As an early employee of a well-funded, rapidly growing company, you will have nearly endless opportunities for growth as an entrepreneur, engineer, and leader.
+You are a good fit if...
+You have always been passionate about building something from the ground up
+You are passionate about great, scalable, and maintainable software design, but even more passionate about solving customer problems and seeing customers succeed
+You like structure, but embrace uncertainty
+You are humble and have a relentless pursuit of improvement and growth
+You have impressive experience working on challenging, open-ended, real-world problems, either in industry or tinkering on your own
+You are comfortable and enjoy working across a full web stack
+You are endlessly curious about new languages, frameworks, and technologies, but pragmatic about applying them
+You take pride in building products that are intuitive, good looking, and enjoyable to use"	12962	Washington
+Junior Software Developer	Revature	Arlington, VA	None	"Revature is the fastest growing employer of emerging technology talent in the US. We will hire over 300 new Junior Software Developers in the next 4 weeks.
+One day someone is going to ask you where you got your start…This is IT!
+With a wide range of Fortune 500 enterprises, government organizations and top systems integrators as our clients, we not only provide you with the skills needed to succeed through an employer-paid training program but will also give you the opportunity to put those skills to use, on projects that matter.
+What We Are Looking For
+College degree (Associates or Bachelors)
+Must be authorized to work in the US
+Strong desire to learn to code – No prior professional experience required.
+A natural problem solver
+Strong communication and interpersonal skills
+Willing to relocate anywhere in the US – Relocation assistance provided
+What We Offer
+Competitive salary
+Relocation & housing assistance
+Health, vision & dental insurance
+Paid time off
+Industry Certifications
+Life Insurance Policy
+401k
+Mentoring program and ongoing support throughout your entire Revature career
+Experience with the largest and most reputable companies in the US
+Apply Today. Interviews are going on now.
+#SoftwareEngineering
+Equal Employment Opportunity
+The Company is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national origin, disability, age, genetic information, marital status, veteran status, or any other status protected under applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation and training. If you require an accommodation to work based on any of these protected factors, please notify the Human Resources Department, and the Company will evaluate the request and provide an accommodation in accordance with applicable law.
+We seek to comply with all applicable federal, state and local laws related to discrimination and will not tolerate the interference with the ability of any of the Company’s employees to perform their job duties. Our policy reflects and affirms the Company’s commitment to the principles of fair employment and the elimination of all discriminatory practices."	12962	Washington
+Jr Web Developer (Entry Level)	Planned Systems International	Washington, DC	None	"Essential Functions and Job Responsibilities:
+Successful candidate will provide website design, development, testing, management and support of the hardware/software infrastructure for a web-based portal for our Government client. Essential functions will include, but not be limited to:
+
+Performing all aspects of the development tasks, including front-end, back-end, and database development
+Managing resources to ensure timely and successful deliveries
+Working with clients and review panels to identify recommendations for the appropriate technical, business and human factors solutions
+Commitment to clear and quality communications between team and client product managers
+Commitment to promoting a collaborative work environment with team members and customers
+Develop and maintain web-enabled capabilities and custom applications
+Lead staff in defining and tracking project requirements, plans, and schedules
+Commitment to delivery of quality products
+
+Minimum Requirements:
+
+Bachelor’s degree in Computer Science, Engineering, or closely related field (May 2021 and Dec 2021 grads welcomed!)
+Strong understanding of user interface design principles, with proven track record of creative web site development in accordance with the design specifications, user interface style guides and established usability standards
+Must have strong experience working with a variety of technology and the ability to multi-task between different projects and workflow stages
+Must have experience communicating directly with end users and the ability to gather requirements
+Experience analyzing business product needs, recommending, then possibly implementing, effective software solutions in a timely manner
+Experience analyzing core standards for software development, and maintaining an effective process for support
+Experience providing guidance and leadership to other developers and development teams
+U.S. Citizenship is required. Candidates selected must be able to successfully pass a client background investigation.
+
+Planned Systems International provides our customers with value-added management consulting and information technology services that consistently deliver success, and we are recognized as a world-class provider of innovative solutions that benefit mankind. From Systems Lifecycle Support and Healthcare IT Solutions to Network and Desktop Solutions and e-Business, PSI is focused on making our clients’ businesses run smoother and better. With a highly trained technical staff, we apply state-of-the-art information technologies, the industry's most advanced methodologies, and broad-based support services to clients in U.S. Government agencies and the commercial sector.
+
+PSI is an Equal Opportunity Employer.
+All qualified candidates are encouraged to apply, including:
+Minorities, Women, Individuals with Disabilities, and Protected Veterans.
+NOTE TO JOB SERVICE: VEVRAA Federal Contractor requesting priority referrals of Protected Veterans."	12962	Washington
+PwC Digital Products - Front End Developer - Exp. Associate	PRICE WATERHOUSE COOPERS	Washington, DC	None	"A career in Products and Technology would provide you the opportunity to be part of an organization that is building a leading tech experience that solves big challenges for our firm and our clients. Our products and tech-driven solutions are how we move faster, cut through complexity and fuel growth. We start with the problem and solve it with experience and tech know-how. Our skilled technologists, data scientists, product managers and business strategists are passionate about using technology to accelerate change. Our external facing team is responsible for the design and development of our technology products and accelerators. They are involved in all aspects of the product build and streamline processes to improve products leveraging state-of-the art technology for our clients.
+To really stand out and make us fit for the future in a constantly changing world, each and every one of us at PwC needs to be a purpose-led and values-driven leader at every level. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.
+As an Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:
+Invite and give in the moment feedback in a constructive manner.
+Share and collaborate effectively with others.
+Identify and make suggestions for improvements when problems and/or opportunities arise.
+Handle, manipulate and analyse data and information responsibly.
+Follow risk management and compliance procedures.
+Keep up-to-date with developments in area of specialism.
+Communicate confidently in a clear, concise and articulate manner - verbally and in the materials I produce.
+Build and maintain an internal and external network.
+Seek opportunities to learn about how PwC works as a global network of firms.
+Uphold the firm's code of ethics and business conduct.
+Opportunity to work on proprietary software solutions developed by PwC Digital that delivers to Consumer Packaged Goods (CPG) companies an integrated platform for Trade Promotion Management and Revenue Growth Management Analytic capabilities, backed by 25+ years of experience. Work in a collaborative startup-like environment to solve a wide breadth of complex data & analytics problems. Work with Fortune 500 companies and build groundbreaking products for the fast-moving consumer goods industry.
+Job Requirements and Preferences:
+
+Basic Qualifications:
+
+Minimum Degree Required:
+Bachelor Degree
+
+Additional Educational Requirements:
+In lieu of a Bachelor Degree, 12 years of professional experience involving technology-focused process improvements, transformations, and/or system implementations.
+Minimum Years of Experience:
+1 year(s)
+
+Preferred Qualifications:
+
+Degree Preferred:
+Master Degree
+
+Preferred Fields of Study:
+Computer and Information Science, Computer Engineering, Computer Systems Analysis, Analytics, Data Processing/Analytics/Science, Business Analytics, Mathematics, Management Information Systems, Artificial Intelligence and Robotics
+
+Preferred Knowledge/Skills:
+Demonstrates some abilities and/or a proven record of success in the following areas:
+Understanding of modern web application development (e.g. AngularJS, NodeJS, Python, CSS3, Boostrap);
+Demonstrating experience with markup scripts, HTML, CSS, and others;
+Understanding of Javascript (JS), Typescript, Angular.js, Node.js; and development frameworks including Angular and React;
+Leveraging RESTful API;
+Tracking security risks and mitigate and escalate them in a timely manner;
+Understanding the maintenance characteristics, runtime properties, and dependencies of your team’s software;
+Documenting your software to establish that future generations of developers understand the intention behind the features and components you build;
+Troubleshooting and researching the root cause of problems, and thoroughly resolving defects;
+Developing unique user experiences through web, mobile, and other application experiences;
+Developing features to enhance user experience;
+Being involved in the scrum and sprint cycles;
+Leveraging mechanisms that establish code is re-usable;
+Optimizing development for maximum speed and scalability;
+Maintaining brand consistency throughout design;
+Contributing to the development of your own technical acumen and participate in engineering excellence professional programs and contribute research to professional standards and developer tool program;
+Developing strategies to solve complex technical challenges with team;
+Participating in code reviews; and,
+Developing documentation for products and technologies.
+All qualified applicants will receive consideration for employment at PwC without regard to race; creed; color; religion; national origin; sex; age; disability; sexual orientation; gender identity or expression; genetic predisposition or carrier status; veteran, marital, or citizenship status; or any other status protected by law. PwC is proud to be an affirmative action and equal opportunity employer.
+For positions based in San Francisco, consideration of qualified candidates with arrest and conviction records will be in a manner consistent with the San Francisco Fair Chance Ordinance.
+For positions in Colorado, visit the following link for information related to Colorado's Equal Pay for Equal Work Act: https://pwc.to/coloradoadvisoryassociate."	12962	Washington
+Entry-Level Software Developer	NTT DATA Services	McLean, VA	None	"Req ID: 132236
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+We are currently seeking a Entry-Level Software Developer to join our team in McLean, Virginia (US-VA), United States (US).
+At NTT DATA Services, the largest division of NTT DATA Corp, we offer a comprehensive portfolio of industry-centric digital business and technology solutions. Headquartered in Plano, Texas, our team of over 50,000 professionals deliver a blend of deep industry experience, business insight and technology expertise powered by AI, automation, and cloud.
+We are growing and looking for new talent to join our Public Sector organization where we serve clients in state and federal agencies across the country. Applicants must have a Bachelor’s degree (graduating before August 2021) in Business, Mathematics, Computer Science, Information Technology, Software Engineering or related field and an interest in learning cutting edge technologies. We are seeking candidates who are flexible to travel or relocate to various geographic locations in the United States to meet our business and client needs post training completion.
+This is a full-time salaried position, and we offer a comprehensive benefits package that begins on your first day of employment. Selected candidates will participate in an intensive training and development program before alignment with a variety of projects/client engagements.
+
+Responsibilities may include:
+Software developmentDeveloping metrics and advising on system integrationsCustom applications and query developmentToolset and application integrationWorking with other System Engineers and Software Developers to perform Integration activitiesSystems modernizationAnalyzing existing data to develop metrics and trends to enhance knowledge and capture value of dataDesign, develop, and test analytics, advise on integration with enterprise systems, and develop metrics for R&D effortsInterface with customers and teammates through meetings, calls, and other electronic media
+Basic Qualifications:
+Minimum overall GPA of 3.00Bachelor's degree in Computer Science, Software Engineering, Information Technology, Mathematics, or related field, with a graduation date by August 2021US Citizen or Green Card HolderWillingness to travel to various locations throughout the U.S.
+Additional Desired Qualifications:
+Coursework or at least 3 months of hands-on experience with one or more front end languages such as JavaScript (Angular, React, etc.)Coursework or at least 3 months of hands-on experience with one or more programming language(s), such as C#, .Net, Python or Java, and software application developmentPreference would be given to strong academic credentials reinforced with programming or software development experience gained during an internship or other work experienceDatabase management knowledge on any database conceptsExposure to cloud native platforms such as AWS, Azure and Google CloudKnown as a self-starter, team player and multitasker – one who strives to consistently exceed expectationsAbility to stretch outside one’s comfort zone to achieve team successStrong analytic and problem-solving skillsStrong communication and leadership skillsStrong desire to learn technologies from an analytical standpointInvolvement and/or leadership experience during college through campus or community activities including student athletics
+About NTT DATA Services
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, age, veteran-status, sexual orientation, gender identity, or any other class protected by law."	12962	Washington
+Software Programmer	TENICA and Associates LLC	Chantilly, VA 20151	None	"We are looking for a passionate Software Engineer to design, develop and install software solutions. Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, like Java, Ruby on Rails or .NET programming languages (e.g. C++ or JScript.NET.). Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment. Ultimately, the role of the Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.
+Responsibilities
+Execute full software development life cycle (SDLC)
+Develop flowcharts, layouts and documentation to identify requirements and solutions
+Write well-designed, testable code
+Produce specifications and determine operational feasibility
+Integrate software components into a fully functional software system
+Develop software verification plans and quality assurance procedures
+Document and maintain software functionality
+Troubleshoot, debug and upgrade existing systems
+Deploy programs and evaluate user feedback
+Comply with project plans and industry standards
+Ensure software is updated with latest features
+
+Skills
+Proven work experience as a Software Engineer or Software Developer
+Experience designing interactive applications
+Ability to develop software in Java, Ruby on Rails, C++ or other programming languages
+Excellent knowledge of relational databases, SQL and ORM technologies (JPA2, Hibernate)
+Experience developing web applications using at least one popular web framework (JSF, Wicket, GWT, Spring MVC)
+Experience with test-driven development
+Proficiency in software engineering tools
+Ability to document requirements and specifications
+BS degree in Computer Science, Engineering or relevant field, or experience in fields"	12962	Washington
+Full Stack Developer	JLM HR Consulting LLC	Washington, DC	None	"We are looking for a highly motivated, professional, and innovative Full Stack Developer to join the team at ByBlack.us. This person will help build user interface and back-end components to ensure our applications are robust and easy to maintain. We work in a team environment, so strong collaborative problem-solving skills are mandatory.
+
+Currently, we are implementing a front-end maps experience in our search tool. We want to embed the experience so users can discover new businesses and explore local places. Specifically, this requires integrating the Google Maps API onto our platform. We are also implementing new features to track consumer spending for the Black businesses we are now servicing through our tool. The Developer would help our team build dashboards, test user experience, develop integrations with external APIs to complete these projects, and help create future products.
+
+Responsibilities
+
+
+Work with development and product management to ideate software solutions
+Design client-side and server-side architecture
+Build front-end applications with appealing visual design
+Build features and applications with a mobile responsive design
+Develop and manage well-functioning databases and effective APIs
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade applications
+Embed security and data protection in all applications
+Integrate applications for easy navigation and alleviate data duplication
+Write technical documentation
+
+Requirements
+
+
+Proven experience as a Full Stack Developer or similar role
+Experience developing desktop and mobile applications
+Extensive knowledge of React and JavaScript
+Experience with state management frameworks like Redux
+Working Knowledge of CSS (familiarity with pre-processors like Sass is a bonus)
+Familiarity with google cloud platform and Serverless computing
+Knowledge of multiple back-end languages ( and Node.js)
+Familiarity with databases (MongoDB and Firebase)
+Excellent communication and teamwork skills
+Great attention to detail
+Organizational skills and analytical mind
+Degree in Computer Science
+
+Company Overview
+
+USBC Community Economic Development Corporation (USBC CEDC) supports the financial education and training needs of the US Black Chambers, Inc. (USBC), a national network of Black Chambers of Commerce committed to providing visionary leadership and advocacy in the realization of economic empowerment.
+
+For immediate consideration, please submit your resume, cover letter, and salary requirements.
+
+Equal Opportunity Employer"	12962	Washington
+Software Developers	IT Syntax	Sterling, VA 20164	None	"Design, develop and support computer applications.
+Develop and direct software system testing and maintenance tasks.
+Utilize MS SQL Server, SSIS, SSRS, VMWare, SAN, UNIX, .Net, JAVA, UI/UX, Oracle, Sales Force.
+Will work in unanticipated locations.
+
+Min. Education Require Masters in Computer Science, Engineering, or related and 6 months experience or Bachelors in Computer Science, Engineering, or related and 5 years progressive experience.
+
+Apply by Mail Send resume and refer to job title to ITsyntax, Inc.207 East Holly Avenue Suite #203 Sterling VA 20164"	12962	Washington
+Sr Software Engineer	Deloitte	Arlington, VA	None	"Are you looking to elevate your cyber career? Your technical skills? Your opportunity for growth? Deloitte's Government and Public Services Cyber Practice (GPS Cyber Practice) is the place for you! Our GPS Cyber Practice helps organizations create a cyber minded culture and become stronger, faster, and more innovative. You will become part of a team that advises, implements, and manages solutions across five verticals: Strategy, Defense and Response; Identity; Infrastructure; Data; and Application Security. Our dynamic team offers opportunities to work with cutting-edge cyber security tools and grow both vertically and horizontally at an accelerated rate. Join our cyber team and elevate your career.
+Work you'll do
+
+Support clients with data protection, IoT, and overarching cloud capabilities.
+Implement core and cloud infrastructure security to manage risks and exposure.
+Perform cyber reconnaissance to illuminate a potential attack surface area.
+Provide threat and vulnerability management to federal clients and teams.
+Analyze tactical network architectures and topologies to assess security risks.
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of more than 15,000 professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise
+At Deloitte, we believe cyber is about starting things-not stopping them-and enabling the freedom to create a more secure future. Cyber Infrastructure is focused on rethinking how security is integrated across modernized infrastructure as cyber threats become more complex. If you're seeking a career implementing, architecting, and-in select cases-handling next generation controls to manage security risks and exposure, then the Cyber Infrastructure team at Deloitte is for you.
+Qualifications
+Required:
+Bachelor's degree required
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+Must be able to obtain and maintain the required clearance for this role
+Travel up to 10%
+Experience using cyber reconnaissance to support a federal client
+Experience working with cloud infrastructure
+Experience utilizing software asset management
+Preferred:
+Prior professional services or federal consulting experience
+Previous Security Operations Center experience
+Experience in mobile and endpoint security
+Certifications (e.g., CompTIA Security+, CEH, CISSP)
+How you'll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career."	12962	Washington
+Software Tester 2	adroitts	Washington, DC 20002 (NoMa area)	From $72,000 a year	adroitts is a fast-growing, Information Technology consulting company in the public sector. We pride ourselves in our employees feeling welcomed, valued, and involved.We are an IT solutions company that helps businesses adapt and grow in a continuously evolving market. Our tailor-made technological solutions are perfectly aligned with business goals and objectives.We are looking for a TESTER to test applications. A programming background would be helpful. The tester will work in a team comprised of federal and contractor staff.Primary job duties and responsibilities may include, but are not limited to the following: The candidate must be able to perform manual testing, write test cases for regression and acceptance testing and user stories.The team works in an Agile environment so the candidate will work closely with developers and other testers.Participates, as needed, in development phases. Works closely with Requirements/Business Analysts and Developers to ensure proper testing of program and system specifications.Coordinates the planning for testing efforts and the design of multiple test plans, including developing data-driving test cases.Responsible for quality assurance, quality control, and system integrity throughout the testing.Prepares and delivers presentations on the system concepts and testing efforts.Develops work plans and monitors them for adherence to user requirements and work schedules.Conforms standards and quality control procedures for testing and implementation.Guides lower-level staff. Acts as a test manager to ensure that all testing is done according to test plans and testing standards.Must produce hazard analysis documentation, as needed, to determine if the system is deployable.The successful candidate will have: At least nine years of experience in testing software applications, including system, regression, acceptance, end to end, and performance testing.At least nine years of experience creating test data, cases, and scenarios based on the software requirements/User Stories plans.At least nine years of experience in creating, planning, documenting, coordinating, and executing test plans.At least seven years of experience using Use Cases or user stories to create test cases.At least five years of experience with standards and quality control procedures for testing implementationAt least five years of experience in the System Development Lifecycle. DBMS concepts, and/or Agile At least five years of experience implementing and using continuous integration using different tools i.e. Jenkins is desirableAt least three years of experience with 508 compliance testing for software applicationsAt least three years of experience scripting programming language i.e. Shell Script, Ruby, Python is desirableMust have a working knowledge of Agile tools i.e. VersionOne is desirable If you are interested in this position please apply directly to the job post!Job Type: Full-timePay: From $72,000.00 per yearBenefits:Dental insuranceDisability insuranceHealth insuranceLife insuranceVision insuranceSchedule:Monday to FridayEducation:Bachelor's (Preferred)Experience:testing software: 9 years (Preferred)Agile: 5 years (Preferred)Jenkins: 5 years (Preferred)Shell Scripting: 3 years (Preferred)Ruby: 3 years (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19	12962	Washington
+Software Developer	Critical Impact Software	Tysons Corner, VA	None	"Minimum Required Skills: HTML5, CSS3, JavaScript, and MVC
+We are seeking a Junior Web Developer with a formal programming background who is eager to learn and apply cutting-edge web development technologies. This is a great opportunity with a rapidly growing start-up. The role requires plenty of “outside-the-box” thinking and doing. This role is an ideal fit for the self-starter/problem-solver personality types.
+What we are looking for in an ideal candidate:
+
+Excellent object-oriented programming skills
+Excellent HTML skills
+The ability to take ideas at a high level and fill in the pieces as needed, to complete the solution
+Provide meaningful input and make suggestions for product/process improvements
+Highly self-motivated, self-starter mentality
+Extremely high level of detail orientation
+An eye for design, i.e. the ability to know what looks professional and what does not
+Easily handle and prioritize multiple incoming tasks
+Ability to finish projects/tasks to completion with limited oversight and/or guidance
+Excellent written and verbal communication skills – demonstrated past experience interacting with customers is a huge plus
+Excellent troubleshooting and problem solving skills
+Ability to gather/document detailed requirements from end users and/or co-workers
+Flexibility to share some level of on-call support on a rotating basis
+Perform bug fixes as required
+
+Qualifications:
+
+Bachelor’s Degree in Computer Science or equivalent experience required
+The ideal candidate will be extremely detail oriented, well organized, and self-motivated with the ability to juggle multiple projects simultaneously and manage time efficiently with limited oversight
+Strong verbal/written communication skills
+This position requires little to no travel
+
+We look forward to receiving your resume. Please include your salary requirements when responding.
+Why Work at CI?
+Highly competitive salaries
+Brand new top-of-the-line Dell hardware
+Free food and drinks
+Medical/Dental/Vision for you and your family
+Free lunches!
+Fun, casual culture
+Free CI t-shirts and hats
+Generous PTO/Holidays
+Free membership to our on-campus gym
+Free Parking
+Both offices are metro-accessible
+Fun contests and spifs with awesome prizes!
+Employee referral bonus
+Optional Supplemental Life Insurance
+Maternity/paternity leave
+Health Care Flexible Spending Account"	12962	Washington
+Salesforce Developer	Kaizen Dynamics	Washington, DC 20003 (Navy Yard area)	$100 - $110 an hour	The Salesforce developer will design, code, test and implement new Salesforce software applications to meet project objectives and support new or expanding business objectives. This will include analysis, testing and deployment of new or updated softwareRESPONSIBILITIES & EXPECTATIONS? Develop customized solutions within the Salesforce platform to support critical business functions and meet project objectives, client requirements and agency goals.? Manage daily support and maintenance of internal Salesforce instance and conduct long-term improvement operations to ensure compatibility with evolving agency mission requirements.? Communicate with project managers, clients and other developers to design cohesive project strategies and ensure effective collaboration throughout all phases of development, testing and deployment.? Strong experience delivering Salesforce training, to include the development of training materials, presentations, and train-the-trainer services.? Act as the Salesforce Subject Matter Expert familiar with all functional and technical aspects of the Salesforce platform and able to communicate these aspects to both technical and non-technical staff.? Maintain a flexible and proactive work environment to facilitate a quick response to changing project requirements and customer objectives and innovate ways to meet mission goals successfully.? Interact directly with clients, managers and end users as necessary to analyze project objectives and capability requirements, including specifications for user interfaces, customized applications and interactions with internal Salesforce instances.? The ability to effectively communicate technical terms and concepts to a non-technical audience.? Self-motivated and creative.? Extremely strong written and verbal skills.? Proficient with Apex, Salesforce Lightning, VisualForce, Native, MySQL and JavaScript Preferred.? Salesforce Developer Certification.? The ability to integrate Salesforce applications with applications built on other platforms and written in different coding languages.? Evaluate existing CRM and case management processes and determine potential Salesforce-enabled enhancements.? Oversee solutions design and delivery, including integration with existing architecture.? Identify opportunities for CRM and Einstein Analytics automation.? Collaborate with business application owners to advance development of key market tools.? Provide system administration support of internal and customer-facing Salesforce environment, especially related to customized applications, user permissions, security settings, custom objects and workflow.? Collaborate with various internal departments, to ensure Salesforce environment supports internal needs relating to functionality and performance.CONTRACT LABOR CATEGORY--------------------------------------------------------------------------------------------------Responsibilities:1. Demonstrates expertise in conveying technical and functional concepts for a specific technical specialty.2. Identifies improvements to project standards to achieve high quality services/products.3. Identifies best practices and standards for the use of the product.4. Delivers support and design for industry specific technologies that require integration with systems or networks.5. Interacts with executive level business users or technical experts.6. Functions as a niche technical SME.7. Lead experience with technical expertise across large, complex implementations for systems.Minimum Education/Certification Requirements:Bachelor’s degree in Information Technology or related field or equivalent experienceSkills16+ yrs conveying technical and functional concepts for a specific technical specialty16+ yrs preparing complex technical documentationBachelor’s degree in Information Technology or related field or equivalent experienceJob Types: Full-time, ContractPay: $100.00 - $110.00 per hourSchedule:8 hour shiftMonday to FridayExperience:APEX Programming: 5 years (Required)VisualForce: 5 years (Required)Lightning: 3 years (Required)Salesforce Security Models.: 5 years (Required)Work Location:One locationWork Remotely:Temporarily due to COVID-19COVID-19 Precaution(s):Remote interview process	12962	Washington
+Object-Oriented Developer	AMCHES, INC	Annapolis Junction, MD	$160,000 - $185,000 a year	Amches, Inc has a growing need for an Object-Oriented Developer that is cleared to become an integral part of our team!Amches Benefits Snapshot: 401K contribution: 10% (not a match, a contribution!! )PTO: 248 hoursHealthcare: Free (BlueCross Blue Shield for Health, Vision, and Dental) for individualsSoftware Developer Responsibilities:Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces.Directing system testing and validation procedures.Directing software programming and documentation development.Consulting with departments or customers on project status and proposals.Working with customers or departments on technical issues including software system design and maintenance.Analyzing information to recommend and plan the installation of new systems or modifications of an existing system.Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.Designing and developing software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.Preparing reports on programming project specifications, activities, or status.Conferring with project managers to obtain information on limitations or capabilities.Software Developer Requirements:Bachelor's degree in computer science or related degree.Knowledge of the software development life-cycle.The desire to work in a fast-paced environment.Ability to develop unit testing of code components or complete applications.Creativity is always a plus.Must be a full-stack developer and understand concepts of software engineering.Experience working on a variety of software development projects.Deep programming language knowledge (Java or C++ or C#)Job Type: Full-timePay: $160,000.00 - $185,000.00 per year	12962	Washington
+Software Engineer	Deloitte	Arlington, VA	None	"In today's environment our clients' abilities to respond to requests for information are more important than ever - and through people, processes, tools, and technology, we help them do so. Are you excited about exploring innovative ways to visualize data, use analytics, and help clients find relevant information in an ever-growing sea of emails and electronic documents? Do you have a legal or technology background and want to continue to grow your skills and abilities? We are a practice that brings together teams focusing on thought diversity, collaborative problem solving, and development of our professionals to enable our Government and Public Services (GPS) Discovery & Data Management Practice clients face litigation and other regulatory requirements with the resources to efficiently and effectively assist the government and respond to information requests. If you want to help clients make sense of their data and are passionate about keeping up with the latest data trends and technology sources, then our team would be a great fit for you!
+Work you'll do
+Use Python with Machine Learning and DevOps for developing a document data extraction tool
+Support client initiatives in a fast-paced, team environment
+Present and sell ideas to clients and other decision-makers across both technical and non-technical audiences
+Give exceptional attention to detail and identify process improvement opportunities
+Effectively prioritize workload to meet deadlines and work objectives
+Exercise mature judgement, and strong problem solving and troubleshooting skills
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+Discovery is constantly evolving and changing as data volumes and sources continue to grow exponentially. We aim to help our clients solve their most pressing data management challenges by bringing key stakeholders together and helping them to navigate challenges such as cloud migration, implications of new technologies, evolving data sources, and pressure due to time constraints or regulatory requirements. Our practice has established itself as a leader in delivering the full spectrum of Discovery services to government agencies. Our teams apply eDiscovery leading practices and leverage analytics technology, as well as traditional legal research and writing, to assist government attorneys and agency staff through the litigation or information request process.
+Qualifications
+Required:
+Bachelor's degree required
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future O
+Must be able to obtain and maintain the required clearance for this role
+Experience with Python (Functional and Object Oriented Programming)
+Experience with supervised learning in Neural networks and classification (Random Forests, Gradient Boosting, etc)
+Knowledge on using regex patterns
+Experience with image processing (OpenCV)
+DevOps experience - Git and Agile experience
+Preferred:
+Experience with document data extraction
+Experience with predictive supervised learning (simple regression, multivariate regression, random forest regression, etc.)
+Heavy experience with Python Standard Library (Write efficient code / be able to do things without Pandas)
+Experience in developing proofs of concept
+Experience with cloud deployment
+Experience with front end development
+Experience building REST APIs"	12962	Washington
+Junior Software Developer	Noblis	Washington, DC	None	"Overview:
+
+Noblis and our wholly owned subsidiary, Noblis ESI, tackle the nation's toughest problems and apply advanced solutions to our clients' most critical missions. We bring the best of scientific thought, management and engineering expertise together in an environment of independence and objectivity to deliver enduring impact on federal missions. Noblis works with a wide range of government clients in the defense, intelligence and federal civil sectors. Learn more at Noblis -About Us
+Why work at a Noblis company?
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. Noblis has won numerous workplace awards. Noblis maintains a drug-free workplace.
+Noblis is an Equal Opportunity Employer. Employment decisions are made without regard to race (as well as because of or on the basis of traits historically associated with race, including hair texture, hair type, and protective hairstyles such as braids, locks, and twists), color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, pregnancy, childbirth, lactation and related medical conditions, genetic factors, military/veteran status, or other characteristics protected by law.
+Responsibilities:
+
+Noblis is helping the Federal Aviation Administration (FAA) manage large and complex telecommunications and information management programs that use state of the art technologies to manage enterprise infrastructure services essential to the safe and efficient operation of the largest, safest, and most complex aviation system in the world. We are seeking smart, passionate, and motivated people to join our proven team in a challenging and rewarding work environment where you will be actively engaged at the intersection of technology and operations enhancing our nation’s aviation system.
+Specific responsibilities include:
+Working closely with the Product Owner to understand the business value of his/her needs and collaborating with a team to translate these needs into working software.
+Working closely with the Scrum Master to improve team performance and consistently deliver quality software on time and within budget
+Willingness and ability to operate within an Agile software development environment
+As a full stack developer and member of the cross-functional scrum team, the candidate should contribute to the success of the team by estimating and planning work items, providing input on requirements and UI/UX designs, developing and testing web-applications, participate in release activities, and customer support and troubleshooting
+Strive to improve yourself, team, and process through daily teamwork, communication, idea-sharing, collaboration and problem-solving
+Recommending innovative solutions to deliver a better end product
+Other responsibilities as needed to ensure customer and team success
+Qualifications:
+
+Required Qualifications:
+Bachelor’s or Master’s degree in Computer Science
+0-2 years experience in software development or web development
+Experience developing web applications using .NET/C#, HTML, CSS, JavaScript/jQuery, Python, and/or other equivalent languages
+Experience with SQL Server (or equivalent) and database development
+Understanding of Object-Oriented principles and classical design patterns
+Ability to work independently and as part of a team on multiple tasks using Agile Scrum
+Strong professional and interpersonal skills with emphasis on self-initiation, teamwork and follow through
+Effective verbal and written communication skills are extremely important in order to effectively communicate with team members in remote offices
+Positive customer service attitude
+Desired Qualifications:
+Experience developing for mobile platforms (iOS and Android)
+Experience working with MVC frameworks
+Experience in creating and/or consuming web services
+Experience developing applications using JavaScript frameworks (angular.js, backbone.js, etc.)
+Experience with data visualization and analysis
+Interest in research and keeping up with current technology trends
+Ability to support multiple projects
+Experience in integrating with third party applications
+Experience with Agile processes
+Federal Aviation Administration Experience
+Client Engagement: · Learn about and support Noblis’ client engagement, corporate values, and corporate strategic priorities, including providing input to proposal writers. · Build a productive relationship with your client and understand their structure and goals. · Participate in the proposal process by providing input to proposal writers."	12962	Washington
+Junior Software Engineer	KBR	Greenbelt, MD	None	"Title:
+Junior Software Engineer
+KBR is looking for a Junior Software Engineer to support NASA Goddard Space Flight Center (GSFC) and the Ground System and Mission Operations (GSMO-2) contract in the Systems and Software Engineering (SSE) group, developing and sustaining the Mission Planning Systems (MPS), Data Distribution Systems, and Web-enabled Flight Operations Collaboration Systems that support GSFC spacecraft missions.
+Required Education, Experience & Skills:
+Bachelor’s Degree in engineering, mathematics, computer science, or related field
+0-2 years applicable progressively complex software engineering experience, including integration of complex software systems
+In lieu of formal education 8 – 10 years applicable progressively complex software engineering experience, including integration of complex software systems
+Experience with JavaPHP, JavaScript, Ruby, RedHat Enterprise Linux, Ubuntu, or CentOS
+Experience developing Object Oriented software, Graphical User Interfaces and Web User Interfaces (Java Swing, Bootstrap, HTML), as well as developing with MySQL/MariaDB
+Specific contract requirements regarding education and experience will prevail
+Desired Experience & Skills
+Knowledge of Development, Security, and Operations processes & tools, debuggers, and automated testing is a plus
+Ability to grasp and apply new information quickly
+Good interpersonal, oral communication, and written skills
+Work well with a team
+Familiar with Microsoft Office products
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law."	12962	Washington
+Cloud UI Developer	Luxoft	Washington, DC	None	"Project Description:
+As part of our strategic partnership with one of the biggest financial institutions in the World, we are hiring various IT specialists, who will become part of their IT Service Center . The bank is an international organization dedicated to providing financing, advice, and research to developing nations to aid their economic advancement. The bank predominantly acts as an organization that attempts to fight poverty by offering developmental assistance to middle- and low-income countries. Our client is a provider of financial and technical assistance to individual countries around the globe. The bank considers itself a unique financial institution that sets up partnerships to reduce poverty and support economic development.
+
+Responsibilities:
+The Cloud UI developer is expected to design and build complex business components and develop modern user interface web applications. The developer should work under minimal supervision to design, test, and implement web applications, using industry standard software development practices, techniques, tools, and frameworks.
+
+Skills Required:
+"	12962	Washington
+QA Tester	Business Integra Inc.	Chantilly, VA	None	The person in this position will be held accountable for the implementation of best practice techniques for test-driven development, value-based exploratory testing, semi-automated and manual functional and regression testing, defects and issue reporting. In addition, the person in this role will facilitate internal/external communication between the development team and acceptance test stakeholders, as well as validate that the development team adheres to established Agile testing methodologies and processes. They will also be creating and reviewing business/applications documentation.U.S. Citizenship is required. Telecommute or remote work is allowed.RESPONSIBILITIES: Ensure that the acceptance criteria for user stories are testable, and developing test cases based on those criteriaPerform testing/validation of newly/previously released systemsPerform development, integration, test and documentation of test frameworkDefine test parameters, design tests, interpret test results and analyze test trendsWork with developers to create operational tests based on operational scenariosInvestigate and analyze unique or customer-related issues relating to test failuresParticipate and support development pilots during the initial phases of all projects as requiredEmploy Agile test tracking tools to provide transparency on product and sprint backlogsRecommend improvements and assist in changes to best practice for agile software testingEnsure the team strives to make each increment of functionality potentially shippableGuide team to adhere to agile based test standards, tools and best practices and maintain test process documentationInterface with customers, vendors, and all company departments to resolve technical and quality problemsQUALIFICATIONS: Bachelor’s degreeMinimum of one (1) year of experienceSoftware testing experienceAbility to learn the application quicklyGood communication skillsGood technical writing skillsAnalytical thinkingExcellent interpersonal relationship skills.Prefer Knowledge of Software Development Life Cycle processesPrefer knowledge of the quality assurance/quality control (QA/QC) processes applied to Web based systemsMust be customer service oriented and fully cognizant of the user experienceExcellent oral and written communication skills and ability to clearly articulate customer technical needs into technical specificationsAbility to work in a fast-paced, dynamic environmentMust be a team player and be able to work within all levels of a project teamExcellent time management, scheduling, and organizational skillsAbility to work well independently as well as follow detailed instructions for completing tasksMust have the ability to pass a standard background investigation and obtain civilian agency low level clearanceJob Type: Full-timeBenefits:401(k)Dental insuranceHealth insuranceLife insurancePaid time offSchedule:8 hour shiftMonday to FridayApplication Question(s):Looking someone with Public Trust Clearance.Education:Bachelor's (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19	12962	Washington
+Software Developer	Creative Systems and Consulting	McLean, VA 22102	None	Creative Systems and Consulting LLC is a leading provider of Digital Transformation services for Federal agencies. Our services focus on enabling agency mission and business transformation using industry leading low-code platforms, mobile applications, robotics process automation and data analytics platforms. Creative is partnered with some of the world’s leading and most innovative companies like Salesforce, ServiceNow, Microsoft and UiPath. We focus on offering a full range of architecture and planning, system implementation, integration, analytics and O&M for our customers.Position Overview: To enhance our consulting practice, Creative is currently seeking self-motivated Software Developers to implement business requirements for cloud based solutions, like Salesforce, ServiceNow, and MS Dynamics (no prior experience required). If you are a well-rounded and innovative .NET/C#/Java Developer looking for fun and challenging IT projects, and curious to learn new cloud based technologies, join our cutting-edge team!Responsibilities: As a Software Developer, you will work in a collaborative environment in which knowledge is shared within and between teams.Communicating Agile project progress, including any impediments to timely completionBuilding new applications for clientsConducting seamless system hand-offs and knowledge transfers to clientsMaintaining current industry knowledge of development concepts, best practices and procedures for projects/solutionsRequirements: You must possess superb communication, analytical and time management skills. Our ideal Developer is a cooperative thought leader who is an asset in a team environment, can ramp-up quickly on new technology and leverage many framework aspects to satisfy business requirements. You must also be able to write clean, reliable and tested code and work independently in a fast-paced environment with constantly changing demands.Bachelors degree or Master's degree with major/minor in a computer related disciplineA minimum but required GPA of 3.0 of 4.0US Citizens and Permanent Residents (Green Card)Ability to pass a background checkAdaptable technical and multi-tasking abilitiesFocus on details and excellent team workerAll offers of employment at Creative are contingent upon ones eligibility to obtain and maintain a federal public trust.Creative Systems and Consulting, LLC is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.Job Type: Full-timeBenefits:401(k)401(k) matchingDental insuranceHealth insurancePaid time offVision insuranceSchedule:Monday to FridayEducation:Bachelor's (Required)Experience:Software development: 1 year (Preferred)ServiceNow or Salesforce: 1 year (Preferred)Work Location:One location	12962	Washington
+Jr. Developer/Programmer	Vidoori	Suitland, MD	None	"Job Tracking ID: 512902-775221
+Job Location: Suitland
+Level of Education: Any
+Job Type: Full-Time/Regular
+Date Updated: 06/03/2021
+Vidoori, Inc., a rapidly growing small business that specializes in building strong Engineering teams that provide high quality, modern technical solutions to our clients, is seeking a
+
+Junior Developer/Programmer who:
+Applies knowledge in software development
+Solves problems that require the regular use of ingenuity and creativity
+Performs work with minimum supervision
+Makes sound recommendations to help achieve critical organizational objectives
+Has responsibility for analyzing, collecting and restoring test data and making sure that it is maintained in proper formats.
+Assists with test data acquisition, access test data quality and test data accuracy and reasonableness
+Identifies relationships in disparate data and resolve test data discrepancies
+Analyzes large volumes of test data and prepares correlating models and calculations
+Extracts, imports and exports test data in various database applications and provides support in testing and validating data in different software systems
+Performs data auditing activities and assists with ongoing data architecture processes and associated governance
+Identifies test data anomalies and performs data reconciliations on a daily basis
+Formulates test data backup plans and ensures that they are timely implemented and properly secured
+Analyzes and resolves routine data problems and executes processes to resolve complex data and system problem
+Effectively interacts with interfacing organizations and works together as a team to deliver projects on time and on budget
+Supports the data security management initiative to ensure sensitive data across the enterprise is secured and protected in the software test environments.
+
+The individual must be able to work independently and communicate with all levels of management and key stakeholders in a timely and accurate manner
+Experience and Skills
+Must have:
+
+Must have excellent knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Must be proficient in the following:
+Analyzing information
+General programming skills
+Software design
+Software debugging
+Software documentation
+Software testing
+Problem solving
+Teamwork
+Software development fundamentals
+Software development process
+Software requirements
+
+Preferred Qualification
+
+Bachelor’s Degree in Computer Science or related field.
+Technologies and Tools
+
+Java or C++, Spring, Angular, Vue.JS, OpenShift, OpenJDK
+
+Experience
+1-3 years of experience performing software development and programming activities
+
+Location
+
+Suitland, MD
+
+Residency
+
+Authorized to work in the US (US citizenship)"	12962	Washington
+Software Developer	ActioNet	Washington, DC 20001 (Shaw area)	None	"ActioNet is looking for a Software Developer with experience in the design and development of Java based, database driven web applications. This position conducts system analysis and programming tasks, prepares test data, and tests and debugs programs, prepares documentation of programs and user procedures, and assists in installing software.
+Summary:
+Responsibilities include designing, coding, and testing software, software troubleshooting and correcting errors in software and operating procedures.
+
+Why ActioNet?
+
+It is simple. We are passionate about the inspirational missions of our customers and we entrust our employees and teams to deliver exceptional performance to enable the safety, security, health and well-being of our nation.
+
+
+Basic Qualifications:
+At least 3 years of Java development experience
+At least 3 years of SQL experience with at least 1 year of experience with lnformix Dynamic Server
+At least 1 year of experience with Linux
+At least 1 year of experience with Adobe development tools
+Familiarity with business intelligence reporting tools, such as Eclipse’s B.I.R.T.
+Knowledge of the Administrative Office of the US Courts is a plus.
+Education:
+Associate’s or Bachelor’s degree in computer programming, computer science, or related technical discipline preferred.
+What's in It For You?
+As an ActioNeter, you get to be part of exceptional team and a corporate culture that nurtures mutual success for our customers, employees and our communities. We give you the tools to be successful; all you need to do is bring your best ideas, your energy and a desire to develop your skills, experience and career.
+
+Are you ready to make a difference?
+ActioNet is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."	12962	Washington
+Frontend Web Developer	SAIC	Washington, DC	$100,001 - $125,000 a year	"Job ID: 218950
+Location: WASHINGTON DC , DC , US
+Date Posted: 2021-06-18
+Category: Software
+Subcategory: SW Engineer
+Schedule: Full-time
+Shift: Day Job
+Travel: Yes, 10 % of the Time
+Minimum Clearance Required: None
+Clearance Level Must Be Able to Obtain: Public Trust
+Potential for Remote Work: Yes
+Description
+SAIC has a contingent opportunity to support The Library of Congress(the Library), an agency of the Legislative Branch of the Federal Government, is the world’s largest and most comprehensive library, maintaining a collection of more than 162 million items– many of them unique and irreplaceable – in more than 450 languages. For details on the Library, its mission and its organization please refer to: https://www.loc.gov/about. Information Technology (IT) plays a vital role in supporting the mission of the Library and is a heterogeneous environment that is managed and maintained using an industry best practice System Development Life Cycle (SDLC) and Project Management Life Cycle (PMLC) process.
+The Library’s SDLC supports the Agile/iterative delivery model. The Library’s PMLC and SDLC include the necessary processes, information and supporting tools that assist project managers and project teams in following Federal and industry best practices in project management and software development while maintaining awareness of the Library business priorities and the IT investment processes. The agile approach improves the customer value delivered by iterative customer feedback into solutions.
+ Frontend Web Developer: Use modern techniques and frameworks (e.g., HTML5, CSS3, CSS frameworks like LESS and SASS, Responsive Design, Bourbon, Twitter Bootstrap). JavaScript development using modern standards, including strict mode compliance, modularization techniques and tools, and frameworks and libraries (e.g., jQuery, MV* frameworks such as Backbone.js and Ember.js, D3). Consume RESTful APIs. Use and work in team environments that use agile methodologies (e.g., Scrum, Lean). Use of version control systems, specifically Git and GitHub. Ensure Section 508 Compliance. Use and work with open source solutions and community. Create web layouts from static images. Create views and templates in full-stack frameworks like Rails, Express, or Django
+
+Qualifications
+Public Trust clearance
+BS Degree
+4+ years of: Development Experience, Agile Methodology, JAVA/PYTHON/ANGULAR
+Target salary range: $100,001 - $125,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+SAIC is a premier technology integrator solving our nation's modernization and readiness challenges. Our offerings across defense, space, civilian, and intelligence markets include high-end solutions in engineering, IT, and mission outcomes. We integrate the best components from our portfolio with our partner's ecosystem to deliver innovative and effective solutions. We are 25,500 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, VA, SAIC has annual revenues of nearly $7.1 billion. For information, visit saic.com or Working at SAIC for benefits details. SAIC is an Equal Opportunity Employer empowering people no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or veteran status. We strive to create a diverse, inclusive and respectful work culture that values all."	12962	Washington
+Manager, Software Development	Amazon.com Services LLC	Herndon, VA	None	"Bachelor’s degree in Computer Science, Computer Engineering or equivalent experience
+5+ years of experience designing and building distributed systems
+3+ years of experience n building and managing diverse and technically deep teams;
+Knowledge of Unix/Linux, C++, or Java, Object oriented design and Service Oriented Architecture
+
+Track record of building and delivering highly scalable, mission critical, 24x7 production software systems
+
+Do you want to help government customers around the world use cloud computing to solve their problems? Do you want to be on the forefront of secure computing at incredible scale? Do you want to lead a team that brings the capabilities of the AWS cloud to solve the particular challenges of new customer communities?
+
+The Dedicated Cloud Solutions team is creating new ways to bring g the next generation of cloud computing to public sector and regulated customers around the world. We deliver highly secure, highly reliable, highly available services, all while functioning at massive scale in ways that comply with the specialized security and access control requirements.
+
+Our diverse team are smart, passionate about the cloud, dedicated to serve customers, and fun to work with.
+
+In this role, you will be leading and developing a team of software developers who create tools and deliver programs that bring our cloud services into isolated and access-controlled environments around the world. You will be creating a new type of first-class AWS experience while achieving technical and business objectives. You will use your technical expertise to guide your team to design, deliver, and operate new services and platforms that make it easy for customer communities around the world to use AWS's technologies. You will be working with other services and teams across AWS, and must be creative and forward leaning in developing fast, and effective, solutions.
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Our team is dedicated to supporting new team members. We have a broad mix of experience levels and Amazon tenures, and we’re building an environment that celebrates knowledge sharing and mentorship.
+
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
+
+
+Demonstrated serial success in team building, agile processes, and cloud service development
+Has taken systems software products and services from inception to customer delivery
+Has a track record of successfully participating in roadmap prioritization with product management; able to successfully communicate complex topics to customers and business executives alike
+Has experience with large scale distributed systems and enterprise software development
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit ﻿https://www.amazon.jobs/en/disability/us﻿."	12962	Washington
+Full Stack Developer	Piper Companies	Silver Spring, MD	$105,000 - $125,000 a year	"Piper Companies is seeking a Full Stack Developer to join a world leading mass media television provider. The Full Stack Developer will have the opportunity to work with a diverse suite of cloud, UI, and backend toolsets supporting critical projects.
+Responsibilities of the Full Stack Developer include:Provide full stack development expertise in a hybrid cloud and JS environmentPerform backend development of data for presentation of media contentSupport storage and retrieval of the cloud-based contentDeliver a complete programming lineup in accordance with guidelines and regulations.
+Qualifications for the Full Stack Developer include:3+ years of software development experience
+Demonstrated experience with Node.JS, Angular, and PostgreSQLHighly preferred cloud-based experience in; AWS, or other Cloud-based stackCI/CD pipeline automation expertise: Jenkins, Terraform, Spinnaker, or otherHighly preferred commuting flexibility to either Sterling, VA or Silver Spring, MD post-Covid; 100% remote post-Covid is on the table
+Compensation for the Full Stack Developer include:Salary Range: $105,000-$125,000 **depending on experience**
+Keywords: NodeJS, Node.JS, Node JS, Angular, Postgres, PSQL, PostgreSQL, P/SQL, Oracle, AWS, Aurora, RDS, Amazon, CICD, CI/CD, Jenkins, Terraform, Spinnaker, automation, deployment, full stack, full-stack, Kubernetes"	12962	Washington
+Web Developer (Support)	Rooster Grin Media	Washington, DC	$65,000 - $85,000 a year	Role: Rooster Grin is hiring a full-time Web Developer to provide support to our clients. ALL applicants must have experience HTML, CSS, JavaScript, and WordPress. In addition, applicants will need some knowledge of Photoshop and Illustrator or a comparable design tool (ie. Sketch, XD). This position is designed for a Jr. Front End Developer. The ideal candidate is resourceful with code, attentive to detail, and able to manage multiple projects simultaneously. Candidates must be well spoken on the phone and over email. You would mainly be working on WordPress templates that the company has built. Although we are based in California, our team is looking to grow in the DC area.Who we are: Rooster Grin is a small Web Development Agency located in the heart of San Francisco's Tech Design scene, conveniently located near public transportation. Here at Rooster Grin, we focus our talents on creating websites with a photo-journalistic approach through clean and modern designs. We are driven, solution-oriented, and strive to keep our staff growing from the ground up. Among other talents, we are known for consuming large amounts of coffee, trying the latest food trends, and enjoying quality time with our team. It is important for us to maintain a steady work-life balance. We encourage passion and fun just as much as hard work and creativity.Technologies: Vue.js, Webpack/Gulp, Pug, JavaScript, Sass, PHP, SQL, WordPress, Serverless, AWSCurrent Tools: Photoshop, Illustrator, Asana, Git/GithubResponsibilitiesCompleting support requests from clients (this can range from simple content updates to new features) on sitesDeveloping template websites for existing and new clientsSpeaking to clients on the phone and answering inbound requestsDeveloping process / guidelines for templatesWorking with Web Development Team to build and launch websitesLearn quickly and continuouslyWorking and problem solving with clients, making sure that problems that arise are taken care of in a timely and friendly manner (we pride ourselves on our dedication to customer service)RequirementsExperienced and comfortable with JavaScript, HTML, and CSSExperienced and comfortable with WordPressWorking knowledge of Adobe SuiteKnowledge of developer best-practices including coding standards, source control, build processes, and testingAbility to solve problems in an efficient and accurate mannerAbility to prioritize correctly when tackling larger workloadsFriendly - this is a client facing role and we are looking for someone who is able to work well with our customers on a daily basisBonus QualificationsExperience with Sass or other CSS preprocessorExperience with BEM methodology or similarExperience creating modern web applications using a front end framework like: React, Angular, Moon, and/or VueHave deployed a widget, plugin, or contributed any open source projectsHave used a state container like Flux, Redux or VuexSEO Experience and knowledge, especially when dealing with single page applicationsExperience with WordPress APIDabbles in design or other creative endeavorsJob Type: Full-timePay: $65,000.00 - $85,000.00 per yearBenefits:401(k) matchingDental insuranceHealth insurancePaid time offVision insuranceSchedule:8 hour shiftAbility to Commute/Relocate:San Francisco, CA 94102 (Required)Experience:JavaScript: 1 year (Preferred)WordPress: 1 year (Preferred)CSS: 1 year (Preferred)HTML: 1 year (Preferred)Work Location:Multiple locationsWork Remotely:Yes	12962	Washington
+Business Analyst MCT	ERPI	Washington, DC 20006 (Foggy Bottom area)	$75,000 - $80,000 a year	ERPi is a professional services management ﬁrm, dedicated to values of trust and integrity. Our mission is to deliver professional services as a trusted agent and expert enterprise program management services for Federal clients.ERPi is currently searching for a full-time Business Analyst for the Department of Veterans Affairs (VA), Multi-Channel Technologies (MCT), working under the Veterans Experience Office, transforming its ability to serve Veterans through modernized VA Contact Center CRM and telephony systems. This role contributes to improving the VA employees and Veteran’s lives and working towards a larger mission.The ideal Business Analyst will perform tasks that support the required delivery of analysis and advice to management regarding a diverse set of project, program and operation needs.Elicits, analyzes, specifies, and validates the business needs of MCT stakeholders, including customers and/or end users.Collaborates with project sponsors to determine project scope and vision.Clearly identifies project stakeholders and establish customer classes, as well as their characteristics.Conducts interviews to gather customer requirements via workshops, questionnaires, surveys, site visits, workflow storyboards, use cases, scenarios, and other methods.Identifies and establishes scope and parameters of requirements analysis on a project-by-project basis to define project impact, outcome criteria, and metrics.Works with stakeholders and project team to prioritize collected requirements.Researches, reviews, and analyzes the effectiveness and efficiency of existing requirements-gathering processes and develop strategies for enhancing or further leveraging these processes.Assists in conducting research on products to meet agreed upon requirements and to support purchasing efforts.Participates in the QA of solutions to ensure features and functions have been enabled and optimized.Perform gap analyses of the differences between current (as-is) and targeted (to-be) states.Participates in the selection of any requirements documentation software solutions that the organization may opt to use.Analyzes and verifies requirements for completeness, consistency, comprehensibility, feasibility, and conformity to standards.Develops and utilizes standard templates to accurately and concisely write requirements specifications.Translates conceptual customer requirements into functional requirements in a clear manner that is comprehensible to developers/project team.Creates process models, specifications, diagrams, and charts to provide direction to developers and/or the project team.Develops and conduct peer reviews of the business requirements to ensure that requirement specifications are correctly interpreted.Assists with the interpretation of customer requirements into feasible options, and communicating these back to the business stakeholders.Manages and tracks the status of requirements throughout the project lifecycle; enforce and redefine as necessary.Communicates changes, enhancements, and modifications of business requirements — verbally or through written documentation — to project managers, sponsors, and other stakeholders so that issues and solutions are understood.REQUIRED SKILLS AND EXPERIENCE: BA/BS DegreeMinimum of 4 years of experienceProven experience with business and technical requirements analysis, elicitation, modeling, verification, and methodology developmentDemonstrated project management skills and project management software skills, including planning, organizing, and managing resourcesStrong communication (verbal and written) and presentation skillsGood team player, able to manage multiple assignments, and adapt to changing client needsAbility to multi-task with limited supervision in a fast-paced environmentAbility to synthesize and analyze multiple views and data setsStrong analytical and problem-solving skillsStrong organization and prioritization skillsAbility to work in a dynamic, collaborative, results-driven environmentAbility to obtain a Public Trust clearanceDESIRED SKILLS AND EXPERIENCE: Understanding of Software Development Life-cycle (SDLC)Understanding of Project Management Book of Knowledge (PMBOK) and Project Management Institute (PMI) best practicesBusiness Process Engineering experienceExperience with training and change managementExperience working with DoD, VA and/or other federal agencies is a plusPossession of excellent critical thinking, leadership, analysis, and data gathering skillsCLEARANCE:  Public TrustJob Type: Full-timePay: $75,000.00 - $80,000.00 per yearBenefits:401(k)Dental insuranceHealth insurancePaid time offVision insuranceSchedule:8 hour shiftEducation:Bachelor's (Preferred)Experience:business analysis: 4 years (Preferred)Work Location:One locationWork Remotely:No	12962	Washington
+Automation Software Test Engineer	Dovel Technologies, LLC	Washington, DC	$85,600 - $103,700 a year	"Overview:
+
+Ace Info Solutions, a Dovel company, is currently seeking a Mid-Level Automation Test Engineer to join our team working REMOTELY.
+The mid-level candidate is responsible for the design, development and execution of automated tests for a distributed enterprise application with external and internal interfaces utilizing Microservices and business automation patterns to modernize an existing system from the ground up. As an active participant on a scrum team, the candidate is responsible for all aspects of quality assurance. The candidate must be proficient with automation and testing tools. This role works closely with software engineers, fellow QA engineers, DevOps engineers, and security professionals. Flexibility to work collaboratively and knowledgeably with team members of each area is vital. The candidate documents and works to resolve problems, reports progress on problem resolution, devises improvements to current procedures, and develops models of possible future configurations. The mid level candidate will focus on the automation for testing of the software built on a new technology stack using industry standard tools. It is essential that this candidate have exceptional communication skills and be flexible with technology, environment and priorities.
+Duties & Responsibilities:
+Design, develop, and execute automated tests.
+Extension of existing test automation frameworks and tools .
+Integrating with CI/CD tools and pipeline (i.e. Jenkins).
+Triage, troubleshoot and document defects.
+Document QA procedures for team.
+Work closely with engineering and QA to manage and improve the development pipeline.
+Perform and write automated functional, system, regression, and integration testing.
+#NFIPjobs
+Requirements:
+
+Required
+Proficient with Java
+Proficient with JUnit, TestNG
+Experience with Selenium
+Experience with RestEasy or similar API automation
+Experience with JMeter
+Experience with Git
+Familiarity with Postman
+Experience Bash and SSH experience on RHEL
+Experience with Jira and confluence
+Perform code reviews
+Ability to manage multiple tasks with varying priorities
+Ability to communicate ideas in a variety of formats
+Adheres to Agile development methodology
+Preferred
+Knowledge of the following areas a plus:
+Maven, Gradle or equivalent build tool
+IntelliJ, eclipse or similar IDE
+Docker, Kubernetes
+Posgres and MongoDB
+508 Compliance, Web accessibility knowledge
+Splunk
+Jenkins
+#LI-PS1
+
+Compensation:
+
+The proposed salary range for this position is $85,600 to $103,700. Final salary will be determined based on various factors such as geography, experience, certifications, etc.
+Company Description:
+
+We are a trusted government partner that blends deep domain expertise with advanced technologies to help our customers solve complex problems that improve, protect, and save lives. As a rapidly growing company, we combine entrepreneurial spirit, customer focus, and an outcomes-based approach to support agency missions in health IT, life sciences, public safety, and grants management.
+The Dovel Family of Companies offers employees an opportunity to advance beyond a specific role or contract, we offer a path to develop an enriching career. We believe in empowering a culture of innovation, customer success, and employee growth.
+What you’ll get…
+Time Off! Flexible schedules and company paid holidays allow you to take the time you need.
+Investment in YOU! 401(K) company contributions are yours to keep with no waiting period.
+Choices! Unique healthcare plans to choose from with options like fertility and orthodontia benefits.
+Discovery! With our tuition assistance and training programs, we support your career advancement.
+Tax Savings! Enroll in pre-tax Health or Dependent Care Flexible Spending, HSA with company contributions, parking, and/or transit commuter benefits.
+Support! Working parents and busy professionals – we’ve got you covered with a supportive culture, confidential Employee Assistance Program, and membership to Care.com.
+Perks! Employee discounts, peer recognition programs, company-wide wellness challenges, and fun community events.
+A Voice! A unique culture where you can influence decisions and have your voice heard.
+We are an Equal Opportunity Employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, disability, or veteran status."	12962	Washington
+PHP/Laravel Developer - Telecommute	UnitedHealth Group	Herndon, VA 20171	None	"DocASAP, part of the UnitedHealth Group family of businesses, is a high-performing startup that is optimizing the health care industry by transforming 1.1 million providers into one streamlined system that reduces wait times for patients so they can get access to care when they need it. Our CEO championed this initiative after waiting hours in an emergency room with his son. We are actively reducing wait times across providers as our company grows thanks to our team’s positive attitude and strong family spirit. At DocASAP, we know happiness and productivity go together. We offer flexible working hours in a performance driven environment. Challenge yourself by shaping what health care looks like while doing your life’s best work.(sm)
+As part of Optum, DocASAP is a patient access platform that matches the patient with the right provider, at the right time and right setting. The Engineering team plays a key role in defining and growing DocASAP's intelligent, market leading platform. You will play a significant part in supporting the transformation and scalability of our platform to meet the market needs. You will be supporting and driving the DocASAP SaaS capabilities, responsible for building and managing our APIs.
+We are looking for a PHP/Laravel Developer to join our technical team and deliver a streamlined user experience to our patient access and engagement platform. As a PHP/Laravel Developer, you take part in the design and architecture of key roadmap items and do the coding to create a scaffolding that the developers can use. We want a team member who is passionate about working in a high-energy environment and eager to improve design for a greater user experience.
+You’ll enjoy the flexibility to telecommute* from anywhere within United States as you take on some tough challenges.
+Primary Responsibilities:
+Work as a part of our core engineering team to ensure the highest standards of design, implementation, performance, and security
+Work closely with the product team to ensure all customer needs are met
+Design and build upcoming new features
+Support and extend existing features
+Participate in daily SCRUM meetings
+Review requirements and develop technical solutions to meet requirements
+Estimate project deliverables
+Develop and test REST APIs to meet project requirements using Java Framework
+Work with data providers and API consumers to clarify requirements and remove roadblocks
+Provide innovate solutions to technical challenges
+Build and deploy framework components to achieve automated testing goals for the team
+Drive automation into everyday activities
+Deliver high quality high performing solutions
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+Required Qualifications:
+Undergraduate degree
+2+ years of experience working in software engineering organizations
+Expertise in Laravel/PHP framework
+Experience with key design and architecture principles, domain-driven design including one or more of the following: CI/CD, AWS, DevOps, or Agile delivery methods
+If you need to enter a work site for any reason, you will be required to screen for symptoms using the ProtectWell mobile app, Interactive Voice Response (i.e., entering your symptoms via phone system) or similar UnitedHealth Group-approved symptom screener. When in a UnitedHealth Group building, employees are required to wear a mask in common areas. In addition, employees must comply with any state and local masking orders
+Preferred Qualifications:
+Healthcare experience
+Familiarity with distributed architecture, Microservices, event-driven architecture, Kafka, AWS SNS/SQS, ElasticSearch, Redis
+Java
+Python
+Technology Careers with Optum. Information and technology have amazing power to transform the health care industry and improve people's lives. This is where it's happening. This is where you'll help solve the problems that have never been solved. We're freeing information so it can be used safely and securely wherever it's needed. We're creating the very best ideas that can most easily be put into action to help our clients improve the quality of care and lower costs for millions. This is where the best and the brightest work together to make positive change a reality. This is the place to do your life's best work.(sm)
+Colorado Residents Only: The salary range for Colorado residents is $64,800 to $116,000. Pay is based on several factors including but not limited to education, work experience, certifications, etc. As of the date of this posting, In addition to your salary, UHG offers the following benefits for this position, subject to applicable eligibility requirements: Health, dental, and vision plans; wellness program; flexible spending accounts; paid parking or public transportation costs; 401(k) retirement plan; employee stock purchase plan; life insurance, short-term disability insurance, and long-term disability insurance; business travel accident insurance; Employee Assistance Program; PTO; and employee-paid critical illness and accident insurance.
+*All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+Job Keywords: PHP Developer, Laravel Developer, Developer, Software Developer, Software Engineer, Laravel, PHP, Telecommute, Telecommuting, Telecommuter, Work From Home, Work At Home, Remote"	12962	Washington
+Jr. Software Engineer (Secret)	Improvix Technologies	Washington, DC 20036 (Downtown area)	None	"
+
+Overview
+
+We are looking to hire a talented .NET Developer to support customized SharePoint solutions as well as business applications for our Federal client. To ensure success as a .NET Developer, you should have extensive knowledge of Microsoft development suites, MS Office software web-based software development using .NET technologies, proficiency with front-end programming languages, and the ability to solve complex software issues. Ultimately, a top-class .NET Developer can create clean, scalable web applications that meet all design and functionality requirements.
+
+Duties and Responsibilities
+
+Design, develop, configure, deploy custom .NET Web Solutions.
+Balance priorities and workload across multiple projects and multiple developers as needed.
+Design, develop, test and debug software solutions while following software development process, coding, and configuration management standards.
+Participate in solution design and concept visualization, create user interface mockups, prototypes and demo solutions to stakeholders.
+Maintain existing applications including troubleshooting and debugging issues.
+
+
+Qualifications
+
+Bachelor's degree (B. A.) in Computer Science or Information Technology
+3+ years of experience as a .NET developer/SharePoint developer.
+Good development skills and experience with web application development using ASP.NET MVC and C#
+A good understanding of Windows SharePoint Services and other web development experiences will be required in order to implement high quality, scalable and effective SharePoint solutions to support various organizational requirements.
+Proficient knowledge of SharePoint 2013 or newer, including workflow and content management.
+Experience building/maintaining Data Access Layer solutions using Entity Framework.
+Experience with front-end development framework - AngularJS or ReactJS.
+Experience with MS SQL, Git, TFS, Microsoft SharePoint Designer and other Microsoft Office SharePoint technologies.
+Knowledge of LDAP/Active Directory authentication and group security as it applies to SharePoint.
+Experience with REST API development.
+Familiarity with cloud-based application development tools – Azure is preferred.
+Preferred to have certifications with .NET/SharePoint Development
+
+
+Required qualifications for the .NET Web App Developer include:
+Minimum 3+ years of specialized experience with a BA/BS
+Alternatively, 1 to 2 years specialized experience with a Master’s degree
+
+
+Preferred qualifications for the .NET Web App Developer include:
+ITIL certification; and
+Microsoft Certified Professional (MCP)
+
+
+Hours:
+Available during government closures and on weekends for special projects on as needed basis.
+Available to take part in out of hours on call rotation."	12962	Washington
+Mainframe Developer	EPM Systems	Reston, VA	None	"Email: jobs@epmsys.com
+Title: Mainframe Developer
+
+Skills: Skills: Mainframe OS/390, COBOL, CICS, JCL, VSAM
+
+Date: 6-8-2006
+
+Location: Reston, VA
+
+Area code: 703
+
+Tax term: FULLTIME CON_CORP CON_IND CON_W2 CON_HIRE_CORP CON_HIRE_IND CON_HIRE_W2
+
+Pay rate: DOE
+
+Length: 6 months
+
+Position ID: TL100
+
+Dice ID: 10123551
+
+Job description:
+The Consultant (technical) position provides technical support to state and local government customers who use a large complex accounting system. Independently and within a team, resolve problems for clients, functional staff, and implementation teams. Maintain and enhance existing product in mainframe environment through analysis, design, coding, debugging, testing, and documentation. Initiate direct communication with implementation project managers, software engineers, and clients in a professional manner.
+Minimal Requirements: Requires 4+ years of proven success as a developer in a mainframe environment utilizing OS/390 or VSE operating systems, structured COBOL programming, CICS, and VSAM. Working knowledge of standard mainframe and operating system facilities including JCL, TSO/ISPF, and DOS/Ditto. Strong analytical and problem solving abilities. Skill in working effectively in a team environment.
+Desired Requirements: Prefer 4+ years experience with mainframe -based general ledger and/or purchasing systems. Strong communication skills (written and verbal) to support need to obtain and convey information in a clear, concise, and professional manner. Experience creating design specifications preferred. Experience with ADABAS or other RDBMS is desirable. Experience working with legacy-enhancement and web-enablement tools/projects a plus.
+
+Travel required: 25%
+
+Telecommute:
+no"	12962	Washington
+Software Development Engineer II - WorkMail (AWS)	Amazon.com Services LLC	Arlington, VA	None	"
+2+ years of non-internship professional software development experience
+Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+Competency in computer science fundamentals such as data structures, algorithms, problem solving and complexity analysis.
+Clear, professional communication skills to be able to contribute effectively - including asking questions - in team discussions and in written media like design documents and tickets.
+
+Want to develop a customer-facing, business-critical AWS service? Amazon WorkMail is hiring Software Development Engineers to help us build new interfaces and features for our secure, managed email and calendar service.
+
+On the WorkMail team, you will have the chance to learn all the ins and outs of the cloud as you build for a growing AWS service that is itself built on the AWS stack. For our service, teams build everything from browser-based user interfaces, to APIs and wire protocols, low-level storage and search technologies, message routing and anti-abuse technologies, and more.
+
+If you have experience in, or interest in, mail messaging protocols and concepts, building applications in multiple languages, and building for client-side and server-side, and a sense of pride and ownership in what you work on, including a willingness to support it, we want to talk to you.
+
+We don't expect you to have experience in everything - it's more important to be motivated to learn and improve your skills over time. Our team culture supports your active growth through collaborative task work, knowledge-sharing internal activities, quarterly hackathons, and mentoring.
+
+You'll join a friendly and fun organization with diverse backgrounds and expertise and learn how Amazon builds and operates highly-available services at scale.
+
+About Us
+
+Inclusive Team Culture
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Work/Life Balance
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship & Career Growth
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+Experience in, or interest in:
+
+Email and calendar protocols and concepts
+Building cloud-native, resilient services
+Building applications that include a mix of client-side and server-side components
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us."	12962	Washington
+Junior Software Developer	Revature	Arlington, VA	None	"Revature is the fastest growing employer of emerging technology talent in the US. We will hire over 300 new Junior Software Developers in the next 4 weeks.
+One day someone is going to ask you where you got your start…This is IT!
+With a wide range of Fortune 500 enterprises, government organizations and top systems integrators as our clients, we not only provide you with the skills needed to succeed through an employer-paid training program but will also give you the opportunity to put those skills to use, on projects that matter.
+What We Are Looking For
+College degree (Associates or Bachelors)
+Must be authorized to work in the US
+Strong desire to learn to code – No prior professional experience required.
+A natural problem solver
+Strong communication and interpersonal skills
+Willing to relocate anywhere in the US – Relocation assistance provided
+What We Offer
+Competitive salary
+Relocation & housing assistance
+Health, vision & dental insurance
+Paid time off
+Industry Certifications
+Life Insurance Policy
+401k
+Mentoring program and ongoing support throughout your entire Revature career
+Experience with the largest and most reputable companies in the US
+Apply Today. Interviews are going on now.
+#SoftwareEngineering
+Equal Employment Opportunity
+The Company is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race, religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national origin, disability, age, genetic information, marital status, veteran status, or any other status protected under applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, compensation and training. If you require an accommodation to work based on any of these protected factors, please notify the Human Resources Department, and the Company will evaluate the request and provide an accommodation in accordance with applicable law.
+We seek to comply with all applicable federal, state and local laws related to discrimination and will not tolerate the interference with the ability of any of the Company’s employees to perform their job duties. Our policy reflects and affirms the Company’s commitment to the principles of fair employment and the elimination of all discriminatory practices."	12962	Washington
+Software Development Engineer, Test (RASC114)	Research Innovations Inc	Alexandria, VA	None	Research Innovations, Inc. (RII) is breaking through the big, slow, status quo with transformative technology that fundamentally changes and improves the world. We develop cutting-edge software for all levels of the government and military. Using agile development practices and user-centered design, we create innovative software solutions for complex real-world problems.Our team is seeking a Software Engineer to support Test Automation on our Common Platform. The Software Engineer will actively participate in on-site developmental testing through end-to-end, unit, development, functional, performance, systems of systems, and acceptance testing of software and hardware supporting our platform application baseline. This position is directly embedded within the development team and part of their agile development rhythms.This position requires the ability to obtain a US security clearance. A current active clearance is not required.WHAT YOU WILL BE DOINGDesign, develop and maintain automated tests to ensure regression and feature coverageParticipate in the software development life cycle from beginning to endWork closely with development and QA teams to identify test cases that can be automatedIdentify, troubleshoot and track bugs to resolutionCreate detailed and well structured test plans and cases that can be automatedWHAT YOU HAVE DONEBachelor's degree in Computer Science, or equivalent work experience.2+ years of experience building and maintaining automation suites for web applicationsExperience creating automated tests with Javascript or JavaExperience with source control using GITExperience with pull requestsDemonstrated experience in automated testing approaches and frameworks such as Selenium Webdriver or CypressWorking knowledge of Windows and LINUXUnderstanding of client-side Web Application technologies Javascript/HTML/CSSUnderstanding of RESTful APIs and HTTPWorking knowledge of Browser debugging tools, Dev ConsoleDemonstrated ability to create comprehensive and clear Test Plans, Test Cases and Test ReportsEVEN BETTERExperience with Cypress or other JS based testing frameworksExperience with Behavior Driven Development (BDD)Experience testing applications built with ReactJSExperience coding in JavaScript to include modern frameworks and librariesExperience with DockerExperience in advanced automated testing approaches and technologiesExperience with the Atlassian suite of tool to include Jira, Confluence, and StashAt RII, we believe that diversity in our workforce is critical to our success. We strive to hire great people from a wide variety of backgrounds, not just because it’s the right thing to do, but because it makes us stronger. We work to help your intellectual passions and creativity thrive. It’s one of our core values: Let your geek flag fly.We also offer all employees comprehensive benefits including: flexible work schedules, health insurance coverage, paid time off, 401k with a company match, paid parental leave, access to wellness programs and much more. You get this all from day one, and all 100% paid for by RII.It’s all part of another of our core values: Stay human. It’s why our comfortable and colorful offices such as our headquarters, include a community game room, pantry, massage chair, and an escape room, among other amenities. It’s why we have a community manager and regular community events._It’s also why, during the current pandemic, most of us aren’t actually in our lovely office. We’re all working fully remote where possible, with safety controls for those who do have to be on site. RII is committed to not overwhelming our healthcare system, preventing infection for those most at risk, reducing the impact on our communities, and keeping our employees working.__Research Innovations, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, national, origin, genetics, disability status, protected veteran status, age, or any other characteristic protected by state, federal or local law._Job Type: Full-time	12962	Washington
+Software Engineer	Aptive	Alexandria, VA 22314 (Old Town area)	None	"Aptive is seeking a Software Engineer in support of a concentrated effort of a large Federal Agency to provide operations, maintenance and enhancement of existing large-scale system in the FedRAMP certified AWS cloud.
+Please note: the position is fully teleworking until COVID-19 social distancing restrictions are lifted.
+MINIMUM QUALIFICATIONS.
+Bachelor's degree in Computer Science or related field from an accredited college or university
+Experience in the design, development and implementation of new software products or major enhancements to existing software
+2-3 years' experience implementing cloud-native software solutions in an Amazon Web Services or Azure cloud environment.
+Ability to obtain and maintain public trust clearance.
+Legal authorization to work in the U.S.
+Hands-on experience developing software in a microservices-based technical architecture.
+Ability to work in a fast-paced Agile (SAFe) Environment providing incremental value delivery.
+Supports research and advises on the analysis of alternatives in the determination of upgrade, refactor or other solution recommendations.
+Conducts test driven development in the delivery of high-quality code.
+JOB DUTIES.
+Coordinates and collaborates with subject matter experts and other architect leads to ensure consistent application of customer mission objectives are met.
+Assists in the evaluation and recommendation of application software packages, application integration and testing tools.
+Resolves problems with applications and responds to suggestions for improvements and enhancements.
+Being part of cross functional team provide support developing, unit testing and assisting in the continuous delivery with the development of automated test suites.
+DESIRED SKILLS.
+Programming experience with Java, SQL, EDI, Linux scripting (batch jobs).
+Working knowledge of object-oriented design and development skills.
+Experience with Agile software development methodologies and tools.
+Well versed in modern software architectures like micro-services.
+Strong experience working with COTS product configuration and customization.
+Prior experience working on Health Care/Insurance projects is a big plus.
+Ability to synthesize requirements underlying feature requests, recommend alternative technical and business approaches, and facilitate engineering efforts to meet aggressive timelines.
+ABOUT APTIVE.
+
+Aptive is a modern federal consulting firm focused on human experience, digital services, and business transformation. Our employees receive competitive compensation, along with company-paid health care and short-term disability plans. We also offer a 401K plan with company match, paid time off, flexible savings accounts, commuter benefits and company-sponsored professional education opportunities.
+
+
+Our work inspires people, fuels change and makes an impact. Join our team to be part of positive change in your community and our nation.
+
+
+EQUAL OPPORTUNITY EMPLOYER.
+Aptive is an equal opportunity employer. We consider all qualified applicants for employment without regard to race, color, national origin, religion, creed, sex, sexual orientation, gender identity, marital status, parental status, veteran status, age, disability or any other protected class.
+Veterans, members of the Reserve and National Guard, and transitioning active-duty service members are highly encouraged to apply."	12962	Washington
+Mid-Level Software Developer	Parsons	Centreville, VA 20120	None	"Minimum Clearance Required to Start:
+Secret
+Job Description:
+Ready for a challenge that will keep you on the cutting edge of cyber security? Are you a Software Developer ready to step into the cleared space? Parsons works on top level cyber security for national defense programs and is hiring an early stage Software Developer with a focus on research, innovation and solving mission critical challenges.
+
+Parsons’ extensive experience in the cleared space, combined with your technical knowledge, will propel your career forward with opportunity for advancement with top performance. Training, development and opportunities to switch teams and projects as you and our fastpaced business grow and evolve. We need our Developers to be versatile, display leadership qualities and be enthusiastic to tackle new challenges across the fullstack as we continue to push security forward. In this role you will work directly in an operations organization on a small, tight knit development team helping to drive the customer's computer network defense (CND) mission into the future. You'll interface directly with expert CND analysts to design and develop tools to codify their knowledge and help achieve maximal mission effect, including directly executing mission yourself to help battle harden your tools. Parsons' Software Developers designs and code software components, units, and modules to meet product specifications and development schedules for clients/customers. The successful candidate will test and debug software components and units, as well as participate in system and subsystem planning. he most common languages we currently use are Python, PHP, Bash, Perl, and C++.
+
+Qualifications:
+Bachelor’s degree from an accredited institution or equivalent certifications in computer science, web services, or related technical field preferred
+2+ years of experience in software development
+Solid expertise in developing web based applications
+Knowledge of database abstraction layers, JSP, and J2EE
+Functional understanding of sockets, UDP, TCP/IP, and other aspects of network programming
+Proficiency in XML and Java, HTTP/HTML/CSS/JavaScript
+Familiar with web services
+The anticipated annualized full time target compensation (median) for this position is: $100,000.00.
+Benefits for this position include: medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP) and 401K.
+Must be able to obtain, maintain and/or currently possess a security clearance."	12962	Washington

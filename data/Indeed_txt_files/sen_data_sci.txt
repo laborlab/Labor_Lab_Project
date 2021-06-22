@@ -1,0 +1,905 @@
+job_title	company	location	salary	description	counts	city
+Senior Health Data Scientist	Consumers' Checkbook/Center for the Study of Servi...	Washington, DC 20006 (Downtown area)	$48 - $74 an hour	Job DescriptionThe OrganizationConsumers’ Checkbook/Center for the Study of Services (Checkbook/CSS) is a consumer nonprofit with over 40 years of experience evaluating many types of service providers. This work has put us on the front lines of reforming the health care system to identify quality providers and insurance coverage. Our products provide consumers with timely, complete, and relevant information to help them make good choices in healthcare services. Checkbook’s healthcare offerings include publications and decision support tools to help consumers choose doctors, hospitals and health plans. We work hard at finding novel and relevant ways to measure the quality of healthcare that is delivered, and explain what it means for individual consumers.Examples are our health plan comparison tools, which we provide for consumers in various states, and our ratings of individual surgeons based on risk adjusted mortality and complication rates. And we have won the inaugural National Quality Forum Consumers and Patients for Quality Award and the First Place Award in two Robert Wood Johnson Foundation Challenges: the Plan Choice Challenge and the Network Challenge.We also contribute to policy-making to improve the health system, from efforts to make data on doctor availability, quality, and price more available (resulting in winner the Health Data Liberator award at Health Datapalooza) to improving and analyzing plan and provider networks for insurance regulators.If you are passionate about making our health system more efficient and responsive to individuals, come help us in making consumer-driven healthcare really work for consumers.We have a positive team environment, and a culture of collaborating and acting quickly around how to make markets work better for consumers.The RoleWe’re looking for someone to take primary responsibility for successful completion of a range of analytical projects and help us bring them to consumers within our web applications. Coordinate with team members and outside experts, keep project timelines on track, and make sure results are accurate and ready to be used by consumers. Projects may include evaluation of individual providers using Medicare/Medicaid claims data, analyzing health plan designs to synopsize key information for consumers, analyzing provider networks within a given geographic area, development of reusable code and integration into scalable processes, and other projects that empower consumers find quality care and control their healthcare costs.ResponsibilitiesDevelop and maintain a suite of analyses for health insurance plans and markets, and evaluation of provider quality and outcomes. These will form the foundation of several analytical-based products.Document analytic assumptions, methods, and outputsCreate visualizations in Tableau, R or other BI softwareManage acquisition and preparation of data for a variety of web applications, reports, etc.Use R and/or Python for data cleaning and analysisAutomate data acquisition, preparation, and analysis/modelingRun and improve our existing models of out-of-pocket costsWork on multiple projects with limited supervisionManage project timelines and ensure continuous progress.Collaborate with internal stakeholders to investigate sources of data that can meet existing and upcoming needsIdentify and implement new analyses to meet prospective client and public needsHelp develop material for client reports, blog posts, policy presentations, and other publicationsRequired Skills, Experience, and AptitudeYou have:Masters or PhD in relevant discipline (health economics, epidemiology, health informatics, data science, actuarial sciences, or related) or equivalent work experience8+ years of professional experience with acquisition and analysis of health data, including:5+ years experience managing multiple analysis projects3+ years data management, including multiple data sources which refresh frequently3+ years producing written analytical reportsStrong working knowledge of SAS, R or Python, and SQLExperience developing and maintaining analytical models of healthcare costs, outcomes, or qualityKnowledge of common health data standards and code sets (ICD9/10, CPT/HCPCS, DRG, RXNORM, etc.)Strong interpersonal and communications skillsAbility to explain analytical findings to a variety of audiencesYou are ready to roll up your sleeves with all aspects of quantitative analysis:- Background research to understand relevant subject matter (Internet, government publications, PubMed)- Reading data dictionaries and making them where they don’t exist- Acquiring and cleaning data- Question definition and refinement, exploratory analysis and case review, and testing hypotheses- Modeling and analysis- Validity and QA checking of resultsA desire to build usable products quickly, and are comfortable changing priorities to keep moving fastPreferred Skills, Experience, and Aptitude – the more the better!Experience with analysis and summary of health insurance markets, plan data, and related data sourcesHealth outcomes analysisClaims data analysis, especially Medicare claims. Bonus points if you’ve worked with the VRDC or LDS extracts.Healthcare cost prediction and analyticsWorking knowledge of insurance plan design (plan benefits, formulary, provider networks, etc.)Experience with analysis of different health insurance products and marketsExperience with FHIR or other health interoperability standardsFamiliarity with Agile methodologies for identifying priorities, developing code, and gathering feedbackDevelopment and maintenance of data pipelines – experience with Airflow is a plusData architecture and data managementProduct development and user experience skills – user interviews, interaction with designers, simplification of complex resultsYou’ve published analytical results to the publicSalary & BenefitsSalary commensurate with experienceCheckbook/CSS offers excellent benefits that include annual leave, health insurance, retirement contribution, flexible spending accounts, and disability plans. Checkbook/CSS is located in downtown Washington DC near the Farragut North and Farragut West Metro stations. Residence in the DC region is preferred; however we may also consider some remote candidates who are willing to travel and/or move to DC once it is both safe and legal to work in our offices.ApplyingCheckbook/CSS is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status, or any other characteristic protected by law. Checkbook/CSS also proudly supports and encourages U.S. Veterans to apply for our job opportunities.Please include cover letter and resume. No phone calls please. Recruiters, please don’t contact this job poster.Job Types: Full-time, ContractPay: $48.00 - $74.00 per hourBenefits:401(k)401(k) matchingFlexible scheduleFlexible spending accountHealth insurancePaid time offSchedule:Monday to FridayCOVID-19 considerations:We have shifted to working remotely during the pandemic. In accordance with local regulations, we will begin working in the office again over the next few months. Any employees working in our offices will be required to show evidence of vaccination.Education:Master's (Required)Experience:SQL: 4 years (Preferred)Python: 2 years (Preferred)R: 2 years (Preferred)Analysis of Health Data: 4 years (Preferred)Work Location:One locationWork Remotely:Temporarily due to COVID-19	468	Washington
+Senior Associate, Data Scientist - Valuations Team	Capital One - US	McLean, VA	None	"Center 1 (19052), United States of America, McLean, Virginia
+Senior Associate, Data Scientist - Valuations Team
+Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
+Team Description
+As a Data Scientist at Capital One, you’ll be part of the Valuations team for our Branded Card Customer Acquisition group, assisting our vertical lines of business in critical analytical decision making. In this role, you will apply your modeling expertise and software engineering skills to design, build, deploy and monitor our valuation models.
+Role Description
+In this role, you will:
+Partner with a cross-functional team of data scientists, software engineers, and business analysts to deliver a product customers love
+Leverage a broad stack of technologies — Python, Conda, AWS, H2O, Spark, Docker and more — to reveal the insights hidden within huge volumes of numeric and textual data
+Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals
+The Ideal Candidate is:
+Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+Statistically-minded. You’ve built models, validated them, and back tested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, survival modeling, time series, and deep learning.
+Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+A data guru. “Big data” doesn’t phase you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
+Basic Qualifications:
+Bachelor’s Degree plus 2 years of experience in data analytics, or Master’s Degree, or PhD
+At least 1 year of experience in open source programming languages for large scale data analysis
+At least 1 year of experience with machine learning
+At least 1 year of experience with relational databases
+Preferred Qualifications:
+Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics), or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics)
+Experience working with AWS
+At least 2 years’ experience in Python, Scala, or R
+At least 2 years’ experience with machine learning
+At least 2 years’ experience with SQL
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position."	468	Washington
+Data Scientist, Senior	GEICO	Chevy Chase, MD 20815	None	"Working out of our Chevy Chase, MD/Washington DC office, GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Senior Data Scientist, you will serve as a technical and thought leader on this diverse and highly skilled team. You will design and develop inventive solutions to drive innovation and delivery of organizational value. You’ll synthesize large datasets and solve complex problems through the use of advanced machine learning and statistical modeling. You’ll work in a highly collaborative, team environment, guiding and mentoring junior data scientists and collaborating with multiple stakeholders. You will assist management in the communication of insights and the implementation of impactful data science solutions across the organization.
+Expected Qualifications:
+Advanced degree in a quantitative discipline, such as statistics, data science, computer science, mathematics, engineering, physics, etc.
+4+ years of experience in designing, developing, evaluating, and deploying predictive modeling, machine learning, advanced analytics
+Deep understanding and experience with advanced statistics and modern machine learning predictive techniques, including GLMs, decision trees, forests, boosted ensembles, neural networks, deep learning, and graph analytics.
+Superior coding skills using common data science tools, including Python (strongly preferred), R, Linux/Unix command line and shell scripting.
+Excellent skill and significant experience in data processing using SQL, Hive, Impala, Spark, or equivalent querying language
+Strong experience with distributed storage and big data computing technology, such as AWS, Hadoop, or Spark
+Excellent communication skills and experience in working with stakeholders
+Passion for extracting hidden insights and building machine learning systems that enhance business outcomes
+Benefits:
+As a Senior Data Scientist, you’ll enjoy our GEICO Total Rewards Program* to help secure your financial future and preserve your health and well-being, including:Premier Medical, Dental and Vision Insurance with no waiting period**Paid Vacation, Sick and Parental Leave401(k) Plan with Profit SharingTuition ReimbursementPaid Training and LicensuresBenefits may be different by location. Benefit eligibility requirements vary and may include length of service.
+**Coverage begins with the pay period after hire date. Must enroll in New Hire Benefits within 30 days of the date of hire for coverage to take effect.
+EEO Statement:
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
+#LI-JW1"	468	Washington
+Scientist III /Scientist IV/ Senior Scientist I	USP (U.S. Pharmacopeial Convention)	Rockville, MD	None	"Description
+This is a non-supervisory, technical position in USP’s Reference Standard Laboratory. In this role, the incumbent is responsible for designing and executing experiments supporting Reference Standards evaluations and product investigations. This work includes development, execution and/or validation of complex analytical procedures supporting the identity, strength, and purity of the evaluated material. The incumbent may execute 60% - 80% of their work at the bench level. He/She has experience is recognized as having extensive knowledge and experience in a broad range of analytical techniques or is a subject matter expert in a specific area in the laboratory. He/She can direct, troubleshoot, and share insights on complex projects, while drawing independent conclusions about the results and determines how to proceed with the project. They closely collaborate with other scientists and/or other USP personnel to design the most effective experimental plan, data collection and review. He/She will actively perform testing at the bench and/or be responsible for reviewing collected data as well as ensuring the project is completed in a timely manner.
+Roles and Responsibilities
+Routinely applies personal experience, academic training, and technical insights – including emerging sciences – to solve highly complex technical problems within the laboratory.
+
+Works independently and may direct others to develop and validate methodologies for the analysis of drug substances, drug products, dietary substances, and excipients.
+
+Demonstrates solid scientific approach to analysis in the laboratory.
+
+Troubleshoots difficult/unusual lab problems independently; assists others with troubleshooting.
+
+Provides technical oversight to laboratory scientists, by reviewing data, plans and reports.
+
+Directs the planning of research and development required for all projects; reviews literature; acts as a resource to others in the planning of projects and analysis of results.
+
+Executes analytical testing when assigned.
+
+Works with the other team members to develop effective testing plans and experimental designs.
+
+Basic Qualifications
+Scientist III
+PhD. in Science, or
+
+M.S. in Science and 4 years of relevant laboratory experience, or
+
+B.A. /B.S. in Science and 8 years of relevant laboratory experience
+
+Experience with HPLC and GC.
+
+Scientist IV
+PhD. in Science and 2 years of relevant laboratory experience, or
+
+M.S. in Science and 6 years of relevant laboratory experience, or
+
+B.A. /B.S. in Science and 8 years of relevant laboratory experience
+
+Experience with LCMS and GCMS.
+
+Sr. Sci I
+PhD. in Science and 5 years of relevant laboratory experience, or
+
+M.S. in Science and 7 years of relevant laboratory experience, or
+
+B.A. /B.S. in Science and 10 years of relevant laboratory experience
+
+Experience with LCMS and GCMS.
+
+Preferred Qualifications
+Experience working in the pharmaceutical industry.
+
+The ability to influence without direct authority.
+
+Results driven with demonstrated successful outcomes.
+
+Good understanding of chromatographic analyses, as well as other general analytical chemistry principles.
+
+Skills to anticipate, troubleshoot, and solve technical problems.
+
+Experience in development, execution and/or validation of complex analytical procedures
+
+Experience in conducting accelerated drug stability testing.
+
+Experience in managing product investigations.
+
+Skills to establish testing plans and experimental designs.
+
+Supervisory Responsibilities
+This is a hands-on laboratory position with no supervisory responsibilities.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
+Job Category Chemistry & Scientific Standards
+Job Type Full-Time"	468	Washington
+Clinical Data Scientist	Deloitte	Alexandria, VA 22314 (King St. Metro-Eisenhower Ave. area)	None	"In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics, and cognitive technologies such as Artificial Intelligence (AI). Our Strategy & Analytics portfolio helps clients leverage rigorous analytical capabilities and a pragmatic mindset to solve the most complex of problems. By joining our team, you will play a key role in helping to our clients uncover hidden relationships from vast troves of data and transforming the Government and Public Services marketplace.
+Work you'll do
+The Clinical Data Scientist drives the efficiency of the larger project through clinical evidence evaluation, algorithm design, and business process improvement. In this role you will leverage your data analysis skills to find, evaluate, and aggregate scientific literature, as well as apply Natural Language Processing (NLP), Machine Learning (ML) and text mining analytics to this literature to create operational efficiencies. The role encompasses the creation and use of classification algorithms to evaluate the relevance of scientific literature and then extract keywords and relevant information for review.
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+The GPS Analytics and Cognitive (A&C) offering is responsible for developing advanced analytics products and applying data visualization and statistical programming tools to enterprise data in order to advance and enable the key mission outcomes for our clients. Our team supports all phases of analytic work product development, from the identification of key business questions through data collection and ETL, and from performing analyses and using a wide range of statistical, machine learning, and applied mathematical techniques to delivery insights to decision-makers. Our practitioners give special attention to the interplay between data and the business processes that produce it and the decision-makers that consume insights.
+Qualifications
+Doctorate degree in a STEM related field
+5+ relevant experience within data science
+Experience with Python
+Experience with data visualization tools, such as Tableau, Qlik, PowerBI, d3.js and other web application technologies, or equivalent
+Proficiency with data extraction, transformation and modeling
+Experience with a wide range of analytics techniques, such as statistics, machine learning, natural language processing, optimization, simulation, or closely related techniques
+Strong strategic communication skills to include presenting quantitative concepts in easy to understand formats and actively listening to identify business problems and their causes
+Must be able to obtain/maintain the required clearance
+Travel up to 25%
+Preferred:
+2+ years of relevant consulting or industry experience
+Familiarity with time-series data manipulation and analysis
+Experience with custom visualization development in Python or JavaScript, especially via Mapbox, kepler.gl/deck.gl, Plotly, or similar
+Experience working with large datasets in a cloud computing environment (preferably AWS)
+Confidence to drive assignments to completion
+Eagerness to learn and develop
+How you'll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career."	468	Washington
+Statistician (Data Scientist)	US National Cemetery Administration	Washington, DC	$103,690 - $159,286 a year	"Duties
+Summary
+This Statistician serves in the National Cemetery Administration, Policy and Planning Service located in Washington, DC, with delegated responsibility for formulating the statistical approach to meet mission objectives, and management policy and priorities.
+Responsibilities
+Serves as the primary source of statistical analysis in support of NCA customer service analysis, statistical records and historical trends, documentation and in developing future projections of the ability of the Administration to continue high quality operations and expand service areas. The position requires professional knowledge of applied and mathematical statistical methods, and the ability to convey findings in verbal and written reports using non-technical language.
+
+Educates about new sampling designs, statistical procedures and methodological developments, and help apply new approaches to the field.
+Report findings to senior leadership within the organization, as well as assisting other components within NCA understand the findings, and incorporate these findings in a useful way in the development of future operational and continuous improvement activities.
+Communicate meaning and intent of findings using non-technical language such that leadership and operators in the organization understand the findings, and will be able to incorporate that information in operations and planning activities.
+Responds to ad-hoc requests and works collaboratively on analysis related to the mission of the NCA from a broad range of internal and external customers.
+Work schedule: Required to work Monday through Friday, 8:00 am to 4:30 pm.
+Compressed/Flexible Schedule: May be available per agency policy
+Telework: May be available per agency policy
+Virtual: This is not a virtual position.
+
+Washington DC GS-13 PAY RANGE $103,690-$134,798
+Washington DC GS-14 PAY RANGE $122,530-$159,286
+
+Position Description Title/PD#: Statistician (Data Scientist)/1505326
+The full performance level of this position is GS-14. At the GS-13 level, you will perform similar duties but under closer supervision.
+Promotion Potential: The selectee may be promoted to the full performance level without further competition when all regulatory, qualification, and performance requirements are met. Selection at a lower grade level does not guarantee promotion to the full performance level.
+
+Relocation Expenses: Not authorized
+Financial Disclosure Report: Not required
+Travel Required
+Occasional travel - You may be expected to travel for this position.
+Supervisory status
+No
+Promotion Potential
+14
+Job family (Series)
+1530 Statistics
+Similar jobs
+Statisticians
+Requirements
+
+Requirements
+Conditions of Employment
+You must be a U.S. citizen to apply for this job
+Subject to a background/suitability investigation
+Designated and/or random drug testing may be required
+May serve a probationary period
+Selective Service Registration is required for males born after 12/31/1959
+A complete application package; Resume, Transcripts, etc.
+Selected applicants will be required to complete an online onboarding process
+Qualifications
+To qualify for this position, applicants must meet all requirements by the closing date of this announcement.06/23/2021.
+
+Basic Education Requirement:
+A. Degree: that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing.
+or
+B. Combination of education and experience - courses as shown in A above, plus appropriate experience or additional education. The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance.
+
+You may qualify based on your experience, as described below:
+Specialized Experience: You must have one year of specialized experience equivalent to at least the next lower grade in the normal line of progression for the occupation in the organization. Examples of specialized experience would typically include, but are not limited to: Experience in statistical consulting, advising and analysis. Professional knowledge of and skill in serving as a consultant and technical advisor to senior management and other officials responsible for broad program operations. This includes formulating, amending, and verifying theoretical, statistical and empirical models and data from multiple application areas. The position requires professional knowledge of applied and mathematical statistical methods, and the ability to convey findings in verbal and written reports using non-technical language.
+To qualify at the GS-13 level you must have at least one year of specialized experience at the GS-12.
+To qualify at the GS-14 level you must have at least one year of specialized experience at the GS-13.
+You will be rated on the following Competencies for this position:
+Communication
+Data Management
+Mathematical Reasoning
+Problem Solving
+Technical Competence
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religions; spiritual; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+Note: A full year of work is considered to be 35-40 hours of work per week. Part-time experience will be credited on the basis of time actually spent in appropriate activities. Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number of hours a week spent in such employment.
+
+Physical Requirements: The work is sedentary. Typically, the incumbent sits comfortably to do the work. However, there may be some walking; standing; bending; carrying of light items, such as papers, books, or small parts; or driving an automobile. No special physical demands are required to perform the work.
+
+Selected applicants will be required to complete an online onboarding process.
+Education
+There is no educational substitution for experience at this grade level.
+
+A transcript must be submitted with your application to show that the basic education requirement is met.
+
+PLEASE NOTE: Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications (particularly positions with a positive education requirement). Therefore, applicants must report only attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education. Applicants can verify accreditation at the following website: http://www.ed.gov/admins/finaid/accred/index.html. All education claimed by applicants will be verified by the appointing agency accordingly. If you are using foreign education to meet qualification requirements, you must send a Certificate of Foreign Equivalency with your transcript in order to receive credit for that education.
+Additional information
+VA supports the use of telework as a way to help attract and retain talented individuals in public service, increase worker productivity, and better prepare the agency to operate during emergencies. This position may be authorized for telework. Telework eligibility will be discussed during the interview process.
+
+The Interagency Career Transition Assistance Plan (ICTAP) and Career Transition Assistance Plan (CTAP) provide eligible displaced VA competitive service employees with selection priority over other candidates for competitive service vacancies. To be well-qualified, applicants must possess experience that exceeds the minimum qualifications of the position including all selective factors if applicable, and must be proficient in most of the requirements of the job. Information about ICTAP and CTAP eligibility is on OPM's Career Transition Resources website which can be found at https://www.opm.gov/.
+
+Receiving Service Credit for Earning Annual (Vacation) Leave: Federal Employees earn annual leave at a rate (4, 6 or 8 hours per pay period) which is based on the number of years they have served as a Federal employee. VA may offer newly-appointed Federal employee's credit for their job-related non-federal experience or active duty uniformed military service. This credited service can be used in determining the rate at which they earn annual leave. Such credit must be requested and approved prior to the appointment date and is not guaranteed.
+
+This job opportunity announcement may be used to fill additional vacancies.
+If you are unable to apply online or need to fax a document you do not have in electronic form, view the following link for information regarding an Alternate Application.
+
+
+How You Will Be Evaluated
+You will be evaluated for this job based on how well you meet the qualifications above.
+IN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE WILL NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Applicants will be referred in alphabetical order.
+
+Background checks and security clearance
+Security clearance
+Not Required
+Drug test required
+No
+Position sensitivity and risk
+Noncritical-Sensitive (NCS)/Moderate Risk
+Trust determination process
+Suitability/Fitness
+Required Documents
+
+Required Documents
+Documents Accepted:
+
+Cover Letter
+DD-214/ Statement of Service
+Disability Letter (VA)
+OF-306
+Other (1)
+Performance Appraisal
+Resume
+Separation Notice (RIF)
+SF-15
+SF-50/ Notification of Personnel Action
+Transcript
+Documents Required:
+Resume
+Transcript
+Please review the above list(s) to ensure you have included all necessary documents required for your application.Not every applicant will require the same documents, therefore it is the applicants responsibility to ensure that their application package includes all necessary documents to determine qualifications and eligibility for appointment, such as a copy of your SF-50, transcript, ICTAP/CTAP documentation (for displaced Federal employees).You will not be contacted for additional information. Applicants will be deemed ineligible if supporting documentation is not submitted.
+
+Veterans' Preference: Since the Direct-Hire Recruitment Authority is being used, traditional Veterans' Preference rules do not apply. Qualified veterans will, however, be given full consideration for this position.
+
+Applications are accepted online. Applying online will allow you to review and track the status of your application.
+If you are relying on your education to meet qualification requirements:
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+Benefits
+
+Benefits
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+Review our benefits
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+Help
+This job is open to
+Career transition (CTAP, ICTAP, RPL)
+Federal employees who meet the definition of a ""surplus"" or ""displaced"" employee.
+The public
+U.S. citizens, nationals or those who owe allegiance to the U.S.
+Clarification from the agency
+ALL US CITIZENS DIRECT HIRE AUTHORITY: This position is being filled using Direct-Hire Authority (5 CFR 337.201) for this occupation."	468	Washington
+Assay Development Scientist / Senior Scientist	Magbio Genomics, Inc.	Gaithersburg, MD 20878	$60,000 - $75,000 a year	Assay Development Scientist / Senior Scientist About us: MagBio Genomics Inc. is a growing life science company focusing on developing and commercializing magnetic bead-based kits and reagents for the NGS workflow as well as liquid biopsy sample collection and processing products.We are currently looking to recruit a Assay Development Scientist / Senior Scientist to leads our Research & Development activities. This is an exceptional & multifunctional opportunity to join an exciting team that is known for its innovative and growth-oriented vision.Position Summary: Assay Development Scientist / Senior Scientist will be responsible for all research and development activities, including product ideation, experimental planning, execution, and data analysis. The selected applicant must be a well-organized and a productive scientist who can plan, design, and execute experiments efficiently and independently, as well as analyze, and interpret data. The selected person is also expected to work in collaboration with Sales and Marketing team to help produce marketing data for various products.This is a full-time position (40 Hours / Week). Working hours are 8:30 AM to 5:30 PM, Monday to Friday.This job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities of the employee.Experience Required: Mandatory qualifications: · PhD with 1-2 years of relevant experience (post- doc included),ORMaster’s degree with 3-5 years of relevant experience.· Excellent verbal and written communication skills, including ability to effectively communicate with team members OR Customers.· Excellent computer proficiency (MS Office – Word, Excel, and Outlook)Preferred Qualifications: · Familiarity with paramagnetic beads-based nucleic isolation· Familiarity with sample preparation from different sample matrices and protocol optimization on an automated sample purification system.· Familiarity NGS workflows and Sample QC· Must be able to work in goal driven environment; meet deadlines while maintaining a positive attitude and providing excellent customer serviceKey Responsibilities: · Hands-on experience with NGS assays and different workflows.· Familiarity with NGS assay reagent chemistries.· Able to make daily technical decisions with understanding of the business context.· Develop new assays and optimizes existing assays for maximum efficiency and yield.· Experience in development, verification, and validation of protocols.· Maintain, calibrate, and operate equipment according to established protocols.· Work with the supervisor to plan and come up with new products that will drive the company’s revenue.· Hands on experience with DNA and RNA extraction from different sample matrices using both manual and automated systems.· Perform verification and validation of product requirements.· May be involved with establishing product requirements.· Should be able to independently plan and execute research and product development activities.· Develop and optimize SOPs for maximum efficiency and yield.· Keep detailed and accurate records of work performed.· Work in collaboration with the Quality Junior manager to fulfill Quality management Goals for Production/Research & Development under an ISO quality system.· Providing excellent customer service / technical feedback.Talent / Competencies: · Critical thinker who can analyze data and respond quickly to manage multiple roles.· Ability to manage and complete projects in a timely manner.· Strong organizational skills.· Collaborative, but can also work independently with a high level of initiative and confidence.Compensation: Competitive package including annual bonus payBenefits: · Healthcare (Vision & Dental Included)· Health insurance· Paid Vacation Hours and sick leave· 401K· Paid time offJob Type:  Full TimeWork Location:  Gaithersburg, MDCOVID-19 Considerations: · Social Distancing maintained whenever possible in the office & laboratory.· All non-vaccinated employees are required to wear a mask.· New hire is required to be vaccinated against COVID-19Start Date:  As soon as possibleJob Type: Full-timePay: $60,000.00 - $75,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceHealth insurancePaid time offVision insuranceSchedule:8 hour shiftSupplemental Pay:Bonus payEducation:Master's (Preferred)Experience:Molecular Biology: 2 years (Preferred)Laboratory Experience: 2 years (Preferred)Work Location:One locationWork Remotely:No	468	Washington
+Data Scientist	AvalonBay Communities	Arlington, VA	None	"Job Type: Exempt
+State::VA City:Arlington
+Brand:Corporate
+Overview
+AvalonBay Communities, Inc. is one of the nation's leading Real Estate Investment Trusts (REIT's), in the business of developing, redeveloping, acquiring and managing quality apartment communities in high barrier-to-entry markets of the United States. These markets are located in the Northeast, Mid-Atlantic, Southeast, Pacific Northwest and Northern and Southern California regions of the country. We currently own and operate approximately 82,000 apartment homes in the US and employ approximately 3,000 associates.
+Creating a better way to live is the purpose that binds AvalonBay associates. We take that purpose seriously and expect you will as well. By focusing on collaboration, innovation, and taking ownership of our choices and actions, we act in ways that focus on creating value for our customers, investors and associates. Your positive, professional, and consistent personal interactions make AvalonBay a great place to work.
+The Role
+At AvalonBay we are building the industry’s most advanced data science capability. Join a green-field opportunity to become a key driver of value at one of the largest REITs in the country. The role includes:
+Develop advanced analytics and machine learning models to enhance profitable growth and customer satisfaction
+Analyze large and complex data sets to gain insight on our customers and business processes
+Leverage AWS tools to create and implement production level analytic processes
+Develop business intelligence capability to enable AvalonBay to become an increasingly data driven organization
+Provide data driven insights to Senior Management that drive ROI
+Take responsibility for key analytic models and infrastructure
+Implement automated quality assurance best practices
+Design and implement tests with rigorous statistical discipline.
+You Have...
+Qualifications required:
+2 years business experience in support of analytics and modeling.
+An advanced degree in Mathematics, Data Science, Computer Science or other numerate discipline
+Solid programming ability in Python or R
+Expertise developing SQL queries
+Expertise in machine learning and predictive model development
+Expertise in statistical modeling and hypothesis testing, regression modeling and forecasting
+Knowledge of AWS cloud native tools preferred
+Experience merging and analyzing large, diverse data sources
+Experience with data visualization tools
+The ability to explain complex technical material to nontechnical audiences.
+How AvalonBay Supports You
+We know that our teams are the beating heart of our success and we’re committed to showing our appreciation.
+We offer:
+Comprehensive benefits – health, dental & vision, 401(k) with company match, paid vacation and holidays, tuition reimbursement, an employee stock purchase plan and more!
+Growth based on achievement and promotion from within.
+Associate recognition (a company-wide recognition program that celebrates associate efforts and successes in contributing to the overall success of the organization – including destination awards, ‘AvalonBay’s Very Best’ recognition program and others!).
+A 20% discount on our incredible apartment homes.
+A culture built on purpose and our core values -A Commitment to Integrity,A Spirit of Caring, andA Focus on Continuous Improvement.
+Additional Info
+AvalonBay is proud to be an equal opportunity employer and is committed to an inclusive and diverse work environment free of discrimination and harassment. We believe that in order to achieve our purpose of creating a better way to live, we must recruit, develop and retain associates with a wide range of backgrounds, experiences and perspectives and create an environment that encourages all voices to be heard, understood and appreciated. With this we know we can do great things.
+AvalonBay will consider for employment qualified applicants with criminal histories in a manner consistent with requirements under the law."	468	Washington
+Senior Data Scientist	Deloitte	Arlington, VA	None	"In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics, and cognitive technologies such as Artificial Intelligence (AI). Our Strategy & Analytics portfolio helps clients leverage rigorous analytical capabilities and a pragmatic mindset to solve the most complex of problems. By joining our team, you will play a key role in helping to our clients uncover hidden relationships from vast troves of data and transforming the Government and Public Services marketplace.
+Work you'll do
+The candidate will work with Domain SMEs to develop NLP algorithms that parses through vast amounts of data sets to find intelligence value.
+Candidate will help identify, clean and validate various data sets to ensure accuracy, completeness, and uniformity.
+The candidate will determine which data sets and variables are needed and collect large sets of structured and unstructured data from disparate sources to address client's mission of protecting the homeland.
+The candidate will also analyze data to identify patterns, trends, and interpret the data to discover solutions and opportunities and communicate findings to stakeholders using visualization and other means.
+The team
+Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+The GPS Analytics and Cognitive (A&C) offering is responsible for developing advanced analytics products and applying data visualization and statistical programming tools to enterprise data in order to advance and enable the key mission outcomes for our clients. Our team supports all phases of analytic work product development, from the identification of key business questions through data collection and ETL, and from performing analyses and using a wide range of statistical, machine learning, and applied mathematical techniques to delivery insights to decision-makers. Our practitioners give special attention to the interplay between data and the business processes that produce it and the decision-makers that consume insights.
+Qualifications
+Required:
+
+Bachelor's degree required
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+Must be able to obtain and maintain the required clearance for this role
+Travel up to 10%
+5+ years of experience with programming languages such as SQL, R, Python
+3+ years of experience with data visualization tools, such as Tableau, Qlik, PowerBI, d3.js, or equivalent
+3+ years of experience with predictive models, machine learning, artificial intelligence and/or NLP
+How you'll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career."	468	Washington
+Data Scientist	Deloitte	Rosslyn, VA 22209 (Radnor-Ft Myer Heights area)	None	"Data Scientist
+Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your analytical skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our Government Public Services (GPS) Strategy and Analytics team brings deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client's most complex business problems. Join our team and play a key role in helping to design our clients' roadmap to the future and help transform the GPS marketplace.
+Work you'll do
+The Data Scientist will join a team responsible for developing advanced analytics products; applying Machine Learning, Artificial Intelligence and statistical programming tools to enterprise data to advance and enable key mission outcomes. In this role, they will support all phases of analytic work product development, from the identification of key business questions to ETL, from performing analyses to delivery of insights to decision-maker s, with particular attention to the interplay between data and the business processes that produce and consume it.
+The team
+Analytics & Cognitive
+In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.
+The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-makin g. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.
+Analytics & Cognitive will work with our clients to:
+
+Implement large-scale data ecosystems including data management, governance and the integration of structured and unstructured data to generate insights leveraging cloud-based platforms
+Leverage automation, cognitive and science-based techniques to manage data, predict scenarios and prescribe actions
+Drive operational efficiency by maintaining their data ecosystems, sourcing analytics expertise and providing As-a-Service offerings for continuous insights and improvements
+Qualifications
+Required:
+
+Bachelor's degree required
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+Must be able to obtain and maintain the required clearance for this role
+Travel up to 10%
+5+ years of experience with programming languages such as SQL, R, Python
+5+ years of experience with data visualization tools, such as Tableau, Qlik, PowerBI, d3.js, or equivalent
+5+ years of experience with machine learning and/or statistical modeling
+Preferred:
+
+2+ years of relevant consulting or industry experience
+Prior professional services or federal consulting experience
+Knowledge of data mining, machine learning, data visualization and statistical modeling
+How you'll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career"	468	Washington
+Senior Data Scientist	Wärtsilä	Herndon, VA	None	"Senior Data Scientist
+About the job
+Wärtsilä is an innovative technology company known for being a forerunner in the Marine and Energy markets. Every day, we - Wärtsilians - put our hearts and minds into turning Wärtsilä's purpose of enabling sustainable societies with smart technology, and our Smart Marine and Energy visions into reality. Our ultimate aim is to provide increased value to both our customers and society. New, game-changing ideas and continuous improvement have been part of our DNA since 1834. Together, we can create new business opportunities and a more sustainable future that we can all be proud of.
+
+We are transitioning the world towards a cleaner future. By pushing the boundaries of engineering and technology, we make it work. We are always on the lookout for future-oriented talent - want to join the ride?
+
+Wärtsilä Energy Storage & Optimization (ES&O) is the leading global energy storage optimizer. Our mission is to deliver integrated energy solutions that build a resilient, intelligent, and flexible energy infrastructure - unlocking the way to an optimized renewable future. By integrating renewables, energy management technology, and storage with traditional energy resources, we reinvent clean energy production from the largest and most complex grids to the most remote and essential microgrids. We play a key role in Wärtsilä’s vision towards a 100% renewable energy future through flexibility, reliability, and integration and a more sustainable world for us all.
+
+We are seeking a SENIOR DATA SCIENTIST to join our growing software team with most of the team located in our software development center in Herndon, Virginia, USA. The ideal candidate will be a self-starter that can work both independently and as part of an interdisciplinary team. The candidate should thrive in a fast paced, constantly changing environment while the industry and company go through substantial growth.
+
+Role Summary/Purpose
+The primary function of this role is to advance the development of our Renewables+ product offering. The Data Scientist will assist in the development of simulation tools, forecasting methods, and data driven operation optimization algorithms for energy systems in Python. The role will be an integral part of the Simulation and Data Science team in a Research and Development role, working to accelerate the development of our software capabilities while supporting new product development initiatives in the field of automated power system optimization.
+
+Essential Responsibilities
+Develop, implement, and leverage linear and quadratic programming optimization methods.Research, develop, and implement reinforcement learning applicationsTurn data models and algorithms into software and evaluate model effectiveness by conducting tests on large sets of historical dataWork with our cloud services development team to deploy and monitor Python solutions in a cloud/bare-metal hybrid environment, helping to tune and debug performanceTune data models and algorithms for conducting time series analysis, forecasting, and operation optimizations related to energy management, improving performance and accuracy within the context of the business logicProvide expertise related to renewable + storage power purchase agreements (PPAs) in the context of both vertically integrated utilities and merchant electricity markets globallyWrite documentation on algorithm and model improvements to clearly communicate the structure of new methods and implementations, including justificationSupport tasks outside of job description as needed
+The candidate must be able to embrace the fast and dynamic environment of a growth stage company, comfortable with adjusting quickly to changing priorities.
+
+Qualifications/Requirements
+Experience in the energy industry, particularly with forecasting and dispatch systemsM.S. or Ph.D. in physics, mathematics, or engineeringTrack record of a career trajectory in and towards software engineeringExperience with energy storage PPAsExpert level in Python as a programming language (5+ years)Can work independently and provide strong leadership
+Experience in Operations Research (Industrial Engineering) is an asset
+
+Desired Characteristics
+Expertise in predictive analytics including regressions and machine learning techniquesPrior experience with production systems running advanced statistical algorithms and machine learningExperience with open-source analytic and data munging softwareFamiliar with large, distributed datasets for high-speed computingStrong leadership record with active participation in renewable energy associations, forums, clubs, or groups
+
+Further Information Successful applicant must be authorized to work in the USA without sponsorship.
+
+We look forward to hearing from you. Qualified candidates must apply online: http://www.wartsila.com/en/careers/vacancies.
+
+Last application date: 28/06/2021"	468	Washington
+Safety Data Scientist, Senior	Mitre Corporation	McLean, VA	None	"Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
+MITRE's The Safety Concepts & Evolution department is looking for a Senior Safety Data Scientist to join their team. Responsibilities include:
+Engineering and analysis applied to transportation safety in particular aviation safety, public private partnership, data sharing, data governance, data taxonomy, data analytics
+Evaluating concepts and establishing requirements for safety analytics, risk analysis, risk estimation, target level of safety
+Basic Qualifications:
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances
+BS degree in engineering
+5 years of related experience
+Ability to work independently, communicate effectively in written and verbal modes, and to provide operational subject matter expertise and leadership to transportation safety division
+Ability to multi-task and work multiple projects simultaneously
+Complex thinking and innovation skills
+Required Qualifications:
+BS, MS or PhD in engineering
+10+ years experience with aeronautical/aviation engineering applied to data science, data management
+Requirements analysis, concept engineering, development of use cases, data schemas, strategies
+Data analysis methods and tool use, data visualization
+Preferred Qualifications:
+Engineering with emphasis on data science
+Creative problem solver with the ability to think holistically about challenges and potential solutions
+This requisition requires the following clearance(s):
+None
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
+Copyright © 1997-2021, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only."	468	Washington
+Data Scientist - Senior	Valiant Integrated Services	McLean, VA 22101	None	"**PENDING AWARDED CONTRACT**
+
+
+JOB OVERVIEW:
+
+
+Valiant is Seeking Senior Data Scientists to support a fast paced, innovative project supporting our client in the field of data science.
+
+
+RESPONSIBILITIES AND DUTIES:
+
+Includes but not limited to:
+
+Analyze and interpret complex digital data
+Selecting features, building and optimizing classifiers using machine learning techniques
+Data mining using state-of-the-art methods
+Extending data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis"	468	Washington
+Senior Scientist - Bioscience Immunology	AstraZeneca	Gaithersburg, MD 20878	None	"Senior Scientist Bioscience Immunology, Early Respiratory & Immunology
+AstraZeneca is a global, science-driven biopharmaceutical company. We are dedicated to discovering, developing, and delivering innovative, meaningful medicines and healthcare solutions that enrich the lives of patients. The vision of AstraZeneca Early Respiratory & Immunology (Early R&I) is centered on delivering life-changing products that advance world health and help fight and cure disease. Early R&I is one of three main therapeutic research areas within AstraZeneca that deliver candidate drugs into late-stage clinical development. Here, you’ll have the opportunity to make a difference in people’s lives every day.
+As a part of building the Immunology Bioscience team within the Early R&I department, we are seeking a highly motivated senior researcher with a strong understanding of adaptive and/or innate immunity and ideally understanding key biological pathways in immune-mediated diseases such as rheumatological and/or gastrointestinal diseases. The role will be based in Gaithersburg Cambridge within AstraZeneca’s state-of-the-art laboratories where you will follow the science to help drive innovation and advance medicine to help improve patient lives.
+In this role, you would be expected to demonstrate an exceptionally high level of enthusiasm for innovative scientific research leading to the discovery and development of novel therapeutics. Ideally, you have expertise in T-, B- and innate immunity and/or pathogenic mechanisms involved in tissue pathology in immune-mediated diseases. Experience in assay development, flow cytometry, multiplex cytokine read-outs, and in vitro / ex vivo culture of immune cells is preferred.
+Main Duties and Responsibilities
+In this role, you will be a biology leader in the Bioscience, Immunology team focusing on developing therapeutics for the treatment of Rheumatological and Gastrointestinal Diseases. This job includes senior lab-based responsibilities, and you will have a significant opportunity to drive the direction of the work. The work will be predominantly human in vitro systems, working with primary and disease tissue-derived cells, although knowledge and experience of in vivo science is a bonus. A background in human immunology and immune-mediated diseases and translational approaches to understand basic biological mechanisms in disease is needed.
+You will focus your research on characterizing novel immunological pathways in health and disease to aid target validation and drug projects
+You will execute drug discovery research experiments independently by applying the techniques of molecular and cellular biology and be responsible for communicating the results to team members and involved in the interpretation of data
+You will contribute to the development of the strategies for new target identification and validation
+You will collaborate with scientists from a variety of functional teams in Gaithersburg and with our sites in Cambridge, UK, and Gothenburg, Sweden.
+You will benefit from daily interaction and collaboration with highly accomplished scientists and the position offers a unique opportunity to work in a dynamic and innovative environment developing your career at the interface of research and drug discovery.
+You will be involved in the development of new assays
+Encouragement and support will be provided to help the individual develop specialist knowledge and skillsets.
+Publication of your work in high-impact journals.
+Requirements
+A Ph.D. in Immunology or a closely related field with postdoctoral experience is required
+Expertise in drug discovery projects in immunology or a closely related field of biology is preferred
+Highly organized and self-motivated, with the ability to work independently as well as collaboratively within a team to conduct a high-level research project.
+Knowledge in immunology drug discovery or a closely related field of biology is essential
+Strong hands-on skills in basic biochemical and molecular techniques including primary cell culture, quantification of mRNA (qPCR), multi-panel flow cytometry (including both intracellular and extracellular markers), and protein expression; ELISA, Western blot, MSD, Luminex, etc. are strongly preferred.
+Ex vivo culture experience, working with primary human tissue samples, and knowledge of in vivo models of autoimmunity and inflammation are preferred.
+Strong written and oral communication skills and the ability to critically analyze data sets
+Demonstrated ability to run collaborative efforts and utilize external resources to find the most effective solutions to drug discovery problems
+Experience with mentoring students at the undergraduate and Ph.D. level is preferred"	468	Washington
+Senior Scientist (Geophysicist)	Parsons	Centreville, VA 20120	None	"Minimum Clearance Required to Start:
+Not Applicable/None
+Job Description:
+Are you interested in joining a team of experienced geophysicists working with cutting-edge technology, developing innovative approaches, and leading the industry in geophysical detection and classification on Military Munitions Response Projects? Parsons is now hiring a Senior Scientist (Geophysicist) for our rapidly expanding geophysics team.
+
+Under direction of a project geophysicist and project manager, a Senior Geophysicist performs a variety of independent geophysical data acquisition and processing assignments requiring a fundamental knowledge of geophysical practices and techniques. The geophysicist's primary responsibilities at this level will be using geophysical and GPS equipment to conduct quality control tests and collect digital geophysical data to support remedial investigation or removal action projects at formerly used defense sites with potential unexploded ordnance contamination. The geophysicist will lead the field component of geophysical investigations and manage multiple geophysical data collection teams. In between field assignments, the geophysicist will process and interpret geophysical data and track QC and processing data in a Microsoft Access-format data base, as well as assist with preparing proposals, cost estimates, and reports, as needed. (note: official job title is Senior Scientist)
+
+Responsibilities:
+Performing a variety of field and office tasks requiring the application of complex scientific principles and fundamental theoriesProviding technical leadership and guidance to lower-level Scientists and TechniciansAssisting with preparing proposals and cost estimatesManaging subcontractors on a field siteManaging tasks or projects of small or moderate scope and complexity involving his/her technical expertiseAssisting with equipment management and coordinate equipment repairAcquiring EM61-MK2, G-858, MetalMapper2x2, MPV, and UltraTEM dataProcessing EM61-MK2, G-858, MetalMapper2x2, and MPV data using Geosoft's Oasis Montaj software, and processing UltraTEM data using BT Field softwareInterpreting geophysical data collected with the instruments listed aboveTracking QC information in a Microsoft Access-format data basePerforming field and office tasks requiring the application of geophysical principles and fundamental theoriesWriting geophysics sections of work plans and reports for CERCLA RI and remediation projectsPerforming anomaly reacquisition using EM61-MK2, G-858, and Real Time Kinematic GPS sensorsConducting or monitoring daily quality control tests of equipment and methods and documenting test results
+The anticipated annualized full time target compensation (median) for this position is: $64,000.00.
+Benefits for this position include: medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP) and 401K."	468	Washington
+Principal Associate, Data Scientist	Capital One - US	McLean, VA	None	"Center 1 (19052), United States of America, McLean, Virginia
+Principal Associate, Data Scientist
+Principal Associate, Data Scientist, Card Loss Forecasting
+Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
+Team Description
+The card loss forecasting team builds machine learning pipelines that help analysts to predict losses for all of Capital One’s credit card portfolio. We use every technique we can think of: from logistic regression to deep learning. The data is large (2 peta byte), and one of the challenges is the time series nature of our models. As such, we are a highly interdisciplinary team, and solve challenges collaboratively. Our customers are senior executives, since card credit losses drive a large portion of profitability and resilience at Capital One.
+Role Description
+In this role, you will:
+Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
+Leverage a broad stack of technologies — Python, Conda, AWS, Dask, GPU’s and more — to reveal the insights hidden within huge volumes of numeric and textual data
+Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals
+The Ideal Candidate is:
+Innovative. You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+A data guru. “Big data” doesn’t phase you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
+Basic Qualifications:
+Bachelor’s Degree plus 5 years of experience in data analytics, or Master’s Degree plus 3 years in data analytics, or PhD
+At least 1 year of experience in open source programming languages for large scale data analysis
+At least 1 year of experience with machine learning
+At least 1 year of experience with relational databases
+Preferred Qualifications:
+Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 3 years of experience in data analytics, or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics)
+At least 1 year of experience working with AWS
+At least 3 years’ experience in Python
+At least 3 years’ experience with machine learning
+At least 3 years’ experience with SQL
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position."	468	Washington
+Data Scientist – Financial Management - Senior Consultant	Guidehouse	Washington, DC 20036 (Dupont Circle area)	None	"Overview:
+
+Guidehouse is a leading management consulting firm serving the public and commercial markets. We guide our clients forward towards new futures that build trust in society and your professional skills along the journey. Join us at Guidehouse.
+Our consultants on the Advanced Analytics & Intelligent Automation team help clients maximize the value of their data and automate business processes. This high performing team works with clients to implement the full spectrum of data analytics and data science, from data querying and data wrangling, to data visualization and dashboarding, to predictive analytics, machine learning, and artificial intelligence as well as robotic process automation (RPA). Our services enable our clients to define their information strategy, enable mission critical insights and data-driven decision making, reduce cost and complexity, increase trust, and improve operational effectiveness.
+Responsibilities:
+Our consultants focus on client services, while also supporting business development, internal firm initiatives, and ongoing professional development.
+Providing data science services in support of the Office of the Chief Financial Officer (OCFO) and financial management.
+Qualifications:
+Clearance: Ability to obtain a Public Trust clearance.
+3+ years of relevant experience.
+S./B.A. in Data Science, Data Analytics, Statistics, Mathematics, Operations Research, Computer Science, Information Systems, Engineering, Economics or similar quantitative/computational discipline OR in Finance with quantitative concentration.
+Selecting and applying the appropriate analytical techniques.
+Significant experience performing various data science methods, such as: statistical analysis, predictive modelling, simulation, machine learning, Natural Language Processing, etc.
+Wrangling, querying, and analyzing large and complex data sets.
+Proficiency in an analytics programming language such as R or Python.
+Visualization skills with tools such as Tableau, Power BI, R Shiny.
+Understanding of and experience supporting Federal OCFO concerns, such as: compliance, risk, audit, internal controls, data quality, system data reconciliation, budget, business processes improvement, etc.
+Preferred:
+5+ years of relevant experience.
+S./M.A. in Data Science, Data Analytics, Statistics, Mathematics, Operations Research, Computer Science, Information Systems, Engineering, or similar quantitative/computational discipline.
+Certified Government Financial Manager (CGFM) certification.
+Experience leading teams, driving initiatives, coaching and providing guidance.
+Supporting clients by identifying and addressing needs, building relationships, demonstrating flexibility and communication skills.
+Business development including RFP/RFQ/RFI responses and white papers.
+Additional Requirements:
+The successful candidate must not be subject to employment restrictions from a former employer (such as a non-compete) that would prevent the candidate from performing the job responsibilities as described.
+Disclaimer:
+
+About Guidehouse:
+Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.
+Rewards and Benefits
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+Benefits include:
+Medical, Rx, Dental & Vision Insurance
+Personal and Family Sick Time & Company Paid Holidays
+Parental Leave and Adoption Assistance
+401(k) Retirement Plan
+Basic Life & Supplemental Life
+Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+Short-Term & Long-Term Disability
+Tuition Reimbursement, Personal Development & Learning Opportunities
+Skills Development & Certifications
+Employee Referral Program
+Corporate Sponsored Events & Community Outreach
+Emergency Back-Up Childcare Program
+Position may be eligible for a discretionary variable incentive"	468	Washington
+Senior Data Scientist	Novavax, Inc.	Gaithersburg, MD 20878	None	"If you find science, speed, and success exhilarating, you have come to the right place.
+Novavax, Inc. (Nasdaq: NVAX) is a biotechnology company that promotes improved health globally through the discovery, development, and commercialization of innovative vaccines to prevent serious infectious diseases. Novavax is currently conducting multiple late-stage clinical trials for NVX-CoV2373, our vaccine candidate against the virus that causes COVID-19, and has recently reported exciting and highly encouraging initial efficacy results. NanoFlu, our quadrivalent influenza nanoparticle vaccine, met all primary objectives in its pivotal Phase 3 clinical trial in older adults. Both candidate vaccines incorporate Novavax' proprietary saponin-based Matrix-M adjuvant to enhance the immune response and stimulate high levels of neutralizing antibodies. Novavax is a leading innovator of recombinant vaccines. Our proprietary technology platform leverages the power and speed of genetic engineering to efficiently produce highly immunogenic nanoparticles in order to address urgent global health needs.
+Novavax, Inc. is headquartered in Gaithersburg, Maryland with additional facilities in Uppsala, Sweden and Bohumil, Czech Republic.
+We are seeking a Senior Data Scientist to join our Data Science and Statistics team. This position will be responsible for positioning data science as a key competency within the company. You will be creating value from data assets using advanced analytics capabilities including data science, machine learning, and artificial intelligence methodologies to identify critical business risk and opportunities.
+Responsibilities include but are not limited to:
+Identify high-impact data science use cases, develop, and implement innovative solutions to drive business impact and develop state-of-the-art analytical capabilities to address identified needs.
+Evaluate, drive and implement solutions from concept to minimum viable product and final product
+Apply analytical and statistical methods to solve identified use cases in an agile manner using multiple data sources and analytical tools
+Collaborate within cross-functional teams to develop solutions, gain alignment and deliver impactful business insights; engage necessary stakeholders to enable better decision-making
+Interpret and communicate analytics results clearly and concisely to audiences with varying backgrounds and degrees of technical understanding
+Take an enterprise mindset, linking individual responsibilities with the broader organization; focus on outcomes that provide most business value
+Partner with data science experts from the outside community to share best-in-class solutions and drive collaborative approaches towards data science challenges
+Minimum requirements:
+Bachelor's or Master's degree in Computer Science, Statistics, Bioinformatics, Mathematics or equivalent field
+At least 5 years of commercial/industry experience, working in a hands-on capacity as a Data Scientist
+An overall understanding of the key challenges in our industry
+Experience in the areas of analytics, data transformation, and data science
+Passion and proactiveness for applying state-of-the-art analytical methods to find solutions to complex business problems.
+Ability to work independently, prioritize within an interdisciplinary environment that includes (data) scientists, analysts, business stakeholders and consultants
+Excellent communication and effective problem-solving skills; track record in serving a variety of diverse customers and projects
+Willingness to guide and inspire business stakeholders, data scientists and other colleagues along the journey into the world of data science.
+Ability to apply scientific principles in a broad range of technical assignments, making independent decisions based on sound scientific reasoning and analysis
+Demonstrated leadership as applied to the management of complex technical projects
+Experience with Agile development methods including Scrum and Kanban preferred
+Excellent communication and effective problem-solving skills; track record in serving a variety of diverse customers and projects
+Experience with Statistics, Data Mining, Machine Learning, Data Visualization, Cloud Computing
+Novavax is headquartered in Gaithersburg, Maryland with additional facilities in Uppsala, Sweden and Bohumil, Czech Republic. Novavax is traded on the Nasdaq Stock Market under the symbol NVAX and is dedicated to developing novel vaccines to address infectious disease.
+Novavax offers a base salary, annual bonus, equity grants, professional career development/growth opportunities, and a comprehensive benefits package including medical, dental, vision, Rx, STD, LTD, Life, Optional Life, 401(k) plan.
+Equal Opportunity Employer/Veterans/Disabled
+Novavax is an equal employment opportunity employer. Employment and advancement opportunities are available to all individuals on an at-will basis, regardless of their race, color, national origin, religion, ancestry, citizenship status, military or veteran status, sex, sexual orientation, gender identity or expression, age, marital status, family responsibilities, pregnancy, disability, genetic information, protective hairstyle, or any other characteristic protected by applicable federal, state, or local law.
+#LI-JF1"	468	Washington
+Senior Research Scientist	Amazon.com Services LLC	Arlington, VA	None	"
+PhD or equivalent Master's degree plus 5+ years of research experience in a quantitative field
+3+ years experience investing the feasibility of applying scientific principals and concepts to business problems and products
+
+Amazon’s Talent Assessment team designs and implements groundbreaking hiring solutions for one of the world’s fastest growing companies. We work in a data-focused, global environment where we must solve complex problems (ranging from research-based to technical) and deliver solutions that have impact.
+
+We are seeking personnel selection researchers with a strong foundation in psychometrics, research methodology, selection assessment design and validation approaches, and data analysis to build a strategy to quantitatively measure on-the-job success at Amazon. You will work closely with teams across Amazon to research, design and deliver best in class personnel selection assessments.
+
+We are looking for equal parts researcher, consultant, and thought leader who is highly adaptable, enjoys being challenged, and thrives in a fast-paced environment. You will work closely with cross-functional teams to design new hiring solutions and experiment with measurement methods intended to precisely define exactly what job success looks like and how best to predict it.
+
+You will work closely with global teams to design and experiment new hiring solutions that predict success for highly complex roles that have great impact on Amazon globally.
+
+What you’ll do:
+
+Design research methodologies to identify and define characteristics of high job performance, and how to refine its measurement further over time
+Lead the development and execution of large scale, highly visible personnel selection research projects
+Provide ongoing analytics design and develop new analytic strategies
+Perform complex statistical/quantitative analyses with large datasets to optimize qualitative and quantitative hiring strategies
+Apply the scientific method to answer novel personnel selection research questions
+Drive effective teamwork, communication, collaboration and commitment across multiple disparate groups with competing priorities
+Ph.D. in Applied Experimental Psychology, Quantitative Psychology, Educational Measurement, Industrial and Organizational Psychology, or related field
+5 or more years of relevant research-based experience
+Quantitative analytical abilities with advanced modeling and statistical expertise
+Previous work experience in assessment design, objective performance measurement, and complex statistical modeling
+Demonstrated ability to manage and analyze large data sets
+Excellent written and oral communication skills
+Proven problem-solving skills
+Strong internal consulting skills and a track record of influencing stakeholders
+Proven skills in experimental research design
+Strong organizational and time management skills
+Proficient in at least one statistical analysis tool (e.g., SPSS, R, or SAS)
+
+"	468	Washington
+Senior Data Scientist	SAIC	Reston, VA 20190	$115,001 - $125,000 a year	"Job ID: 217662
+Location: RESTON , VA , US
+Date Posted: 2021-05-25
+Category: Information Technology
+Subcategory: Data Scientist
+Schedule: Full-time
+Shift: Day Job
+Travel: Yes, 10 % of the Time
+Minimum Clearance Required: None
+Clearance Level Must Be Able to Obtain: None
+Potential for Remote Work: Yes
+Description
+JOB DESCRIPTION:
+SAIC is seeking an individual for a Data Scientist role to join the Artificial intelligence (AI) horizontal business unit within Strategy, Growth and Innovation (SGI). This opportunity allows for full-time telework from anywhere within the U.S.
+The successful candidate will have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results by creating and operationalizing data science and artificial intelligence products and solutions in support various customer missions within the Federal Government and other Public Sector organizations. You would support a variety of programs including but not limited to customer programs, IRAD projects and bid and proposal work.
+The Data Scientist role will work in a collaborative team-focused environment with technical understanding and practical application in prototyping, designing, and integrating niche tools which will be used in an analytical environment. This position will help progress, establish, incorporate, and advance current and promising concepts to inform tactical decision-making timelines. Your role is to provide needed technical knowledge in the areas of Predictive Analytics, AI/ML, Deep Learning Robotic Process Automation and Edge Computing to develop algorithms, support modeling and simulation efforts and provide data analytic skills to conduct a variety of analytical projects.
+Responsibilities include but are not limited to:
+Conduct analysis of mission data applicable in multiple domains
+Formulate and interpret problems in mathematical or computational terms
+Design, develop, use, and evaluate mathematical models, methods, and algorithm application to explore concepts and solve problems for the customer
+Develop, maintain, and enhance complex and diverse software algorithms (e.g. processing-intensive analytics, novel process development, manipulation of large data sets)
+Research analysis products and tools for possible integration to enhance Analytics and AI offerings
+Create new tools and applications using a variety of software languages, frameworks, and libraries
+Improve, support, and test a Modeling & Simulation framework to support other team member’s analysis work
+Refine and enhance existing applications to better meet the customer’s mission
+Code, test, and maintain internally developed mathematical software tools
+
+Qualifications
+Qualifications:
+U.S. Citizenship is required
+A Bachelor's Degree in Mathematics, Physics, Information Technology field, Operations Research or related discipline is required w/5+ years' experience; Masters and three (3) years or more experience.
+Demonstrated on-the-job knowledge of providing data analytics solutions
+Demonstrated proficiency in programming languages such as Python, C/C++, Java, .NET on windows and UNIX systems as appropriate
+Hands-on experience creating algorithms and engineering tools for data processing and modeling and simulation
+Practical understanding in modeling and simulation with a focus on optimization, including theoretical and numerical methods for analysis of current and future systems
+Must have the aptitude and attitude to tackle unsolved technical challenges
+Capability to distill complex problems into digestible structures/formats
+
+Target salary range: $115,001 - $125,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+SAIC is a premier technology integrator solving our nation's modernization and readiness challenges. Our offerings across defense, space, civilian, and intelligence markets include high-end solutions in engineering, IT, and mission outcomes. We integrate the best components from our portfolio with our partner's ecosystem to deliver innovative and effective solutions. We are 25,500 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, VA, SAIC has annual revenues of nearly $7.1 billion. For information, visit saic.com or Working at SAIC for benefits details. SAIC is an Equal Opportunity Employer empowering people no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or veteran status. We strive to create a diverse, inclusive and respectful work culture that values all."	468	Washington
+Research Associate Scientist	Cellphire, Inc.	Rockville, MD 20850	$55,000 - $80,000 a year	Cellphire THERAPEUTICS, INC.Rockville, MDAbout UsCELLPHIRE THERAPEUTICS is a fast-growing clinical stage biopharmaceutical company developing new cellular therapies to treat thrombocytopenia and other forms of bleeding using lyo-preserved platelets. Our research is backed by several large government grants and contracts.We attract smart people who thrive in a collaborative environment. We are small enough for your ideas to make a big impact, and large enough to offer you opportunities to grow professionally at any stage of your career.If you are a quick learner, enjoy working in the biotech industry, and share our mission of having a positive impact on medicine, our patients, and each other then CELLPHIRE is the place for you!Job Description and DutiesResearch Associate is non-supervisory, exempt, technical position at Cellphire. Duties include:Designing experiments capable of addressing scientific questions in a logical manner.Recording, analyzing, and organizing data and results in a timely manner.Accurately communicating results to senior staff in the form of reports, summaries, and presentations.Working safely and efficiently in a BSL-2 lab environment.Following Cellphire policies and procedures.Training new staff when necessary.All other duties as assigned.Candidate QualificationsReporting to a Cellphire Staff/Senior Scientist, the successful candidate will have the following:Minimum of a bachelor’s degree and some prior lab experience.Educational background in chemistry, biochemistry, cell biology, organic chemistry, pharmaceutics, or related field.Ability to work within the Research Discovery group at Cellphire, performing routine laboratory experimentation with direction.A willingness to work with others, an interest in the previously described duties, and an understanding of how their work fits into the larger picture here at Cellphire.Required skills include pipetting, measuring pH, weighing reagents, and calculating molarities/concentrations.Preferred skills include: ELISA, flow cytometry, thromboelastography, aggregation, thrombin generation analysis, gel electrophoresis, and microscopy.Previous experience in hematology focused on blood coagulation or platelet cell biology is preferred, but not required.Prior Industry experience preferred.Be prepared to provide references upon request.What You’ll Like About UsWe are innovative. You will be on the leading edge of therapies for the treatment of cancer, autoimmune, hematologic and infectious disease.We are synergetic. You will enjoy our ever changing, but collaborative company culture.We value rest and relaxation. Three (2) weeks paid time off, 10 paid holidays,We provide great benefits. Medical with PPO, FSA options, dental/vision, and stock options.We help our employees prepare for the future. 401(k) with company matchIf this sounds like the right career to fit your personality and interests, we look forward to meeting you.Principals only. Recruiters, please do not contact this job poster.CELLPHIRE Therapeutics, Inc. is an Equal Opportunity EmployerJob Type: Full-timePay: $55,000.00 - $80,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceDisability insuranceFlexible scheduleFlexible spending accountHealth insuranceLife insurancePaid time offRetirement planTuition reimbursementVision insuranceSchedule:Monday to FridaySupplemental Pay:Bonus payEducation:Bachelor's (Required)Experience:Biochemistry: 1 year (Preferred)Laboratory Experience: 1 year (Preferred)Work Location:One locationThis Job Is Ideal for Someone Who Is:Dependable -- more reliable than spontaneousPeople-oriented -- enjoys interacting with people and working on group projectsAdaptable/flexible -- enjoys doing work that requires frequent shifts in directionDetail-oriented -- would rather focus on the details of work than the bigger pictureAchievement-oriented -- enjoys taking on challenges, even if they might failAutonomous/Independent -- enjoys working with little directionInnovative -- prefers working in unconventional ways or on tasks that require creativityHigh stress tolerance -- thrives in a high-pressure environmentCompany's website:www.cellphire.comBenefit Conditions:Only full-time employees eligibleWork Remotely:NoCOVID-19 Precaution(s):Remote interview processPersonal protective equipment provided or requiredTemperature screeningsSocial distancing guidelines in placeVirtual meetingsSanitizing, disinfecting, or cleaning procedures in place	468	Washington
+Senior Data Scientist HSEP5	Avantus Federal	Washington, DC	None	"Company Overview:
+
+Avantus Federal, a NewSpring Holdings Company, is a mission-focused services and solutions company headquartered in McLean, VA. Drawing upon its heritage companies’ histories of consistent growth and high performance in the federal services market, Avantus ensures eminence is earned, sustained and grown.
+Avantus’ services and solutions are designed, tailored, and executed based on our long history of helping our Homeland Security, Defense, Intelligence, and Federal Civilian customers solve complex challenges. Our capabilities include Project & Portfolio Management, Facilities, Acquisition & Sustainment, Systems Engineering Technical Services, Operations & Analysis, Transformation & Advisory Services, Data & Software Solutions, Digital Innovation, and Augmented Intelligence.
+Position Overview:
+
+Avantus is seeking a well qualified Senior Data Scientist to over see a medium to large scale development project assisting our clients in the Homeland Security Enterprise. The Senior Data Scientist will be leading a team to develop and deploy machine learning/applications solutions, implement best practices, and contribute to overall mentorship and development of junior staff.
+Responsibilities:
+Project Lead in a project management environment – independently and with Sponsor team
+Support leadership teams to facilitate meetings with functional leads and subject matter experts to identify, develop, document, and validate requirements.
+Lead the development and deployment of machine learning solutions through production.
+Work with structured and unstructured data, and leverage skills using: Elastic Search, Cassandra, Janus Graph, H-Base, RESTful frameworks, etc.
+Support the preparation and update briefings used by Avantus and client leadership.
+Working with structured and unstructured data, SQL, database modeling
+Project management / Agile management
+Executive briefings
+Required Qualifications:
+Ability to obtain and maintain TS-S/CI clearance.
+Intermediate to expert level skills in middle-tier and back-end development
+3+ years of experience with:
+Java-SpringBoot
+Janus Graph
+Python
+NiFi
+Tensor Flow
+Spark
+Data Modeling
+Outlier Detection
+Regression, A/B Testing, Classification, and Cluster Algorithms
+ML Modeling Frameworks: SKLearn, Keras, PyTorch, Kafka
+Strong knowledge of concepts, methodologies and best practices in migrating development risks, estimating tasks, coding standards and source control procedures.
+Preferred Qualifications:
+TS-S/CI clearance
+Company EEO Statement:
+
+Avantus Federal is an equal opportunity employer and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) federal contractor. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity, protected veteran status, status as a qualified individual with a disability, or any other category protected by law. Avantus hires and promotes individuals solely on the basis of their qualifications for the job to be filled."	468	Washington
+Senior Data Scientist	American Nurses Association ANA	Silver Spring, MD 20910	None	"JOB SUMMARY
+Key technical expert, accountable for exam performance and psychometrics, resolution of data issues, and research addressing ANCC strategic goals. Leads efforts and provides consultation for MS staff to resolve data problems and establish data quality standards; develops presentations and publications for departments, Board of Directors, Commission on Certification, and other stakeholders; and proposes resources to support MS research activity. Serves as an expert in test development, scoring, research, and quantitative analyses. Develops software applications, programming, and syntax for report generation, statistical analyses, and graphic representations. Conducts quality assurance on scores, item functioning, and psychometric properties of exams. Drafts research reports. Ensures validity, reliability, and psychometric soundness of certification exams, using established industry and best practices.
+WHAT YOU’LL DO
+Conduct ongoing analysis of data systems. Review data management plans, revisions, and specifications and provide feedback. Plan and lead research (e.g., job analysis, validation, survey sampling, speededness and readability, test security, calibration, equating) to enhance exam performance, customer services, and product line as well as inform strategic planning. Monitor and evaluate item performance, differential item functioning, item drift, and exam psychometrics.
+
+Program for advanced statistical analyses using software programs (e.g., SAS, SPSS, Winsteps, R, SQL). Create and implement report generation, data collection, and sampling plans; develop conceptual frameworks for research and analyses; and recommend and adapt analytical and statistical methods. Identify strategies to generate useful feedback for examinees. Draw conclusions from research and make recommendations. Provide results, conclusions, and visuals and present to internal and external stakeholders (e.g., Executive Leadership, Boards of Directors, Commissions/Councils, program staff, governmental agencies, members of credentialed organizations). Travel as needed to deliver presentations at various venues or to meet with potential or current stakeholders.
+Plan and lead test development activities (e.g., standard setting, item and exam performance, exam field testing, form building). Facilitate focus groups, prepare meeting materials, review materials created by colleagues, analyze data, and write technical research reports and summaries. Coordinate with colleagues, subject matter experts, and vendors.
+Ensure compliance with industry best practice and accreditation requirements of ANCC certification programs. Maintain all necessary documentation in support of accreditation requirements. Establish data quality standards in collaboration with program staff. Troubleshoot issues and data errors. Consult with program staff on data preparation and data coding problems and assist in developing means for correcting the problems. Propose tools and resources to support research activity and enhance data system operations. Collaborate with ANA IT staff to evaluate and implement potential enhancements, to resolve quality assurance issues, and to ensure data systems are operational. Perform functional, cost-benefit, and risk analysis to support design changes. Assess risks and recommend mitigation strategies.
+WHAT YOU BRING TO THE ANA
+Master’s degree (Ph.D. preferred) in industrial-organizational (I/O) psychology, testing and measurement, psychometrics, mathematics, research and statistics, or related field, with emphasis on quantitative analyses.
+Five years of professional experience. Two years of assessment development, psychometrics, data management and analyses, and technical report writing.
+Skills in the following areas:
+Research design and completion
+Data collection, utilization, validation, security
+Data management and visualization
+Advanced data analysis (e.g., scaling and equating [CTT or IRT], simulation, sampling)
+Choosing and applying appropriate analysis techniques
+Test construction, development of alternative items, and test validation
+Meeting facilitation
+Advanced use of office computer software (e.g., Microsoft Word, Excel, PowerPoint) and database and statistical software (e.g., SAS, SPSS, R, SQL)
+WHAT THE ANA BRINGS TO YOU
+Join us and become a “Nurse Advocate” for the more than 4 million Registered Nurses in the United States
+Every role within the ANA contributes to a healthier world through the “Power of Nursing”
+An organization that acts with integrity, respect, transparency and humility
+We embrace and empower the uniqueness of every employee; Bring your whole-self to work
+Continuously innovating through creative and strategic initiatives
+Excellent Benefits with exceptional retirement contributions including 401K Matching, Paid Time Off between Dec 25th and Jan 1st in addition to regular PTO, and excellent health/medical benefits
+Commitment to your career development and advancement throughout the ANA Enterprise
+About the American Nurses Association (ANA)
+Founded in 1896, The ANA Enterprise is the family of non-profit companies that comprise the American Nurses Association: the American Nurses Association (ANA), the American Nurses Credentialing Center (ANCC), and the American Nurses Foundation. The ANA Enterprise leverages the combined strength of each to drive excellence in practice and ensure nurses’ voices and vision are recognized by policy leaders, industry influencers, and employers. From professional development and advocacy to credentialing and grants, the ANA Enterprise is the leading resource for nurses to equip themselves with the tools, information, and network they need to excel in their individual practices. In helping individual nurses succeed — across all practices and specialties, and at each stage of their careers — the ANA Enterprise is lighting the way for the entire profession to succeed.
+The above job description describes the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties and skills required for the position nor a listing of the characteristics of the individual performing the job.
+The ANA is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law."	468	Washington
+Senior Data Scientist	Intone Networks	Herndon, VA	None	Required: MS or PhD in Computer Science, or related field or experience 6+ years of information extraction, NLP, statistical data analysis and predictive modeling 3+ years’ experience developing commercial software products Implementing and deploying standard NLP systems for text classification, entity extraction, sentiment analysis, etc. with extensive experience in Collecting and preparing training data Training supervised and unsupervised models Optimizing model hyperparameters Analyzing errors for machine learning models Real-world application of deep learning to train NLP models Responsibilities: Design, develop and evaluate machine learning models suitable for text analytics tasks such as extraction, disambiguation and classification Contribute to the design of solutions that fit the business problem, may include custom algorithm development Develop new features for existing products, implement proof of concept and prototypes Work closely with product development teams and product stakeholders following an Agile product development methodology Effectively communicate with fellow technologists and other stakeholders Knowledge, Skills, and Tech: Non-trivial project experience in text analysis, information extraction, entity extraction, machine learning and natural language processing Strong working knowledge of Bayesian Statistics, Supervised and Unsupervised Machine Learning, and Deep Learning Experience building models with at least one of the following techniques/tools: SVM, Naïve-Bayes, CRF, Binary/Multinomial Logistic Regression, LDA, word2vec, doc2vec Transfer Learning for NLP Strong programming skills required in Python, at least one other language like Java or C++ is desired Tools/Libraries: NumPy, Pandas, Scikit-Learn, NLTK, Gensim, SpaCy, PyTorch, Jupyter Notebooks Transformers Experience with SQL, NoSQL databases Strong cross-platform skills (Linux and Windows) Experience developing software within an Agile product development environment	468	Washington
+Senior Data Scientist, HCLS	Amazon Web Services, Inc.	Arlington, VA	None	"
+Bachelor’s degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent professional or military experience
+Experience with ML fields, e.g., natural language processing, computer vision, statistical learning theory
+6+ years of HCLS industry experience in predictive modeling, data science, and analysis
+Experience in an ML engineer or data scientist role building and deploying ML models or hands on experience developing deep learning models
+Experience writing code in Python, R, Scala, Java, C++ with documentation for reproducibility
+Experience handling terabyte size datasets, diving into data to discover hidden patterns, using data visualization tools, writing SQL, and working with GPUs to develop models
+Experience writing and speaking about technical concepts to business, technical, and lay audiences and giving data-driven presentations
+
+Are you interested in working with the largest global Life Sciences (LS) organizations in the world as they navigate through some of the most dynamic and disruptive transformation projects in their organization's history? Does the prospect of empowering these organizations cloud transformation success by aligning professional services to critical business and IT outcomes, overseeing and assessing engagement delivery, driving a holistic partner strategy and providing insight to accelerate rate of execution/adoption of cloud technology excite you?
+
+The Amazon Web Services Professional Services team is looking for a Data Scientist consultant that can advise global LS organizations on their cloud journey, develop a long term Professional Services strategy and execute that strategy within those accounts. This is a trusted advisor for our largest and most committed customers. The role includes all aspects of go-to-market, business development, relationship development, technology strategies and solution development in those accounts.
+
+Professional Services engage in a wide variety of projects for customers and partners, providing collective experience from across the AWS customer base and are obsessed about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered and drive feature innovation based upon customer needs.
+
+We are looking for someone who is passionate about:
+
+Development of long term AI/ML Strategies for global Healthcare and Life Science customers.
+Provide HCLS industry domain insights.
+Identify & develop specific opportunities and supporting business cases.
+Educate customers on AI/ML AWS services and translate those into a clear business value proposition.
+Assist customers by being able to deliver AI/ML/DL projects from beginning to end, including understanding business requirements, developing architecture, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact.
+Assisting customers to envision and architect solutions involving AI/ML to address today and tomorrow’s business problems.
+Assist customers with identifying model drift and retraining models.
+Work with our Big Data consultants to help analyze, extract relevant data and help our customers operate models after they are built.
+Coaching Customer and Partner teams to be self-sufficient.
+
+This is as customer facing role. You will be required to travel to various customer sites to deliver professional services when necessary.
+
+
+Master’s degree of PhD in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.)
+Ability to develop strategic, baselined, data modeling processes; ability to accurately determine cause-and-effect relationships.
+Publications or presentations in recognized ML journals or conferences
+Deep technical skills, consulting experience, and business savvy to interface with all levels and disciplines within our customers’ organization
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us."	468	Washington
+In-Vitro Senior Scientist- Immuno-Oncology	AstraZeneca	Gaithersburg, MD 20878	None	"We are seeking a Senior Scientists in Immuno-Oncology with expertise in innate and adaptive immune cell biology with a track record of scientific achievement to join our team in Gaithersburg, MD !
+AstraZeneca’s vision in Oncology is to push the boundaries of science to change the practice of medicine, transform the lives of patients living with cancer, and to ultimately eliminate cancer as a cause of death! A broad pipeline of next-generation medicines is focused principally on four disease areas - breast, ovarian, lung and hematological cancers.
+Main Duties and Responsibilities
+Working in this laboratory-based position within the Immuno-Oncology Research group you will develop, design, conduct and analyze in vitro experiments to assess the function of our candidate drugs and help to dissect the mechanism of action of novel therapeutics targeting the immune system for cancer therapy. You will also review emerging literature and internal data to help in identifying new potential targets and contribute to target validation activities.
+A proven foundation in immunology / immuno-oncology, and experience in techniques for the analysis of human T cell function and phenotype is crucial for this role. As a highly organized, self-motivated individual with a strong lab/practical background you will stay up to date with relevant technical and intellectual scientific expertise in immunology and have a genuine passion for this field of research. The position requires strong interest in bench work and hands on in cancer biology.
+Requirements
+A PhD, or equivalent experience, in immunology and/or immuno-oncology, with 0-4 years of post-doctoral experience in a relevant research area. Industry experience is a plus but not required.
+Strong hands-on skills in basic biochemical and immunological methods including multi-color flow cytometry (FACS), ELISA/multiplex assays, ELISPOT, western blotting, immunoprecipitation, cell killing assay
+Hands-on experience with in vivo work preferred but not required
+Experience with analysis of large scientific datasets is a plus
+Strong interpersonal, influencing, negotiating and collaboration skills together with evidence of having used these to support problem solving and delivery in a team-oriented, collaborative environment
+Ability to work in a high paced team environment, plan and meet timeline
+Consistent record of success in your research and experience preparing written scientific reports and oral presentations
+Post-doctoral training is preferred
+Job complexity is high, and requires ability to work with high degree of independence
+Experience working with patient-derived tumors and/or tumor infiltrating T cells is an advantage"	468	Washington
+Data Scientist (M&I)	Grant Thornton	Arlington, VA 22209 (Radnor-Ft Myer Heights area)	None	"Data Scientist (M&I)(Job Number: 049918)
+Description
+Grant Thornton is seeking a Senior Associate to join its Civilian service line and take an active role in engagement execution, project management and key business development activities.
+
+Grant Thornton Public Sector helps executives and managers at all levels of government maximize their performance and efficiency in the face of ever tightening budgets and increased demand for services. We give clients creative, cost-effective solutions that enhance their acquisition, financial, human capital, information technology, data analytics, and performance management. For more information, visit grantthornton.com/publicsector.
+
+At Grant Thornton, our professional staff applies traditional, cutting-edge approaches and methods to a variety of analyses. As part of our team, the Senior Associate will utilize various methodologies and models to execute client projects.
+
+ESSENTIAL DUTIES:
+Project Requirements
+Support the creation of a risk model to enable PPT to more efficiently divert cases with high complexity and/or fraud scores to senior or experienced reviewers for adjudication.
+Provide development work in the application of quantitative protocols to the risk model.
+Apply statistical techniques such data mining, regression analysis, classification, as needed to develop predictive modeling that leverages available historical facts to aid the discovery of hidden patterns and relationships, provide valuable operational and mission insights, and estimate future outcomes
+
+Meet or exceed targeted billing hours (utilization).
+Assist with business development activities, such as proposals, capture, account teams, whitepapers, conferences, and/or other thought leadership materials.
+Qualifications
+
+Python or R will work.
+Bachelor’s Degree required from an accredited college or university in a related field.
+Ability to obtain and maintain certain job-related certifications if no job-related advanced degrees.
+U.S. citizenship may be required. Ability to work in the United States indefinitely required.
+Travel may be required.
+Ability to work overtime required on occasion.
+Ability to sit in an office environment for long periods of time.
+Ability to obtain and maintain a security clearance.
+Ability to communicate clearly in writing and verbally.
+Ability to obtain and maintain firm independence and abide by firm ethics requirements.
+Meet or exceed continuing professional education (CPE) requirements.
+Grant Thornton Public Sector LLC (“Grant Thornton Public Sector”), based in Arlington, VA, is a global management consulting business with the mission of providing responsive and innovative financial, performance management and systems solutions to governments and international organizations. Visit Grant Thornton’s Public Sector at www.grantthornton.com/publicsector.
+
+It is Grant Thornton’s policy to promote equal employment opportunities. All personnel decisions, including, but not limited to, recruiting, hiring, training, promotion, compensation, benefits and termination, are made without regard to race, creed, color, religion, national origin, sex, age, marital status, sexual orientation, gender identity, citizenship status, veteran status, disability, or any other characteristic protected by applicable federal, state, or local law.
+
+Primary Location - US-Virginia-Arlington
+Other Locations - US-MO-Kansas City, US-FL-Jacksonville, US-Oklahoma-Oklahoma City
+Work Locations - Metro DC - Arlington(957) 1000 Wilson Blvd. Arlington 22209"	468	Washington
+Senior Pharmacovigilance Scientist	AstraZeneca	Gaithersburg, MD 20878	None	"Location: Gaithersburg, US
+Competitive Salary & Benefits
+AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some of the world’s most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies. With one of the broadest and deepest Oncology pipelines in the industry, there are many opportunities to work with new and novel drugs and help discover what’s next.
+As a Senior Pharmacovigilance Scientist you will work collaboratively with scientists and physicians to deliver the safety requirements for your assigned drug project(s). You will collaborate with colleagues across AstraZeneca and externally, including counterparts within Clinical Project Teams, Global Regulatory Affairs, and Global Commercial teams.
+You and your colleagues will be instrumental in delivering the safety strategy for the assigned drug development programme. This would include aggregating, reviewing, analysing and interpreting safety-related data to generate information to support safety decision making by prescribers, patients and payers, with the ultimate goal of protecting patients. You will apply your pharmacovigilance and scientific experience, knowledge and skills, including authoring and or providing input to safety-related documents, e.g. regulatory periodic safety reports and safety content of marketing authorisation applications.
+Essential for the role
+A Bachelor's degree in life sciences/pharmacy/nursing degree or related field
+MSc/PhD in a scientific field preferred
+Fluent in written and verbal English
+Advanced knowledge of PV regulations
+MD/MSc/PhD in scientific discipline, preferred
+Intermediate understanding of epidemiology, preferred
+Why AstraZeneca?
+At AstraZeneca we’re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and unleash your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare.
+Our Gaithersburg, Maryland campus employs more than 3,500 experts and is only a short drive from Washington, DC. This modern and vibrant scientific campus is the home of R&D and Oncology in the US. Here, we play host to some of the most cutting-edge technology and lab spaces, all designed to inspire collaboration and cross-functional science. The site offers a variety of amenities to help boost productivity and help keep our employees happy and healthy. This includes a fitness center, employee healthcare clinic, electric vehicle charging stations, dry cleaning, full-service cafeteria and copy center. You’ll find newly-designed, activity-based workspaces to suit a variety of working styles while increasing collaboration between teams.
+So, what's next?
+Are you already imagining yourself joining our team? Good, because we can’t wait to hear from you!
+Where can I find out more?
+Our Social Media, Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/
+Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/
+Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca_careers/?hl=en"	468	Washington
+Senior Data Scientist	Donya Consulting Group	Arlington, VA 22202 (Aurora Highlands area)	$165,000 - $192,000 a year	CLEARANCE LEVEL REQUIRED: TOP SECRETExperience: 8 years with Intelligence Community experience 2 yrsThe successful Sr Data Scientist in Defense Intelligence will support the Office of the Under Secretary of Defense for Intelligence and Security – OUSD(I&S). The effort will include the modernization, alignment and integration of Combatant Command Intelligence capabilities and the rest of the Defense Intelligence Enterprise. As a member of enterprise team, you will work with analysts, engineers, and other scientists using innovative techniques and tools to drive decision making. The successful Data Scientist will employ analytical methods or platforms to communicate predictions, findings, or risks through effective data visualizations and reports in support of the Combatant Commands. Producing applied data science techniques in the intelligence field, our Data Scientist will be impacting real time decision making.Essential Job ResponsibilitiesExtract data from a variety of sources (databases, web, text files) and in a variety of formats (structured, unstructured, JSON, etc.) and prepare the data for analysisDescribe data using qualitative and quantitative aggregation/summarization and build tools (static reports, interactive dashboards, web applications) that allow clients to easily view and understand important patterns and trends in the dataProvide quantitative comparisons of data points using advanced statistical analysis including data reduction techniques, resampling, as well as traditional statistical hypothesis testingConstruct and validate predictive models using a variety of techniquesPrepare analytic products in written, oral, visual, and/or multimedia formats.Devise open-source research and collection management practices.Facilitate and manage intelligence processes and practices.Preferred RequirementsText Analytics - IN-SPIRE, Jigsaw, RData Analytics – Excel, Power BI, TableauDocument Development - Word, MS Publisher, Adobe suiteVisual Analytics – Kibana, Virtualitics, GraphikaVisualization - Gephi, Word cloud, R or JavaGraphics Production - PowerPoint, Adobe Creative Suite, Photoshop, HTML5Programming – Python, SQL, API DevelopmentDatabase – Database Modeling, Database Management, Database TypesData Ingestion – ETL/ELT, NIFI, KAFKA, ESBJob Type: Full-timePay: $165,000.00 - $192,000.00 per yearBenefits:401(k)401(k) matchingDental insuranceDisability insuranceHealth insuranceHealth savings accountLife insurancePaid time offProfessional development assistanceReferral programRetirement planTuition reimbursementVision insuranceSchedule:8 hour shiftMonday to FridaySupplemental Pay:Bonus paySigning bonusEducation:Master's (Preferred)Experience:Machine Learning: 1 year (Preferred)Python: 1 year (Preferred)Security Clearance:Top Secret (Required)Work Location:One locationWork Remotely:No	468	Washington
+Senior Data Scientist	NT Concepts	Chantilly, VA	None	"As a Senior Data Scientist on our solutions delivery team, you will have the unique opportunity to work on programs advancing the digital transformation of critical government systems. This program drives market-leading data science solutions for a customer in the Intelligence Community.
+
+Our delivery teams are driven to explore new ideas and technology, and care deeply about collaboration, feedback, and iteration. We follow SAFe agile practices, embrace the Ops (DataOps/DevSecOps/MLOps) to ""automate-first"", use modern tech stacks, and constantly challenge each other to grow and improve.
+
+If large-scale, data-driven projects resonate with you, and you care deeply about joining a mission-driven company with a strong growth direction and diverse culture, we'd love to learn more about you. Check out the details below, and let's connect.
+
+RESPONSIBILITIES
+
+Members of our solutions teams require little guidance, but love to learn, collaborate, and problem solve. This position requires an advanced level of experience, a passion for exploring and pushing the boundaries on data, and a strong desire to solve our customers' hardest technical and data challenges.
+
+The Senior Data Scientist will be responsible for the following:
+
+Driving decision-making with data-driven models
+
+Enabling the mission through the synthesizing and analysis of large data sets
+
+Leading data science efforts on a diverse team of cross functional skill sets
+
+Decomposing complex analytical approaches and findings into meaningful studies and presentations
+
+Assessing the effectiveness of the customer's program through qualitative and quantitative analysis
+
+Leading the identification and collection of mission data
+
+QUALIFICATIONS
+
+Ability to synthesize and analyze large data sets and cross functioning information
+
+Proficiency in open source research
+
+Capability to work independently or on a team
+
+Advanced proficiency in R and / or Python
+
+TS/SCI + Full Scope Polygraph required
+
+We're looking for a motivated Senior Data Scientist eager to advance not only your professional career, but also the missions of our Intelligence and Defense communities. At NT Concepts, you'll be able to:
+
+Have a meaningful impact on the company's growth, and share in the rewards accordingly
+
+Develop your own career path through our What's Next program, which emphasizes personal growth through training and certification
+
+Work on programs of importance that directly impact National Security and the world
+
+Work in a fun, ""challenging yet rewarding"" fast-paced environment
+
+Physical Requirements:
+Prolonged periods sitting at a desk and working on a computer
+
+Must be able to lift up to 10-15 pounds at times.
+
+#CJ
+
+#JT"	468	Washington
