@@ -80,6 +80,7 @@ dictionary = Dictionary(gen_docs)
 print(dictionary[5])
 print(dictionary.token2id['project'])
 print("Number of words in dictionary:",len(dictionary))
+print(dictionary)
 
 for i in range(len(dictionary)):
     print(i, dictionary[i])
@@ -93,7 +94,8 @@ print(corpus)
 
 tf_idf = TfidfModel(corpus)
 print(tf_idf)
-
+for a in range(len(tf_idf)):
+    print(a,tf_idf[a])
 
 #step 6 similarity comparing#
 sims = gensim.similarities.Similarity('./',tf_idf[corpus],num_features=len(dictionary))
@@ -170,7 +172,7 @@ a=sims[query_doc_tf_idf]
 
    
    
-os.chdir('/Users/fangxinzhang/Documents/2021 summer/DAEN 690/week 7/python /TFIDF')
+os.chdir('/Users/fangxinzhang/Documents/2021 summer/DAEN 690/week 7/python /TFIDF-WITH SALARY')
 
 
 #convert to dataframe#
