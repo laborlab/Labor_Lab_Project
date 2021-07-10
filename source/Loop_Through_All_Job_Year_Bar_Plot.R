@@ -44,3 +44,5 @@ my_bar_plot<- function(y,x){
 test <-my_bar_plot("IT Project Manager I","2010")
 
 map(job_v,year_v,my_bar_plot)
+
+map2(job_v,year_v,my_bar_plot)
