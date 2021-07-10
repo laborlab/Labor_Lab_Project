@@ -9,11 +9,11 @@ job_v <- c("Cloud Engineer","IT Project Manager I","IT Project Manager III",
            "Senior Data Scientist","User Experience (UX) Developer","	Software Developer I","Software Developer II",
            "Test Automation Engineer")
 
-job_v <- c("User Experience (UX) Developer","	Software Developer I","Software Developer II",
-           "Test Automation Engineer")
-
-job_v <- c("Cloud Engineer","IT Project Manager I","IT Project Manager III",
-           "Senior Computer Security Systems Specialist","Senior Security Analyst")
+# job_v <- c("User Experience (UX) Developer","	Software Developer I","Software Developer II",
+#            "Test Automation Engineer")
+# 
+# job_v <- c("Cloud Engineer","IT Project Manager I","IT Project Manager III",
+#            "Senior Computer Security Systems Specialist","Senior Security Analyst")
 
 
 for (job in job_v) {
