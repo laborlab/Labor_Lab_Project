@@ -64,7 +64,7 @@ Jobs<- c("Information","Computer")
 # 
 # t <-clean_up(df_MSA_2010)
 
-Jobs<- c("Information","Computer")
+Jobs<- c("Information","Computer","IT","Developer","Technology")
  
 # df=df_MSA_2015%>%
 #   filter(str_detect(OCC_TITLE, paste(Jobs, collapse = "|")))
