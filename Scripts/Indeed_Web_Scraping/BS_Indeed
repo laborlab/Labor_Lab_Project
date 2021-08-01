@@ -1,0 +1,266 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun 12 11:20:56 2021
+
+@author: miche
+"""
+# Imports
+import re
+import string
+
+import pandas as pd
+import numpy as np
+import spacy
+from spacy.tokenizer import Tokenizer
+
+import bs4
+from bs4 import BeautifulSoup
+import html as ihtml
+# import urllib.request
+import requests
+import sqlite3
+
+
+# Extract the job title
+def extract_job_title(soup):
+    jobs = []
+    for div in soup.find_all(True, attrs={"class":"row"}):
+        for a in div.find_all(True, attrs={"data-tn-element":"jobTitle"}):
+            jobs.append(a["title"])
+    return(jobs)
+
+# Extract the company name
+def extract_company(soup):
+    companies = []
+    for div in soup.find_all(True, attrs={"class":"row"}):
+        company = div.find_all(True, attrs={"class":"company"})
+        if len(company) > 0:
+            for b in company:
+                companies.append(b.text.strip())
+        else:
+            sec_try = div.find_all(True, attrs={"class":"result-linl-source"})
+            for span in sec_try:
+                companies.append(span.text.strip())
+    return(companies)
+
+# Extract the job location
+def extract_location(soup):
+    locations = []
+    for div in soup.find_all(True, attrs={"class":"row"}):
+        try:
+            locations.append(div.find(True, attrs={"class":"location"}).text)
+        except:
+            locations.append("None")
+    return(locations)
+
+
+# Extract the salary
+def extract_salary(soup):
+    salaries = []
+    for div in soup.find_all(True, attrs={"class":"row"}):
+        try:
+            salaries.append(div.find(True, attrs={"class":"salaryText"}).text.replace("\n",""))
+        except:
+            salaries.append("None")
+    return(salaries)
+
+# Extract the url for the full job listing
+def extract_url(soup):
+    urls = []
+    for div1 in soup.find_all(True, attrs={"class":"row"}):
+        for div2 in div1.find_all(True, attrs={"class":"title"}):
+            for a in div2.find_all(True, href=True):
+                urls.append(a['href'])
+    return(urls)
+
+# Extract the full job description from the job listing
+def extract_desc(urls):
+    descs = []
+    for url in urls:
+        full_url = "https://www.indeed.com" + url
+        detail_page = requests.get(full_url)
+        detail_soup = BeautifulSoup(detail_page.text, "html.parser")
+        
+        for div in detail_soup.find_all(True, attrs={"id":"jobDescriptionText"}):
+            descs.append(div.text)
+    return(descs)
+
+# Extract the job count
+def extract_count(soup):
+    if len(soup.find_all(True, attrs={"id":"searchCountPages"})) > 0:
+        for div in soup.find_all(True, attrs={"id":"searchCountPages"}):
+            # counter = 0
+            temp_str = div.text.replace(" ", "")
+            temp_count_str = re.search('of(.*)jobs', temp_str)
+            count_str = re.sub('[^0-9]','', temp_count_str.group(1))
+            counter = int(count_str)
+            return(counter)
+    else:
+        print(soup.get_text())
+
+
+# Extract the job listings
+#    max_results is a key setting - it represents the # of results to retrieve
+#    with roughly 10 results per page, so 10 equals one page of results while 100
+#    would represent 10 pages.  It takes about 1.5 hours to scrape all 80 permutations
+#    (4 job titles * 20 cities) with max_results = 100
+def extract_list(title_name, city_name, st_name):
+    max_results = 100
+    columns = ["city", "job_title", "company", "location", "salary", "description"]
+
+    city_url = "https://www.indeed.com/jobs?q=" + title_name + \
+               "&l=" + city_name + "%2C+" + st_name
+    page = requests.get(city_url)
+    soup = BeautifulSoup(page.text, "html.parser")
+    max_counter = extract_count(soup)
+    print(max_counter, title_name, city_name)
+   
+    job_title_list = []
+    company_list = []
+    location_list = []
+    salary_list = []
+    desc_list = []
+
+    for start in range(0, max_results, 10):
+        city_url = "https://www.indeed.com/jobs?q=" + title_name + \
+                   "&l=" + city_name + "%2C+" + st_name + \
+                   "&start=" + str(start)
+        page = requests.get(city_url)
+        soup = BeautifulSoup(page.text, "html.parser")
+
+        job_title_list.extend(extract_job_title(soup))
+        company_list.extend(extract_company(soup))
+        location_list.extend(extract_location(soup))
+        salary_list.extend(extract_salary(soup))
+        add_urls = extract_url(soup)
+        desc_list.extend(extract_desc(add_urls))
+
+    return job_title_list, company_list, location_list, salary_list, desc_list, max_counter
+
+# Each data item is extracted and stored in a list.  The lists are then combined into a dataframe.
+def job_db(title, city, st):   
+    j_list, c_list, l_list, s_list, d_list, m_counter = extract_list(title, city, st)     
+    temp_df = pd.DataFrame(list(zip(j_list, c_list, l_list, s_list, d_list)), 
+                          columns = ['job_title', 'company', 'location', 'salary', 'description'])
+    temp_df['counts'] = m_counter
+    city_name = city.replace('+', ' ')
+    temp_df['city'] = city_name
+    return temp_df
+
+
+# jobs = ['it+project+manager+i', 'it+project+manager+iii', 'senior+computer+security+systems+specialist', 
+#         'senior+security+analyst', 'cloud+engineer', 'senior+data+scientist', 'user+experience+developer', 
+#         'software+developer+i', 'software+developer+iii', 'test+automation+engineer']
+
+# for job in jobs:
+#     temp_df = job_db(job, 'Washington', 'DC')
+#     df[job] = pd.concat([temp_df], ignore_index=True)
+#     print(df[job].shape)
+
+# IT Project Manager I
+temp_df1 = job_db('it+project+manager+i', 'Washington', 'DC')
+it_pm_1_df = pd.concat([temp_df1], ignore_index=True)
+print(it_pm_1_df.shape)
+it_pm_1_df.to_csv('indeed_extract/it_pm_1')
+
+# IT Project Manager III
+temp_df2 = job_db('it+project+manager+iii', 'Washington', 'DC')
+it_pm_3_df = pd.concat([temp_df2], ignore_index=True)
+print(it_pm_3_df.shape)
+it_pm_3_df.to_csv('indeed_extract/it_pm_3_df')
+
+# Senior Computer Security Systems Specialist
+sen_comp_sec_syst_spec_df = job_db('senior+computer+security+systems+specialist', 'Washington', 'DC')
+# sen_comp_sec_syst_spec_df = pd.concat([temp_df3], ignore_index=True)
+print(sen_comp_sec_syst_spec_df.shape)
+sen_comp_sec_syst_spec_df.to_csv('indeed_extract/sen_comp_sec_syst_spec')
+
+# Senior Security Analyst
+temp_df4 = job_db('senior+security+analyst', 'Washington', 'DC')
+sen_sec_analyst_df = pd.concat([temp_df4], ignore_index=True)
+print(sen_sec_analyst_df.shape)
+sen_sec_analyst_df.to_csv('indeed_extract/sen_sec_analyst')
+
+# Cloud Engineer
+temp_df5 = job_db('cloud+engineer', 'Washington', 'DC')
+cloud_eng_df = pd.concat([temp_df5], ignore_index=True)
+print(cloud_eng_df.shape)
+cloud_eng_df.to_csv('indeed_extract/cloud_eng')
+
+# Senior Data Scientist
+temp_df6 = job_db('senior+data+scientist', 'Washington', 'DC')
+sen_data_sci_df = pd.concat([temp_df6], ignore_index=True)
+print(sen_data_sci_df.shape)
+sen_data_sci_df.to_csv('indeed_extract/sen_data_sci')
+
+# User Experience (UX) Developer
+temp_df7 = job_db('user+experience+developer', 'Washington', 'DC')
+ux_dev_df = pd.concat([temp_df7], ignore_index=True)
+print(ux_dev_df.shape)
+ux_dev_df.to_csv('indeed_extract/ux_dev')
+
+# Software Developer I
+temp_df8 = job_db('software+developer+i', 'Washington', 'DC')
+soft_dev_1_df = pd.concat([temp_df8], ignore_index=True)
+print(soft_dev_1_df.shape)
+soft_dev_1_df.to_csv('indeed_extract/soft_dev_1')
+
+#Software Developer III
+temp_df9 = job_db('software+developer+iii', 'Washington', 'DC')
+soft_dev_3_df = pd.concat([temp_df9], ignore_index=True)
+print(soft_dev_3_df.shape)
+soft_dev_3_df.to_csv('indeed_extract/soft_dev_3')
+
+#Test Automation Engineer
+temp_df10 = job_db('test+automation+engineer', 'Washington', 'DC')
+test_auto_eng_df = pd.concat([temp_df10], ignore_index=True)
+print(test_auto_eng_df.shape)
+test_auto_eng_df.to_csv('indeed_extract/test_auto_eng')
+
+
+# Combine the data into one dataframe
+data_scientist_df['job'] = 'data scientist'
+web_developer_df['job'] = 'web developer'
+ux_designer_df['job'] = 'ux designer'
+# ios_developer_df['job'] = 'ios developer'
+indeed_df = pd.concat([data_scientist_df, web_developer_df, ux_designer_df], ignore_index=True)
+indeed_df = indeed_df.drop_duplicates(keep=False) 
+indeed_df = indeed_df.reset_index(drop=True)
+
+# Clean up the low and high salaries
+def convert_salary(sal_str, s_flag):
+    
+    sal_split = re.findall(r'\d+', sal_str.replace(",", ""))
+    
+    if len(sal_split) == 2:
+        low_salary = int(sal_split[0])
+        high_salary = int(sal_split[1])
+    else:
+        low_salary = None
+        high_salary = None
+    
+    if s_flag == 'l':
+        salary = low_salary
+    else:
+        salary = high_salary
+    
+    return salary
+
+indeed_df['low_salary'] = indeed_df.apply(lambda x: convert_salary(x['salary'], 'l'), axis=1)
+indeed_df['high_salary'] = indeed_df.apply(lambda x: convert_salary(x['salary'], 'h'), axis=1)
+indeed_df = indeed_df.drop(columns=['salary'])
+
+indeed_df.head()
+
+indeed_df.tail()
+
+
+# convert to sqlite3 and csv
+conn = sqlite3.connect('techsearch.sqlite3')
+curs = conn.cursor()
+curs.execute('drop table if exists listings')
+indeed_df.to_sql('listings', con=conn)
+indeed_df.to_csv('techsearch.csv')
+
+

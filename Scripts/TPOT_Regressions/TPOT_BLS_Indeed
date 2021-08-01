@@ -1,0 +1,1340 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 17 17:06:24 2021
+
+@author: abeerkhokhar
+"""
+import numpy as np
+import pandas as pd
+import sqlite3
+import pandasql
+import seaborn as sns
+import datetime
+import math
+import matplotlib.pyplot as plt
+%matplotlib inline
+import statistics
+
+from tpot import TPOTRegressor
+from tpot.builtins import StackingEstimator
+from tpot.export_utils import set_param_recursive
+
+from sklearn.decomposition import FastICA
+from sklearn.ensemble import GradientBoostingRegressor, ExtraTreesRegressor #, RandomForestRegressor
+from sklearn.kernel_approximation import RBFSampler, Nystroem
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import RepeatedKFold, cross_val_score
+from sklearn.pipeline import make_pipeline, make_union
+from sklearn.svm import LinearSVR
+from sklearn.tree import DecisionTreeRegressor
+
+###########################################################
+###########################################################
+
+df = pd.read_csv('BLS_matches_final.csv')
+print(df)
+
+###########################################################
+###########################################################
+
+## IT PROJECT MANAGER 
+
+
+
+sub_data_ITprojI = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'IT Project Manager' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_ITprojI, columns = dummy_col)
+
+x_IT = dummy_data.drop("y",axis=1)
+y_IT = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_IT, y_IT)
+model.export('tpot_regression_best_model_varr_ITprojMn.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -7.277764857414682
+exported_pipeline = GradientBoostingRegressor(
+    alpha=0.95, learning_rate=0.1, loss="lad", max_depth=9, 
+    max_features=0.7500000000000001, min_samples_leaf=15, min_samples_split=16, 
+    n_estimators=100, subsample=0.55)
+
+# Fix random state in exported estimator
+if hasattr(exported_pipeline, 'random_state'):
+    setattr(exported_pipeline, 'random_state', 1)
+
+IT_model = exported_pipeline.fit(x_IT, y_IT)
+IT_results = exported_pipeline.predict(x_IT)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+IT_scores = cross_val_score(
+    exported_pipeline, x_IT, y_IT, scoring='neg_mean_absolute_error', 
+    cv=cv, n_jobs=-1)
+
+IT_scores=np.absolute(IT_scores)
+IT_mae = ('TPOT IT PROJECT MANAGER MAE: %.3f (%.3f)' % (np.mean(IT_scores), 
+                                                        np.std(IT_scores)))
+IT_mae
+IT_MSE = np.square(np.subtract(y_IT, IT_results)).mean()
+                   
+IT_RMSE = math.sqrt(IT_MSE)
+print("TPOT IT PROJECT MANAGER RMSE: %s" % round(IT_RMSE, 2))
+
+IT_pred = pd.DataFrame()
+count = 2010
+for pred in np.unique(IT_results):
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    IT_pred = IT_pred.append(append_df, ignore_index=True)
+
+###########################################################
+
+## Senior Data Scientist
+
+
+sub_data_SrDataSci = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Senior Data Scientist' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_SrDataSci, columns = dummy_col)
+
+x_DS = dummy_data.drop("y",axis=1)
+y_DS = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_DS, y_DS)
+model.export('tpot_regression_best_model_varr_SrDataSci.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -6.465481409644967
+exported_pipeline = make_pipeline(
+    FastICA(tol=1.0), 
+    ExtraTreesRegressor(bootstrap=True, max_features=0.9500000000000001, 
+                        min_samples_leaf=3, min_samples_split=8, 
+                        n_estimators=100))
+# Fix random state for all the steps in exported pipeline
+set_param_recursive(exported_pipeline.steps, 'random_state', 1)
+
+DS_model = exported_pipeline.fit(x_DS, y_DS)
+DS_results = exported_pipeline.predict(x_DS)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+DS_scores = cross_val_score(exported_pipeline, x_DS, y_DS,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+DS_scores=np.absolute(DS_scores)
+DS_mae = ('TPOT Senior Data Scientist MAE: %.3f (%.3f)' % (np.mean(DS_scores), 
+                                                           np.std(DS_scores)))
+DS_mae
+DS_MSE = np.square(np.subtract(y_DS, DS_results)).mean()
+              
+DS_RMSE = math.sqrt(DS_MSE)
+print("TPOT Senior Data Scientist RMSE: %s" % round(DS_RMSE, 2))
+
+
+DS_pred = pd.DataFrame()
+count = 2010
+preds = [47.3617, 48.2095, 47.2519, 51.2409, 50.7548, 53.7624, 53.3521, 
+         56.4571, 54.6045, 54.507]
+for pred in preds:
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    DS_pred = DS_pred.append(append_df, ignore_index=True)
+
+
+###########################################################
+
+## Software Developer
+
+sub_data_SoftDev = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Software Developer' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_SoftDev, columns = dummy_col)
+
+x_sd = dummy_data.drop("y",axis=1)
+y_sd = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_sd, y_sd)
+model.export('tpot_regression_best_model_varr_SoftDev.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -5.018721170446326
+exported_pipeline = make_pipeline(
+    StackingEstimator(estimator=ExtraTreesRegressor(
+        bootstrap=True, max_features=0.35000000000000003, min_samples_leaf=12, 
+        min_samples_split=6, n_estimators=100)), GradientBoostingRegressor(
+            alpha=0.75, learning_rate=0.5, loss="huber", max_depth=2, 
+            max_features=0.25, min_samples_leaf=12, min_samples_split=5, 
+            n_estimators=100, subsample=0.7000000000000001))
+# # Fix random state in exported estimator
+set_param_recursive(exported_pipeline.steps, 'random_state', 1)
+
+sd_model = exported_pipeline.fit(x_sd, y_sd)
+sd_results = exported_pipeline.predict(x_sd)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+sd_scores = cross_val_score(exported_pipeline, x_sd, y_sd,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+sd_scores=np.absolute(sd_scores)
+sd_mae = ('TPOT Software Developer MAE: %.3f (%.3f)' % (np.mean(sd_scores), 
+                                                        np.std(sd_scores)))
+sd_mae
+sd_MSE = np.square(np.subtract(y_sd, sd_results)).mean()
+                   
+sd_RMSE = math.sqrt(sd_MSE)
+print("TPOT Software Developer RMSE: %s" % round(sd_RMSE, 2))
+
+
+sd_pred = pd.DataFrame()
+count = 2010
+for pred in np.unique(sd_results):
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    sd_pred = sd_pred.append(append_df, ignore_index=True)
+
+
+###########################################################
+
+##Cloud Engineer
+
+sub_data_CldEng = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Cloud Engineer' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_CldEng, columns = dummy_col)
+
+x_cd = dummy_data.drop("y",axis=1)
+y_cd = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_cd, y_cd)
+model.export('tpot_regression_best_model_varr_CloudEng.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -6.141857620212553
+exported_pipeline = make_pipeline(
+    RBFSampler(gamma=0.05), DecisionTreeRegressor(
+        max_depth=2, min_samples_leaf=9, min_samples_split=9))
+# Fix random state for all the steps in exported pipeline
+set_param_recursive(exported_pipeline.steps, 'random_state', 1)
+
+cd_model = exported_pipeline.fit(x_cd, y_cd)
+cd_results = exported_pipeline.predict(x_cd)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+cd_scores = cross_val_score(exported_pipeline, x_cd, y_cd,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+cd_scores=np.absolute(cd_scores)
+cd_mae = ('TPOT Cloud Engineer MAE: %.3f (%.3f)' % (np.mean(cd_scores), 
+                                                    np.std(cd_scores)))
+cd_mae
+cd_MSE = np.square(np.subtract(y_cd, cd_results)).mean()
+                   
+cd_RMSE = math.sqrt(cd_MSE)
+print("TPOT Cloud Engineer RMSE: %s" % round(cd_RMSE, 2))
+
+
+cd_pred = pd.DataFrame()
+count = 2010
+preds = [45.0421, 45.0421, 45.0421, 46.462, 48.7648, 48.7648, 48.7648, 50.7545, 
+         48.7648, 50.7545]
+for pred in preds:
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    cd_pred = cd_pred.append(append_df, ignore_index=True)
+
+
+###########################################################
+
+##Senior Security Analyst
+
+sub_data_SrSecAn = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Senior Security Analyst' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_SrSecAn, columns = dummy_col)
+
+x_sa = dummy_data.drop("y",axis=1)
+y_sa = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_sa, y_sa)
+model.export('tpot_regression_best_model_varr_SrSecAn.py')
+
+#### = Adjust with new py file
+
+
+
+# Average CV score on the training set was: -5.230334838222289
+exported_pipeline = make_pipeline(
+    Nystroem(gamma=0.6000000000000001, kernel="poly", n_components=9),
+    DecisionTreeRegressor(max_depth=8, min_samples_leaf=13, 
+                          min_samples_split=20))
+# Fix random state for all the steps in exported pipeline
+set_param_recursive(exported_pipeline.steps, 'random_state', 1)
+
+sa_model = exported_pipeline.fit(x_sa, y_sa)
+sa_results = exported_pipeline.predict(x_sa)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+sa_scores = cross_val_score(exported_pipeline, x_sa, y_sa,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+sa_scores=np.absolute(sa_scores)
+sa_mae = ('TPOT Senior Security Analyst MAE: %.3f (%.3f)' % (np.mean(sa_scores), 
+                                                             np.std(sa_scores)))
+sa_mae
+sa_MSE = np.square(np.subtract(y_sa, sa_results)).mean()
+                   
+sa_RMSE = math.sqrt(sa_MSE)
+print("TPOT Senior Security Analyst RMSE: %s" % round(sa_RMSE, 2))
+
+
+sa_pred = pd.DataFrame()
+count = 2012
+preds = [38.4927, 43.133, 41.5264, 42.4787, 41.7011, 43.133, 43.133, 44.3058]
+for pred in preds:
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    sa_pred = sa_pred.append(append_df, ignore_index=True)
+
+###########################################################
+
+##User Experience (UX) Developer
+
+
+sub_data_UXdev = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'User Experience (UX) Developer' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_UXdev, columns = dummy_col)
+
+x_ux = dummy_data.drop("y",axis=1)
+y_ux = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_ux, y_ux)
+model.export('tpot_regression_best_model_varr_UXDev.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -4.401289869893828
+exported_pipeline = LinearSVR(C=25.0, dual=True, epsilon=0.01, 
+                              loss="epsilon_insensitive", tol=0.001)
+# Fix random state in exported estimator
+if hasattr(exported_pipeline, 'random_state'):
+    setattr(exported_pipeline, 'random_state', 1)
+
+ux_model = exported_pipeline.fit(x_ux, y_ux)
+ux_results = exported_pipeline.predict(x_ux)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+ux_scores = cross_val_score(exported_pipeline, x_ux, y_ux,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+ux_scores=np.absolute(ux_scores)
+ux_mae = ('TPOT UX Developer MAE: %.3f (%.3f)' % (np.mean(ux_scores), 
+                                                  np.std(ux_scores)))
+ux_mae
+ux_MSE = np.square(np.subtract(y_ux, ux_results)).mean()
+                   
+ux_RMSE = math.sqrt(ux_MSE)
+print("TPOT UX Developer RMSE: %s" % round(ux_RMSE, 2))
+
+
+ux_pred = pd.DataFrame()
+count = 2012
+for pred in np.unique(ux_results):
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    ux_pred = ux_pred.append(append_df, ignore_index=True)
+
+###########################################################
+
+##Senior Computer Security Systems Specialist
+
+sub_data_SCSSS = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Senior Computer Security Systems Specialist' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_SCSSS, columns = dummy_col)
+
+x_scsss = dummy_data.drop("y",axis=1)
+y_scsss = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_scsss, y_scsss)
+model.export('tpot_regression_best_model_varr_scsss.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -2.7130326643436997
+exported_pipeline = LinearSVR(C=5.0, dual=True, epsilon=1.0, 
+                              loss="epsilon_insensitive", tol=0.0001)
+# # Fix random state in exported estimator
+if hasattr(exported_pipeline, 'random_state'):
+    setattr(exported_pipeline, 'random_state', 1)
+
+scsss_model = exported_pipeline.fit(x_scsss, y_scsss)
+scsss_results = exported_pipeline.predict(x_scsss)
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+scsss_scores = cross_val_score(exported_pipeline, x_scsss, y_scsss,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+scsss_scores=np.absolute(scsss_scores)
+scsss_mae = (
+    'TPOT Senior Computer Security Systems Specialist MAE: %.3f (%.3f)' % 
+    (np.mean(scsss_scores), np.std(scsss_scores)))
+scsss_mae
+scsss_MSE = np.square(np.subtract(y_scsss, scsss_results)).mean()
+                   
+scsss_RMSE = math.sqrt(scsss_MSE)
+print("TPOT Senior Computer Security Systems Specialist RMSE: %s" % 
+      round(scsss_RMSE, 2))
+
+
+scsss_pred = pd.DataFrame()
+count = 2012
+for pred in np.unique(scsss_results):
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    scsss_pred = scsss_pred.append(append_df, ignore_index=True)
+
+
+###########################################################
+
+##Test Automation Engineer
+
+
+
+sub_data_TestAutEng = pandasql.sqldf(
+    "Select H_MEAN as y, REPLACE(Year, '/', '-') as x from df where Allwyn = 'Test Automation Engineer ' ;", 
+    globals())
+dummy_col = ['x']
+dummy_data = pd.get_dummies(sub_data_TestAutEng, columns = dummy_col)
+
+x_tae = dummy_data.drop("y",axis=1)
+y_tae = dummy_data["y"]
+
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+model = TPOTRegressor(
+    generations=5, population_size=50, scoring='neg_mean_absolute_error', 
+    cv=cv, verbosity=2, random_state=1)
+
+model.fit(x_tae, y_tae)
+model.export('tpot_regression_best_model_varr_testauteng.py')
+
+#### = Adjust with new py file
+
+
+# Average CV score on the training set was: -5.1874682580534275
+exported_pipeline = LinearSVR(C=5.0, dual=True, epsilon=0.01, 
+                              loss="epsilon_insensitive", tol=0.0001)
+# # Fix random state in exported estimator
+if hasattr(exported_pipeline, 'random_state'):
+    setattr(exported_pipeline, 'random_state', 1)
+
+tae_model = exported_pipeline.fit(x_tae, y_tae)
+tae_results = exported_pipeline.predict(x_tae)
+
+
+
+#### The above needs to be adjusted w/new PY file 
+
+
+## RUN THE BELOW WITH THE NEW PY FILE 
+tae_scores = cross_val_score(exported_pipeline, x_tae, y_tae,
+                        scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+
+tae_scores=np.absolute(tae_scores)
+tae_mae = ('TPOT Test Automation Engineer MAE: %.3f (%.3f)' % (np.mean(tae_scores), 
+                                                               np.std(tae_scores)))
+tae_mae
+tae_MSE = np.square(np.subtract(y_tae, tae_results)).mean()
+                   
+tae_RMSE = math.sqrt(tae_MSE)
+print("TPOT Test Automation Engineer RMSE: %s" % round(tae_RMSE, 2))
+
+
+tae_pred = pd.DataFrame()
+count = 2010
+for pred in np.unique(tae_results):
+    append_df = pd.DataFrame({
+        'Year':count,
+        'prediction':pred},
+        index=[0])
+    count += 1
+    tae_pred = tae_pred.append(append_df, ignore_index=True)
+
+###########################################################
+###########################################################
+
+################################# MEAN & MEDIAN DATAFRAMES
+
+# IT Project Manager
+it_pm_i = df[df['Allwyn'] == 'IT Project Manager']
+it_pm_i_wages = pd.DataFrame()
+for date in range(2010,2020):
+    job = 'IT Project Manager'
+    temp_data = it_pm_i[it_pm_i['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    it_pm_i_wages = it_pm_i_wages.append(append_df, ignore_index=True)
+
+# Senior Computer Security Systems Specialist
+comp_sec_syst = df[df['Allwyn'] == 'Senior Computer Security Systems Specialist']
+comp_sec_syst_wages = pd.DataFrame()
+for date in range(2012,2020):
+    job = 'Senior Computer Security Systems Specialist'
+    temp_data = comp_sec_syst[comp_sec_syst['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    comp_sec_syst_wages = comp_sec_syst_wages.append(append_df, ignore_index=True)
+
+# Senior Security Analyst
+sen_sec_an = df[df['Allwyn'] == 'Senior Security Analyst']
+sen_sec_an_wages = pd.DataFrame()
+for date in range(2012,2020):
+    job = 'Senior Security Analyst'
+    temp_data = sen_sec_an[sen_sec_an['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    sen_sec_an_wages = sen_sec_an_wages.append(append_df, ignore_index=True)
+
+# Cloud Engineer
+cloud_eng = df[df['Allwyn'] == 'Cloud Engineer']
+cloud_eng_wages = pd.DataFrame()
+for date in range(2010,2020):
+    job = 'Cloud Engineer'
+    temp_data = cloud_eng[cloud_eng['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    cloud_eng_wages = cloud_eng_wages.append(append_df, ignore_index=True)
+
+# Senior Data Scientist
+sen_data_sci = df[df['Allwyn'] == 'Senior Data Scientist']
+sen_data_sci_wages = pd.DataFrame()
+for date in range(2010,2020):
+    job = 'Senior Data Scientist'
+    temp_data = sen_data_sci[sen_data_sci['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    sen_data_sci_wages = sen_data_sci_wages.append(append_df, ignore_index=True)
+
+# User Experience (UX) Developer
+ux_dev = df[df['Allwyn'] == 'User Experience (UX) Developer']
+ux_dev_wages = pd.DataFrame()
+for date in range(2012,2019):
+    job = 'User Experience (UX) Developer'
+    temp_data = ux_dev[ux_dev['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    ux_dev_wages = ux_dev_wages.append(append_df, ignore_index=True)
+
+# Software Developer
+soft_dev_i = df[df['Allwyn'] == 'Software Developer']
+soft_dev_i_wages = pd.DataFrame()
+for date in range(2010,2019):
+    job = 'Software Developer'
+    temp_data = soft_dev_i[soft_dev_i['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    soft_dev_i_wages = soft_dev_i_wages.append(append_df, ignore_index=True)
+
+# Test Automation Engineer
+test_eng = df[df['Allwyn'] == 'Test Automation Engineer ']
+test_eng_wages = pd.DataFrame()
+for date in range(2010, 2020):
+    job = 'Test Automation Engineer'
+    temp_data = test_eng[test_eng['Year'] == date]
+    temp_mean_wage = statistics.mean(temp_data['H_MEAN'])
+    temp_median_wage = statistics.median(temp_data['H_MEDIAN'])
+    append_df = pd.DataFrame({
+        'Allwyn':job,
+        'year':date,
+        'mean_wage':temp_mean_wage,
+        'median_wage':temp_median_wage},
+        index=[0])
+    test_eng_wages = test_eng_wages.append(append_df, ignore_index=True)
+
+###########################################################
+###########################################################
+
+################################# PREDICTION REGRESSIONS
+
+# IT Project Manager I
+y = np.array(IT_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+it_i_line_df = pd.DataFrame()
+current_wage = 43.42 ### comes from current local indeed rate
+count = 1
+it_i_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * it_i_slope
+    it_i_line_df = it_i_line_df.append({'Year':date, 'predicted_wage':pred}, ignore_index=True)
+    count+=1
+
+
+# IT Project Manager III
+y = np.array(IT_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+it_iii_line_df = pd.DataFrame()
+current_wage = 58.75 ### comes from current local indeed rate
+count = 1
+it_iii_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * it_iii_slope
+    it_iii_line_df = it_iii_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                           ignore_index=True)
+    count+=1
+
+
+# Senior Computer Security Systems Specialist
+y = np.array(scsss_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+scsss_line_df = pd.DataFrame()
+current_wage = 59.47 ### comes from current local indeed rate
+count = 1
+scsss_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * scsss_slope
+    scsss_line_df = scsss_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                         ignore_index=True)
+    count+=1
+
+
+# Senior Security Analyst
+y = np.array(sa_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+sa_line_df = pd.DataFrame()
+current_wage = 62.09 ### comes from current local indeed rate
+count = 1
+sa_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * sa_slope
+    sa_line_df = sa_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                    ignore_index=True)
+    count+=1
+
+
+# Cloud Engineer
+y = np.array(cd_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+cd_line_df = pd.DataFrame()
+current_wage = 61.14 ### comes from current local indeed rate
+count = 1
+cd_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * cd_slope
+    cd_line_df = cd_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+# Senior Data Scientist
+y = np.array(DS_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+DS_line_df = pd.DataFrame()
+current_wage = 56.38 ### comes from current local indeed rate
+count = 1
+DS_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * DS_slope
+    DS_line_df = DS_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+# User Experience (UX) Developer
+y = np.array(ux_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+ux_line_df = pd.DataFrame()
+current_wage = 39.78 ### comes from current local indeed rate
+count = 1
+ux_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * ux_slope
+    ux_line_df = ux_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+# Software Developer I
+y = np.array(sd_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+sd_i_line_df = pd.DataFrame()
+current_wage = 56.61 ### comes from current local indeed rate
+count = 1
+sd_i_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * sd_i_slope
+    sd_i_line_df = sd_i_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+# Software Developer III
+y = np.array(sd_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+sd_iii_line_df = pd.DataFrame()
+current_wage = 78.47 ### comes from current local indeed rate
+count = 1
+sd_iii_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * sd_iii_slope
+    sd_iii_line_df = sd_iii_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+# Test Automation Engineer
+y = np.array(tae_pred['prediction']).reshape(-1,1)
+x = np.array(list(range(0,len(y)))).reshape(-1,1)
+model = LinearRegression().fit(x,y)
+
+tae_line_df = pd.DataFrame()
+current_wage = 55.22 ### comes from current local indeed rate
+count = 1
+tae_slope = model.coef_[0][0]
+
+for date in range(2021,2026):
+    pred = current_wage + count * tae_slope
+    tae_line_df = tae_line_df.append({'Year':date, 'predicted_wage':pred}, 
+                                          ignore_index=True)
+    count+=1
+
+
+###########################################################
+###########################################################
+
+################################# GRAPHS
+
+#### IT Project Manager I
+fig, ax = plt.subplots(figsize=(16,12))
+
+# IT Project Manager I all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'IT Project Manager'], x='Year', y='H_MEAN', 
+    s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# IT Project Manager I mean wages
+sns.scatterplot(data=it_pm_i_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# IT Project Manager I median wages
+sns.scatterplot(data=it_pm_i_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=it_i_line_df, x='Year', y='predicted_wage', color='purple', 
+             mec="none", ls='--', marker='D',markersize=10, linewidth=3, 
+             label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=IT_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("IT Project Manager I Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+               shadow=True, ncol=1, prop={'size':14},
+               bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/it_pm_i.png', bbox_inches='tight')
+
+
+#### IT Project Manager III
+fig, ax = plt.subplots(figsize=(16,12))
+
+# IT Project Manager III all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'IT Project Manager'], x='Year', y='H_MEAN', 
+    s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# IT Project Manager III mean wages
+sns.scatterplot(data=it_pm_i_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# IT Project Manager III median wages
+sns.scatterplot(data=it_pm_i_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=it_iii_line_df, x='Year', y='predicted_wage', color='purple', 
+             mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+             label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=IT_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("IT Project Manager III Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+               shadow=True, ncol=1, prop={'size':14},
+               bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/it_pm_iii.png', bbox_inches='tight')
+
+
+#### Senior Computer Security Systems Specialist
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Senior Computer Security Systems Specialist all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Senior Computer Security Systems Specialist'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Senior Computer Security Systems Specialist mean wages
+sns.scatterplot(data=comp_sec_syst_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Senior Computer Security Systems Specialist median wages
+sns.scatterplot(data=comp_sec_syst_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=scsss_line_df, x='Year', y='predicted_wage', color='purple', 
+             mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+             label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=scsss_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Senior Computer Security Systems Specialist Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+               shadow=True, ncol=1, prop={'size':14},
+               bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/sen_comp_sec_sys_spec.png', bbox_inches='tight')
+
+
+
+#### Senior Security Analyst
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Senior Security Analyst all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Senior Security Analyst'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Senior Security Analyst mean wages
+sns.scatterplot(data=sen_sec_an_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Senior Security Analyst median wages
+sns.scatterplot(data=sen_sec_an_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=sa_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=sa_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Senior Security Analyst Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/sen_sec_analyst.png', bbox_inches='tight')
+
+
+
+#### Cloud Engineer
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Cloud Engineer all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Cloud Engineer'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Cloud Engineer mean wages
+sns.scatterplot(data=cloud_eng_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Cloud Engineer median wages
+sns.scatterplot(data=cloud_eng_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=cd_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=cd_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Cloud Engineer Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/cloud_eng.png', bbox_inches='tight')
+
+
+
+#### Senior Data Scientist
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Senior Data Scientist all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Senior Data Scientist'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Senior Data Scientist mean wages
+sns.scatterplot(data=sen_data_sci_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# # Senior Data Scientist median wages
+sns.scatterplot(data=sen_data_sci_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# # 5 year prediction
+sns.lineplot(data=DS_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# # TPOT Regression Predictions
+sns.scatterplot(data=DS_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Senior Data Scientist Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/5_sen_data_sci.png', bbox_inches='tight')
+
+
+
+#### User Experience (UX) Developer
+fig, ax = plt.subplots(figsize=(16,12))
+
+# User Experience (UX) Developer all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'User Experience (UX) Developer'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# User Experience (UX) Developer mean wages
+sns.scatterplot(data=ux_dev_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# User Experience (UX) Developer median wages
+sns.scatterplot(data=ux_dev_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=ux_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=ux_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("User Experience (UX) Developer Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/ux_dev.png', bbox_inches='tight')
+
+
+
+#### Software Developer I
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Software Developer I all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Software Developer'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Software Developer I mean wages
+sns.scatterplot(data=soft_dev_i_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Software Developer I median wages
+sns.scatterplot(data=soft_dev_i_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=sd_i_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=sd_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Software Developer I Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/soft_dev_i.png', bbox_inches='tight')
+
+
+
+#### Software Developer III
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Software Developer III all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Software Developer'], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Software Developer III mean wages
+sns.scatterplot(data=soft_dev_i_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Software Developer III median wages
+sns.scatterplot(data=soft_dev_i_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=sd_iii_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=sd_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Software Developer III Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/soft_dev_iii.png', bbox_inches='tight')
+
+
+
+#### Test Automation Engineer
+fig, ax = plt.subplots(figsize=(16,12))
+
+# Test Automation Engineer all wages
+ax = sns.scatterplot(
+    data=df[df['Allwyn'] == 'Test Automation Engineer '], 
+    x='Year', y='H_MEAN', s=25, alpha=0.4, edgecolor="none", 
+    label="Metropoliatan Wages", color='grey')
+
+# Test Automation Engineer mean wages
+sns.scatterplot(data=test_eng_wages, x='year', y='mean_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Mean Wage", 
+                color='red')
+
+# Test Automation Engineer median wages
+sns.scatterplot(data=test_eng_wages, x='year', y='median_wage', s=55, 
+                edgecolor="none", marker='D', label="Metropoliatan Median Wage", 
+                color='blue')
+
+# 5 year prediction
+sns.lineplot(data=tae_line_df, x='Year', y='predicted_wage', color='purple', 
+              mec="none", ls='--', marker='D', markersize=10, linewidth=3, 
+              label='Local Prediction')
+
+# TPOT Regression Predictions
+sns.scatterplot(data=tae_pred, x='Year', y='prediction', s=55, 
+                edgecolor="none", marker='D', label="TPOT Prediction", 
+                color='limegreen')
+
+
+plt.xticks(np.arange(2010, 2026, 1), fontsize=14)
+plt.yticks(fontsize=14)
+plt.xlabel("Year", size = 16)
+plt.ylabel("Hourly Wage", size = 16)
+ax.set_xlim(2009.5, 2025.5)
+ax.set_title("Test Automation Engineer Wage", size = 20)
+
+leg = ax.legend(loc='upper_left', fancybox=True,
+                shadow=True, ncol=1, prop={'size':14},
+                bbox_to_anchor=(.98,.2), markerscale=1)
+for lh in leg.legendHandles:
+    lh.set_alpha(1)
+plt.savefig('final_graphs/test_eng.png', bbox_inches='tight')
+
+
+
+
